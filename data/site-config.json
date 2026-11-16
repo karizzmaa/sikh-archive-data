@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "siteName": "The Sikh Archive",
+  "tagline": "A historical archive of Sikh Empire coin auction records",
+  "homeIntro": "A searchable record of auction appearances of coins issued under the Sikh Empire, with original sources, grades and prices preserved as recorded.",
+  "footerNote": "The Sikh Archive is an independent research archive. Every record cites its original auction source.",
+  "contactLinks": [],
+  "theme": {
+    "accent": "brass",
+    "darkHeader": true
+  },
+  "display": {
+    "defaultCurrency": "original",
+    "resultsPerPage": 24
+  }
+}
