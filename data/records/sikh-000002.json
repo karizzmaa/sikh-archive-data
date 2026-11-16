@@ -6,7 +6,7 @@
   "verification": "verified",
   "adminNotes": null,
   "createdAt": "2026-11-16T11:34:44.622Z",
-  "updatedAt": "2026-11-16T11:49:55.764Z",
+  "updatedAt": "2026-11-16T11:56:43.779Z",
   "coin": {
     "ruler": null,
     "mint": "Amritsar",
@@ -65,14 +65,14 @@
   },
   "images": [
     {
-      "file": "obverse.jpg",
+      "file": "obverse-2.jpg",
       "role": "obverse",
       "caption": null,
       "credit": null,
       "primary": true
     },
     {
-      "file": "obverse.jpg",
+      "file": "reverse.jpg",
       "role": "reverse",
       "caption": null,
       "credit": null,
