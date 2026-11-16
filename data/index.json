@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T12:51:05.780Z",
+  "generatedAt": "2026-11-16T12:56:13.462Z",
   "entries": [
     {
       "id": "sikh-000001",
@@ -317,6 +317,51 @@
       "verification": "verified",
       "createdAt": "2026-11-16T12:51:05.780Z",
       "updatedAt": "2026-11-16T12:51:05.780Z"
+    },
+    {
+      "id": "sikh-000008",
+      "specimenId": null,
+      "title": "SIKH EMPIRE: AR arsiwala shahi rupee (11.09g), Amritsar, VS1863",
+      "ruler": "Maharaja Ranjit Singh",
+      "mint": "Amritsar",
+      "mintRegion": "Punjab",
+      "mintCountry": "SIKH EMPIRE",
+      "denomination": "Rupee",
+      "metal": "Silver",
+      "year": 1863,
+      "yearEnd": null,
+      "yearApprox": false,
+      "dateText": null,
+      "variety": "Arsiwalashai Couplet",
+      "specialities": [
+        "Arsiwalashai Rupee"
+      ],
+      "gradingCompany": "Ungraded",
+      "grade": null,
+      "certNumber": null,
+      "houseId": "stephen-album-rare-coins",
+      "houseName": "Stephen Album Rare Coins",
+      "houseCountry": "USA",
+      "eventId": "stephen-album-rare-coins--9",
+      "eventName": "PREMIER AUCTIONS-Auction 9",
+      "auctionNumber": null,
+      "lotNumber": "856",
+      "auctionDate": null,
+      "auctionLocation": null,
+      "auctionCountry": null,
+      "status": "sold",
+      "currency": "USD",
+      "estimateLow": null,
+      "estimateHigh": null,
+      "hammer": 640,
+      "buyersPremiumPercent": null,
+      "total": null,
+      "totalIncludesPremium": null,
+      "primaryImage": "obverse.jpg",
+      "imageCount": 2,
+      "verification": "verified",
+      "createdAt": "2026-11-16T12:56:13.462Z",
+      "updatedAt": "2026-11-16T12:56:13.462Z"
     }
   ]
 }
