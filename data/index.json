@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T12:48:14.767Z",
+  "generatedAt": "2026-11-16T12:51:05.780Z",
   "entries": [
     {
       "id": "sikh-000001",
@@ -274,6 +274,49 @@
       "verification": "verified",
       "createdAt": "2026-11-16T12:48:14.767Z",
       "updatedAt": "2026-11-16T12:48:14.767Z"
+    },
+    {
+      "id": "sikh-000007",
+      "specimenId": null,
+      "title": "SIKH EMPIRE: AE 2 paise (11.34g), Amritsar, ND, KM-8.4, lovely strike, Very Fine, R.",
+      "ruler": null,
+      "mint": "Amritsar",
+      "mintRegion": "Punjab",
+      "mintCountry": "SIKH EMPIRE",
+      "denomination": "Paisa",
+      "metal": "Copper",
+      "year": null,
+      "yearEnd": null,
+      "yearApprox": false,
+      "dateText": "AE",
+      "variety": null,
+      "specialities": [],
+      "gradingCompany": "Ungraded",
+      "grade": null,
+      "certNumber": null,
+      "houseId": "stephen-album-rare-coins",
+      "houseName": "Stephen Album Rare Coins",
+      "houseCountry": "USA",
+      "eventId": "stephen-album-rare-coins--9",
+      "eventName": "PREMIER AUCTIONS-Auction 9",
+      "auctionNumber": null,
+      "lotNumber": "855",
+      "auctionDate": null,
+      "auctionLocation": null,
+      "auctionCountry": null,
+      "status": "sold",
+      "currency": "USD",
+      "estimateLow": null,
+      "estimateHigh": null,
+      "hammer": 600,
+      "buyersPremiumPercent": null,
+      "total": null,
+      "totalIncludesPremium": null,
+      "primaryImage": "obverse.jpg",
+      "imageCount": 2,
+      "verification": "verified",
+      "createdAt": "2026-11-16T12:51:05.780Z",
+      "updatedAt": "2026-11-16T12:51:05.780Z"
     }
   ]
 }
