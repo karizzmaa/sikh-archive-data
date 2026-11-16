@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T12:16:31.827Z",
+  "generatedAt": "2026-11-16T12:17:39.159Z",
   "entries": [
     {
       "id": "sikh-000001",
@@ -8,7 +8,7 @@
       "title": "SIKH EMPIRE: AR ½ nanakshahi rupee (4.93g), Amritsar, VS[18]92, Herrli-10.05, with date VS1884 on reverse, choice Extremely Fine, R, ex. Eck Prud'homme collection.",
       "ruler": null,
       "mint": "Amritsar",
-      "mintRegion": "Punjab",
+      "mintRegion": "PANJAB",
       "mintCountry": "SIKH EMPIRE",
       "denomination": "Rupee",
       "metal": "Silver",
@@ -46,7 +46,7 @@
       "imageCount": 2,
       "verification": "verified",
       "createdAt": "2026-11-16T11:22:57.356Z",
-      "updatedAt": "2026-11-16T12:03:04.729Z"
+      "updatedAt": "2026-11-16T12:17:39.159Z"
     },
     {
       "id": "sikh-000002",
