@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T11:22:57.357Z",
+  "generatedAt": "2026-11-16T11:34:44.623Z",
   "entries": [
     {
       "id": "sikh-000001",
@@ -46,6 +46,51 @@
       "verification": "verified",
       "createdAt": "2026-11-16T11:22:57.356Z",
       "updatedAt": "2026-11-16T11:22:57.356Z"
+    },
+    {
+      "id": "sikh-000002",
+      "specimenId": null,
+      "title": "SIKH EMPIRE: AR gobindshahi rupee (10.68g), Amritsar, VS1859 & AH12(1)7, Herrli-20.04, Hijri date at top of obverse written as 127 with the second \"1\" omitted, reverse die somewhat worn, Extremely Fine, RR, ex. Eck Prud'homme collection.  The Hijri date is legible only when the strike is sufficiently off center to reveal the date, which was located at the top of the die.",
+      "ruler": null,
+      "mint": "Amritsar",
+      "mintRegion": "Punjab",
+      "mintCountry": "India",
+      "denomination": "Rupee",
+      "metal": "Silver",
+      "year": 1859,
+      "yearEnd": null,
+      "yearApprox": false,
+      "dateText": "AH12(1)7",
+      "variety": null,
+      "specialities": [
+        "Hijri Date"
+      ],
+      "gradingCompany": "Ungraded",
+      "grade": null,
+      "certNumber": null,
+      "houseId": "stephen-album-rare-coins",
+      "houseName": "Stephen Album Rare Coins",
+      "houseCountry": "USA",
+      "eventId": "stephen-album-rare-coins--9",
+      "eventName": "PREMIER AUCTIONS-Auction 9",
+      "auctionNumber": null,
+      "lotNumber": null,
+      "auctionDate": null,
+      "auctionLocation": null,
+      "auctionCountry": null,
+      "status": "unknown",
+      "currency": "USD",
+      "estimateLow": null,
+      "estimateHigh": null,
+      "hammer": 1200,
+      "buyersPremiumPercent": null,
+      "total": 1416,
+      "totalIncludesPremium": true,
+      "primaryImage": "obverse.jpg",
+      "imageCount": 2,
+      "verification": "verified",
+      "createdAt": "2026-11-16T11:34:44.622Z",
+      "updatedAt": "2026-11-16T11:34:44.622Z"
     }
   ]
 }
