@@ -6,7 +6,7 @@
   "verification": "verified",
   "adminNotes": null,
   "createdAt": "2026-11-16T11:34:44.622Z",
-  "updatedAt": "2026-11-16T11:56:43.779Z",
+  "updatedAt": "2026-11-16T12:04:15.243Z",
   "coin": {
     "ruler": null,
     "mint": "Amritsar",
@@ -24,7 +24,8 @@
     "dateText": "AH12(1)7",
     "variety": null,
     "specialities": [
-      "Hijri Date"
+      "Hijri Date",
+      "Eck Prud'homme Collection"
     ],
     "inscriptions": {
       "obverse": null,

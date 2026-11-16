@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T12:03:04.729Z",
+  "generatedAt": "2026-11-16T12:04:15.243Z",
   "entries": [
     {
       "id": "sikh-000001",
@@ -64,7 +64,8 @@
       "dateText": "AH12(1)7",
       "variety": null,
       "specialities": [
-        "Hijri Date"
+        "Hijri Date",
+        "Eck Prud'homme Collection"
       ],
       "gradingCompany": "Ungraded",
       "grade": null,
@@ -91,7 +92,7 @@
       "imageCount": 2,
       "verification": "verified",
       "createdAt": "2026-11-16T11:34:44.622Z",
-      "updatedAt": "2026-11-16T11:56:43.779Z"
+      "updatedAt": "2026-11-16T12:04:15.243Z"
     },
     {
       "id": "sikh-000003",
