@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T12:19:47.393Z",
+  "generatedAt": "2026-11-16T12:28:41.147Z",
   "entries": [
     {
       "id": "sikh-000001",
@@ -34,7 +34,7 @@
       "auctionDate": null,
       "auctionLocation": null,
       "auctionCountry": null,
-      "status": "unknown",
+      "status": "sold",
       "currency": "USD",
       "estimateLow": null,
       "estimateHigh": null,
@@ -46,7 +46,7 @@
       "imageCount": 2,
       "verification": "verified",
       "createdAt": "2026-11-16T11:22:57.356Z",
-      "updatedAt": "2026-11-16T12:17:39.159Z"
+      "updatedAt": "2026-11-16T12:28:41.147Z"
     },
     {
       "id": "sikh-000002",
