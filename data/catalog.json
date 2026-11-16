@@ -83,6 +83,11 @@
       "name": "Peshawar",
       "region": "Khyber Pakhtunkhwa",
       "country": "Pakistan"
+    },
+    {
+      "name": "Anandgarh",
+      "region": "Punjab,India",
+      "country": null
     }
   ],
   "denominations": [
