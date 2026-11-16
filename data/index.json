@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T12:40:57.463Z",
+  "generatedAt": "2026-11-16T12:48:14.767Z",
   "entries": [
     {
       "id": "sikh-000001",
@@ -229,6 +229,51 @@
       "verification": "verified",
       "createdAt": "2026-11-16T12:40:57.463Z",
       "updatedAt": "2026-11-16T12:40:57.463Z"
+    },
+    {
+      "id": "sikh-000006",
+      "specimenId": null,
+      "title": "SIKH EMPIRE: AR ½ rupee (5.50g), Amritsar, VS[18]86, KM-19.2, choice Very Fine to Extremely Fine, RR.",
+      "ruler": null,
+      "mint": "Amritsar",
+      "mintRegion": "Punjab",
+      "mintCountry": "SIKH EMPIRE",
+      "denomination": "Rupee",
+      "metal": "Silver",
+      "year": 1886,
+      "yearEnd": null,
+      "yearApprox": false,
+      "dateText": null,
+      "variety": null,
+      "specialities": [
+        "HALF RUPEE"
+      ],
+      "gradingCompany": "Ungraded",
+      "grade": null,
+      "certNumber": null,
+      "houseId": "stephen-album-rare-coins",
+      "houseName": "Stephen Album Rare Coins",
+      "houseCountry": "USA",
+      "eventId": "stephen-album-rare-coins--9",
+      "eventName": "PREMIER AUCTIONS-Auction 9",
+      "auctionNumber": null,
+      "lotNumber": "854",
+      "auctionDate": null,
+      "auctionLocation": null,
+      "auctionCountry": null,
+      "status": "sold",
+      "currency": "USD",
+      "estimateLow": null,
+      "estimateHigh": null,
+      "hammer": 1700,
+      "buyersPremiumPercent": null,
+      "total": null,
+      "totalIncludesPremium": null,
+      "primaryImage": "obverse.jpg",
+      "imageCount": 2,
+      "verification": "verified",
+      "createdAt": "2026-11-16T12:48:14.767Z",
+      "updatedAt": "2026-11-16T12:48:14.767Z"
     }
   ]
 }
