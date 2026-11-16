@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T11:56:43.780Z",
+  "generatedAt": "2026-11-16T12:02:01.046Z",
   "entries": [
     {
       "id": "sikh-000001",
@@ -91,6 +91,51 @@
       "verification": "verified",
       "createdAt": "2026-11-16T11:34:44.622Z",
       "updatedAt": "2026-11-16T11:56:43.779Z"
+    },
+    {
+      "id": "sikh-000003",
+      "specimenId": null,
+      "title": "SIKH EMPIRE: AR gobindshahi rupee (10.55g), Amritsar, VS1864, Herrli-20.04, small katar in reverse field, choice Extremely Fine, ex. Eck Prud'homme collection.",
+      "ruler": "Maharaja Ranjit Singh",
+      "mint": "Amritsar",
+      "mintRegion": "Punjab",
+      "mintCountry": "SIKH EMPIRE",
+      "denomination": "Rupee",
+      "metal": "Silver",
+      "year": 1864,
+      "yearEnd": null,
+      "yearApprox": false,
+      "dateText": null,
+      "variety": "Gobindshahi Couplet",
+      "specialities": [
+        "katar"
+      ],
+      "gradingCompany": "Ungraded",
+      "grade": null,
+      "certNumber": null,
+      "houseId": "stephen-album-rare-coins",
+      "houseName": "Stephen Album Rare Coins",
+      "houseCountry": "USA",
+      "eventId": "stephen-album-rare-coins--9",
+      "eventName": "PREMIER AUCTIONS-Auction 9",
+      "auctionNumber": null,
+      "lotNumber": null,
+      "auctionDate": null,
+      "auctionLocation": null,
+      "auctionCountry": null,
+      "status": "unknown",
+      "currency": "USD",
+      "estimateLow": null,
+      "estimateHigh": null,
+      "hammer": 280,
+      "buyersPremiumPercent": null,
+      "total": null,
+      "totalIncludesPremium": false,
+      "primaryImage": "obverse.jpg",
+      "imageCount": 2,
+      "verification": "verified",
+      "createdAt": "2026-11-16T12:02:01.046Z",
+      "updatedAt": "2026-11-16T12:02:01.046Z"
     }
   ]
 }
