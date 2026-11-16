@@ -1,33 +1,108 @@
 {
   "schemaVersion": 1,
   "generatedAt": "2026-11-16T00:00:00Z",
-  "auctionHouses": [],
+  "auctionHouses": [
+    {
+      "id": "stephen-album-rare-coins",
+      "name": "Stephen Album Rare Coins",
+      "country": "USA",
+      "website": "STEVEALBUM.COM",
+      "description": "",
+      "logoUrl": "https://www.stevealbum.net/images/sarc-logo-variant.gif"
+    }
+  ],
   "auctionEvents": [],
   "rulers": [
-    { "name": "Baba Banda Singh Bahadur", "reign": "1708-1716" },
-    { "name": "Sikh Misls (various sardars)", "reign": "1716-1799" },
-    { "name": "Bhangi Misl", "reign": "1750s-1790s" },
-    { "name": "Ahluvalia Misl", "reign": "1750s-1790s" },
-    { "name": "Kanhaiya Misl", "reign": "1750s-1790s" },
-    { "name": "Sukerchakia Misl", "reign": "1750s-1799" },
-    { "name": "Maharaja Ranjit Singh", "reign": "1801-1839" },
-    { "name": "Maharaja Kharak Singh", "reign": "1839-1840" },
-    { "name": "Maharaja Nao Nihal Singh", "reign": "1839-1840" },
-    { "name": "Maharaja Sher Singh", "reign": "1841-1843" },
-    { "name": "Maharaja Duleep Singh", "reign": "1843-1849" }
+    {
+      "name": "Baba Banda Singh Bahadur",
+      "reign": "1708-1716"
+    },
+    {
+      "name": "Sikh Misls (various sardars)",
+      "reign": "1716-1799"
+    },
+    {
+      "name": "Bhangi Misl",
+      "reign": "1750s-1790s"
+    },
+    {
+      "name": "Ahluvalia Misl",
+      "reign": "1750s-1790s"
+    },
+    {
+      "name": "Kanhaiya Misl",
+      "reign": "1750s-1790s"
+    },
+    {
+      "name": "Sukerchakia Misl",
+      "reign": "1750s-1799"
+    },
+    {
+      "name": "Maharaja Ranjit Singh",
+      "reign": "1801-1839"
+    },
+    {
+      "name": "Maharaja Kharak Singh",
+      "reign": "1839-1840"
+    },
+    {
+      "name": "Maharaja Nao Nihal Singh",
+      "reign": "1839-1840"
+    },
+    {
+      "name": "Maharaja Sher Singh",
+      "reign": "1841-1843"
+    },
+    {
+      "name": "Maharaja Duleep Singh",
+      "reign": "1843-1849"
+    }
   ],
   "mints": [
-    { "name": "Amritsar", "region": "Punjab", "country": "India" },
-    { "name": "Lahore", "region": "Punjab", "country": "Pakistan" },
-    { "name": "Multan", "region": "Punjab", "country": "Pakistan" },
-    { "name": "Srinagar", "region": "Jammu and Kashmir", "country": "India" },
-    { "name": "Peshawar", "region": "Khyber Pakhtunkhwa", "country": "Pakistan" }
+    {
+      "name": "Amritsar",
+      "region": "Punjab",
+      "country": "India"
+    },
+    {
+      "name": "Lahore",
+      "region": "Punjab",
+      "country": "Pakistan"
+    },
+    {
+      "name": "Multan",
+      "region": "Punjab",
+      "country": "Pakistan"
+    },
+    {
+      "name": "Srinagar",
+      "region": "Jammu and Kashmir",
+      "country": "India"
+    },
+    {
+      "name": "Peshawar",
+      "region": "Khyber Pakhtunkhwa",
+      "country": "Pakistan"
+    }
   ],
-  "denominations": ["Mohur", "Rupee", "Paisa"],
-  "metals": ["Gold", "Silver", "Copper"],
+  "denominations": [
+    "Mohur",
+    "Rupee",
+    "Paisa"
+  ],
+  "metals": [
+    "Gold",
+    "Silver",
+    "Copper"
+  ],
   "varieties": [],
   "specialities": [],
-  "gradingCompanies": ["NGC", "PCGS", "Other", "Ungraded"],
+  "gradingCompanies": [
+    "NGC",
+    "PCGS",
+    "Other",
+    "Ungraded"
+  ],
   "countries": [
     "India",
     "Pakistan",
