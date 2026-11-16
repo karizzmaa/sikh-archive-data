@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T11:50:59.950Z",
+  "generatedAt": "2026-11-16T11:55:14.328Z",
   "entries": [
     {
       "id": "sikh-000001",
@@ -41,11 +41,11 @@
       "buyersPremiumPercent": null,
       "total": null,
       "totalIncludesPremium": false,
-      "primaryImage": "obverse.jpg",
+      "primaryImage": "obverse-2.jpg",
       "imageCount": 2,
       "verification": "verified",
       "createdAt": "2026-11-16T11:22:57.356Z",
-      "updatedAt": "2026-11-16T11:50:59.950Z"
+      "updatedAt": "2026-11-16T11:55:14.328Z"
     },
     {
       "id": "sikh-000002",
