@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T12:29:43.755Z",
+  "generatedAt": "2026-11-16T12:32:17.024Z",
   "entries": [
     {
       "id": "sikh-000001",
@@ -122,11 +122,11 @@
       "eventId": "stephen-album-rare-coins--9",
       "eventName": "PREMIER AUCTIONS-Auction 9",
       "auctionNumber": null,
-      "lotNumber": null,
+      "lotNumber": "851",
       "auctionDate": null,
       "auctionLocation": null,
       "auctionCountry": null,
-      "status": "unknown",
+      "status": "sold",
       "currency": "USD",
       "estimateLow": null,
       "estimateHigh": null,
@@ -138,7 +138,7 @@
       "imageCount": 2,
       "verification": "verified",
       "createdAt": "2026-11-16T12:02:01.046Z",
-      "updatedAt": "2026-11-16T12:19:47.393Z"
+      "updatedAt": "2026-11-16T12:32:17.024Z"
     },
     {
       "id": "sikh-000004",
