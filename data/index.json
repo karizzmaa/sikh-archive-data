@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T12:56:13.462Z",
+  "generatedAt": "2026-11-16T13:00:59.820Z",
   "entries": [
     {
       "id": "sikh-000001",
@@ -362,6 +362,51 @@
       "verification": "verified",
       "createdAt": "2026-11-16T12:56:13.462Z",
       "updatedAt": "2026-11-16T12:56:13.462Z"
+    },
+    {
+      "id": "sikh-000009",
+      "specimenId": null,
+      "title": "SIKH EMPIRE: AR nanakshahi rupee (10.64g), Amritsar, VS1844",
+      "ruler": "Sikh Misls (various sardars)",
+      "mint": "Amritsar",
+      "mintRegion": "Punjab",
+      "mintCountry": "SIKH EMPIRE",
+      "denomination": "Rupee",
+      "metal": "Silver",
+      "year": 1844,
+      "yearEnd": null,
+      "yearApprox": false,
+      "dateText": null,
+      "variety": "Nanakshahi Couplet",
+      "specialities": [
+        "Guru Nanak Era Date"
+      ],
+      "gradingCompany": "Ungraded",
+      "grade": null,
+      "certNumber": null,
+      "houseId": "stephen-album-rare-coins",
+      "houseName": "Stephen Album Rare Coins",
+      "houseCountry": "USA",
+      "eventId": "stephen-album-rare-coins--9",
+      "eventName": "PREMIER AUCTIONS-Auction 9",
+      "auctionNumber": null,
+      "lotNumber": "857",
+      "auctionDate": null,
+      "auctionLocation": null,
+      "auctionCountry": null,
+      "status": "sold",
+      "currency": "USD",
+      "estimateLow": null,
+      "estimateHigh": null,
+      "hammer": 290,
+      "buyersPremiumPercent": null,
+      "total": null,
+      "totalIncludesPremium": null,
+      "primaryImage": "obverse.jpg",
+      "imageCount": 2,
+      "verification": "verified",
+      "createdAt": "2026-11-16T13:00:59.820Z",
+      "updatedAt": "2026-11-16T13:00:59.820Z"
     }
   ]
 }
