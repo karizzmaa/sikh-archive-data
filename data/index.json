@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T12:17:39.159Z",
+  "generatedAt": "2026-11-16T12:18:46.252Z",
   "entries": [
     {
       "id": "sikh-000001",
@@ -54,7 +54,7 @@
       "title": "SIKH EMPIRE: AR gobindshahi rupee (10.68g), Amritsar, VS1859 & AH12(1)7, Herrli-20.04, Hijri date at top of obverse written as 127 with the second \"1\" omitted, reverse die somewhat worn, Extremely Fine, RR, ex. Eck Prud'homme collection.  The Hijri date is legible only when the strike is sufficiently off center to reveal the date, which was located at the top of the die.",
       "ruler": null,
       "mint": "Amritsar",
-      "mintRegion": "Punjab",
+      "mintRegion": "PANJAB",
       "mintCountry": "SIKH EMPIRE",
       "denomination": "Rupee",
       "metal": "Silver",
@@ -92,7 +92,7 @@
       "imageCount": 2,
       "verification": "verified",
       "createdAt": "2026-11-16T11:34:44.622Z",
-      "updatedAt": "2026-11-16T12:04:15.243Z"
+      "updatedAt": "2026-11-16T12:18:46.252Z"
     },
     {
       "id": "sikh-000003",
