@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T11:49:55.764Z",
+  "generatedAt": "2026-11-16T11:50:59.950Z",
   "entries": [
     {
       "id": "sikh-000001",
@@ -9,7 +9,7 @@
       "ruler": null,
       "mint": "Amritsar",
       "mintRegion": "Punjab",
-      "mintCountry": "India",
+      "mintCountry": "SIKH EMPIRE",
       "denomination": "Rupee",
       "metal": "Silver",
       "year": 1892,
@@ -45,7 +45,7 @@
       "imageCount": 2,
       "verification": "verified",
       "createdAt": "2026-11-16T11:22:57.356Z",
-      "updatedAt": "2026-11-16T11:22:57.356Z"
+      "updatedAt": "2026-11-16T11:50:59.950Z"
     },
     {
       "id": "sikh-000002",
