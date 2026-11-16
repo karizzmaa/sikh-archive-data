@@ -66,6 +66,10 @@
     {
       "name": "Maharaja Duleep Singh",
       "reign": "1843-1849"
+    },
+    {
+      "name": "Sikh Misls",
+      "reign": null
     }
   ],
   "mints": [
@@ -153,7 +157,8 @@
     "HALF RUPEE",
     "Hijri Date",
     "katar",
-    "Eck Prud'homme Collection"
+    "Eck Prud'homme Collection",
+    "MISL PERIOD"
   ],
   "gradingCompanies": [
     "NGC",

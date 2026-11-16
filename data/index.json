@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T12:05:17.754Z",
+  "generatedAt": "2026-11-16T12:16:31.827Z",
   "entries": [
     {
       "id": "sikh-000001",
@@ -139,6 +139,51 @@
       "verification": "verified",
       "createdAt": "2026-11-16T12:02:01.046Z",
       "updatedAt": "2026-11-16T12:05:17.754Z"
+    },
+    {
+      "id": "sikh-000004",
+      "specimenId": null,
+      "title": "SIKH EMPIRE: AR rupee (11.18g), Amritsar, VS1841 year 3xx, KM-A20.3, bold strike, Extremely Fine.",
+      "ruler": "Sikh Misls",
+      "mint": "Amritsar",
+      "mintRegion": "PANJAB",
+      "mintCountry": "SIKH EMPIRE",
+      "denomination": "Rupee",
+      "metal": "Silver",
+      "year": 1841,
+      "yearEnd": null,
+      "yearApprox": false,
+      "dateText": null,
+      "variety": null,
+      "specialities": [
+        "MISL PERIOD"
+      ],
+      "gradingCompany": "Ungraded",
+      "grade": null,
+      "certNumber": null,
+      "houseId": "stephen-album-rare-coins",
+      "houseName": "Stephen Album Rare Coins",
+      "houseCountry": "USA",
+      "eventId": "stephen-album-rare-coins--9",
+      "eventName": "PREMIER AUCTIONS-Auction 9",
+      "auctionNumber": null,
+      "lotNumber": null,
+      "auctionDate": null,
+      "auctionLocation": null,
+      "auctionCountry": null,
+      "status": "unknown",
+      "currency": "USD",
+      "estimateLow": null,
+      "estimateHigh": null,
+      "hammer": 200,
+      "buyersPremiumPercent": null,
+      "total": null,
+      "totalIncludesPremium": false,
+      "primaryImage": "obverse.jpg",
+      "imageCount": 2,
+      "verification": "verified",
+      "createdAt": "2026-11-16T12:16:31.826Z",
+      "updatedAt": "2026-11-16T12:16:31.826Z"
     }
   ]
 }
