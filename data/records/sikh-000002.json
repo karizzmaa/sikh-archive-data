@@ -6,7 +6,7 @@
   "verification": "verified",
   "adminNotes": null,
   "createdAt": "2026-11-16T11:34:44.622Z",
-  "updatedAt": "2026-11-16T12:29:43.755Z",
+  "updatedAt": "2026-11-16T12:33:38.742Z",
   "coin": {
     "ruler": null,
     "mint": "Amritsar",
@@ -40,7 +40,7 @@
     "eventId": "stephen-album-rare-coins--9",
     "eventName": "PREMIER AUCTIONS-Auction 9",
     "auctionNumber": null,
-    "lotNumber": "852",
+    "lotNumber": "850",
     "date": null,
     "location": null,
     "country": null,
