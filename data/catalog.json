@@ -149,7 +149,9 @@
     "Nanakshahi Couplet",
     "Gobindshahi Couplet"
   ],
-  "specialities": [],
+  "specialities": [
+    "HALF RUPEE"
+  ],
   "gradingCompanies": [
     "NGC",
     "PCGS",

@@ -1,5 +1,51 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T00:00:00Z",
-  "entries": []
+  "generatedAt": "2026-11-16T11:22:57.357Z",
+  "entries": [
+    {
+      "id": "sikh-000001",
+      "specimenId": null,
+      "title": "SIKH EMPIRE: AR ½ nanakshahi rupee (4.93g), Amritsar, VS[18]92, Herrli-10.05, with date VS1884 on reverse, choice Extremely Fine, R, ex. Eck Prud'homme collection.",
+      "ruler": null,
+      "mint": "Amritsar",
+      "mintRegion": "Punjab",
+      "mintCountry": "India",
+      "denomination": "Rupee",
+      "metal": "Silver",
+      "year": 1892,
+      "yearEnd": null,
+      "yearApprox": false,
+      "dateText": "VS1884 [FROZEN]",
+      "variety": "Nanakshahi Couplet",
+      "specialities": [
+        "HALF RUPEE"
+      ],
+      "gradingCompany": "Ungraded",
+      "grade": null,
+      "certNumber": null,
+      "houseId": "stephen-album-rare-coins",
+      "houseName": "Stephen Album Rare Coins",
+      "houseCountry": "USA",
+      "eventId": "stephen-album-rare-coins--9",
+      "eventName": "PREMIER AUCTIONS-Auction 9",
+      "auctionNumber": null,
+      "lotNumber": "849",
+      "auctionDate": null,
+      "auctionLocation": null,
+      "auctionCountry": null,
+      "status": "unknown",
+      "currency": "USD",
+      "estimateLow": null,
+      "estimateHigh": null,
+      "hammer": 1100,
+      "buyersPremiumPercent": null,
+      "total": null,
+      "totalIncludesPremium": false,
+      "primaryImage": "obverse.jpg",
+      "imageCount": 2,
+      "verification": "verified",
+      "createdAt": "2026-11-16T11:22:57.356Z",
+      "updatedAt": "2026-11-16T11:22:57.356Z"
+    }
+  ]
 }
