@@ -6,7 +6,7 @@
   "verification": "verified",
   "adminNotes": null,
   "createdAt": "2026-11-17T00:34:12.152Z",
-  "updatedAt": "2026-11-17T00:34:12.152Z",
+  "updatedAt": "2026-11-17T00:35:14.692Z",
   "coin": {
     "ruler": null,
     "mint": "Amritsar",
@@ -47,7 +47,7 @@
     "location": null,
     "country": null,
     "url": null,
-    "status": "unknown"
+    "status": "sold"
   },
   "grading": {
     "company": "Ungraded",
