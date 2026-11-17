@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T00:22:21.556Z",
+  "generatedAt": "2026-11-17T00:34:12.152Z",
   "entries": [
     {
       "id": "sikh-000001",
@@ -452,6 +452,52 @@
       "verification": "verified",
       "createdAt": "2026-11-16T13:05:27.271Z",
       "updatedAt": "2026-11-16T13:05:27.271Z"
+    },
+    {
+      "id": "sikh-000011",
+      "specimenId": null,
+      "title": "Lot 859  SIKH EMPIRE: AE paisa (9.12g), Amritsar, ND",
+      "ruler": null,
+      "mint": "Amritsar",
+      "mintRegion": "Punjab",
+      "mintCountry": "SIKH EMPIRE",
+      "denomination": "Paisa",
+      "metal": "Copper",
+      "year": null,
+      "yearEnd": null,
+      "yearApprox": false,
+      "dateText": "AE",
+      "variety": null,
+      "specialities": [
+        "Eck Prud'homme Collection",
+        "katar"
+      ],
+      "gradingCompany": "Ungraded",
+      "grade": null,
+      "certNumber": null,
+      "houseId": "stephen-album-rare-coins",
+      "houseName": "Stephen Album Rare Coins",
+      "houseCountry": "USA",
+      "eventId": "stephen-album-rare-coins--9",
+      "eventName": "PREMIER AUCTIONS-Auction 9",
+      "auctionNumber": null,
+      "lotNumber": "859",
+      "auctionDate": null,
+      "auctionLocation": null,
+      "auctionCountry": null,
+      "status": "unknown",
+      "currency": "USD",
+      "estimateLow": null,
+      "estimateHigh": null,
+      "hammer": 120,
+      "buyersPremiumPercent": null,
+      "total": 141.6,
+      "totalIncludesPremium": false,
+      "primaryImage": "obverse.jpg",
+      "imageCount": 2,
+      "verification": "verified",
+      "createdAt": "2026-11-17T00:34:12.152Z",
+      "updatedAt": "2026-11-17T00:34:12.152Z"
     }
   ]
 }
