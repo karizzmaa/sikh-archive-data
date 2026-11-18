@@ -1,0 +1,86 @@
+{
+  "id": "sikh-000035",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR rupee (11.13g), Dar al-Saltana Lahore, VS1841",
+  "description": "KM-64, bold strike, lovely toning, choice Extremely Fine.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-18T13:17:48.413Z",
+  "updatedAt": "2026-11-18T13:17:48.413Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Lahore",
+    "mintRegion": "Punjab",
+    "mintCountry": "SIKH EMPIRE",
+    "denomination": "Rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": 11.13,
+    "diameter": null,
+    "dieAxis": null,
+    "year": 1841,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": null,
+    "variety": "NIL",
+    "specialities": [
+      "NIL"
+    ],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "NIL"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--9",
+    "eventName": "PREMIER AUCTIONS-Auction 9",
+    "auctionNumber": null,
+    "lotNumber": "883",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "NIL",
+    "certNumber": "NIL",
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 190,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "obverse.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": null,
+      "primary": true
+    },
+    {
+      "file": "reverse.jpg",
+      "role": "reverse",
+      "caption": null,
+      "credit": null,
+      "primary": false
+    }
+  ],
+  "sources": []
+}

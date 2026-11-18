@@ -1,0 +1,86 @@
+{
+  "id": "sikh-000013",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR rupee (10.72g), Derajat, VS1898",
+  "description": "KM-120.2, full bold strike, nicely toned, choice Extremely Fine.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-18T13:17:48.244Z",
+  "updatedAt": "2026-11-18T13:17:48.244Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Derajat Dera Ghazi khan",
+    "mintRegion": "Punjab",
+    "mintCountry": "SIKH EMPIRE",
+    "denomination": "Rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": 10.72,
+    "diameter": null,
+    "dieAxis": null,
+    "year": 1898,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": null,
+    "variety": "NIL",
+    "specialities": [
+      "NIL"
+    ],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "km 120.2"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--9",
+    "eventName": "PREMIER AUCTIONS-Auction 9",
+    "auctionNumber": null,
+    "lotNumber": "861",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "NIL",
+    "certNumber": "NIL",
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 260,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "obverse.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": null,
+      "primary": true
+    },
+    {
+      "file": "reverse.jpg",
+      "role": "reverse",
+      "caption": null,
+      "credit": null,
+      "primary": false
+    }
+  ],
+  "sources": []
+}

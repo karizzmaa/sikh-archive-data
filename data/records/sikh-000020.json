@@ -1,0 +1,86 @@
+{
+  "id": "sikh-000020",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR rupee (11.09g), Kashmir, VS1884",
+  "description": "Herrli-21.04, KM-46.18., pentagram and Persian letter K added on obverse, initial of Kirpa Ram, governor 1827-1830, line across the pipal leaf on the reverse, Very Fine to Extremely Fine, R, ex. Eck Prud'homme collection.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-18T13:17:48.339Z",
+  "updatedAt": "2026-11-18T13:17:48.339Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Kashmir",
+    "mintRegion": "Jammu and Kashmir",
+    "mintCountry": "SIKH EMPIRE",
+    "denomination": "Rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": 11.09,
+    "diameter": null,
+    "dieAxis": null,
+    "year": 1884,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "NIL",
+    "variety": "NIL",
+    "specialities": [
+      "NIL"
+    ],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "Herrli-21.04"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--9",
+    "eventName": "PREMIER AUCTIONS-Auction 9",
+    "auctionNumber": null,
+    "lotNumber": "868",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "NIL",
+    "certNumber": "NIL",
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 1900,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "obverse.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": null,
+      "primary": true
+    },
+    {
+      "file": "reverse.jpg",
+      "role": "reverse",
+      "caption": null,
+      "credit": null,
+      "primary": false
+    }
+  ],
+  "sources": []
+}

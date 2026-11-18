@@ -1,0 +1,86 @@
+{
+  "id": "sikh-000016",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR rupee (10.87g), Kashmir, VS1897",
+  "description": "Herrli-46.04, KM-51., sword through circle & \"Y\"-shape below, all on obverse, choice About Uncirculated, ex. Eck Prud'homme collection.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-18T13:17:48.321Z",
+  "updatedAt": "2026-11-18T13:17:48.321Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Kashmir",
+    "mintRegion": "Jammu and Kashmir",
+    "mintCountry": "SIKH EMPIRE",
+    "denomination": "Rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": 10.87,
+    "diameter": null,
+    "dieAxis": null,
+    "year": 1897,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "NIL",
+    "variety": "NIL",
+    "specialities": [
+      "SWORD"
+    ],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "Herrli-46.04"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--9",
+    "eventName": "PREMIER AUCTIONS-Auction 9",
+    "auctionNumber": null,
+    "lotNumber": "864",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "NIL",
+    "certNumber": "NIL",
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 540,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "obverse.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": null,
+      "primary": true
+    },
+    {
+      "file": "reverse.jpg",
+      "role": "reverse",
+      "caption": null,
+      "credit": null,
+      "primary": false
+    }
+  ],
+  "sources": []
+}

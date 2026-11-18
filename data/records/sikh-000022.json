@@ -1,0 +1,86 @@
+{
+  "id": "sikh-000022",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AE 2 paisa (15.54g), Kashmir, ND",
+  "description": "Herrli-—, KM-—., citing Guru Gobind / mint + word khatta, all in Persian, dated (12)8x, with last digit probably 6, usual crude strike, Very Fine, RR, ex. Eck Prud'homme collection.\n\nObverse as KM-40.2 and Herrli-82.11, reverse as KM-41.7 and Herrli-71.11.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-18T13:17:48.348Z",
+  "updatedAt": "2026-11-18T13:17:48.348Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Kashmir",
+    "mintRegion": "Jammu and Kashmir",
+    "mintCountry": "SIKH EMPIRE",
+    "denomination": "Paisa",
+    "metal": "Copper",
+    "fineness": null,
+    "weight": 15.54,
+    "diameter": null,
+    "dieAxis": null,
+    "year": 1000,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "128X",
+    "variety": "NIL",
+    "specialities": [
+      "NIL"
+    ],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "NIL"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--9",
+    "eventName": "PREMIER AUCTIONS-Auction 9",
+    "auctionNumber": null,
+    "lotNumber": "870",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "NIL",
+    "certNumber": "NIL",
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 540,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "obverse.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": null,
+      "primary": true
+    },
+    {
+      "file": "reverse.jpg",
+      "role": "reverse",
+      "caption": null,
+      "credit": null,
+      "primary": false
+    }
+  ],
+  "sources": []
+}

@@ -152,7 +152,8 @@
   "varieties": [
     "Nanakshahi Couplet",
     "Gobindshahi Couplet",
-    "Arsiwalashai Couplet"
+    "Arsiwalashai Couplet",
+    "NIL"
   ],
   "specialities": [
     "HALF RUPEE",
@@ -162,7 +163,10 @@
     "MISL PERIOD",
     "ERROR COIN",
     "Arsiwalashai Rupee",
-    "Guru Nanak Era Date"
+    "Guru Nanak Era Date",
+    "NIL",
+    "SWORD",
+    "Machine Struck"
   ],
   "gradingCompanies": [
     "NGC",
