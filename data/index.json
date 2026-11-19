@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T13:17:48.437Z",
+  "generatedAt": "2026-11-19T12:11:44.292Z",
   "entries": [
     {
       "id": "sikh-000001",
@@ -1987,6 +1987,55 @@
       "verification": "verified",
       "createdAt": "2026-11-18T13:17:48.434Z",
       "updatedAt": "2026-11-18T13:17:48.434Z"
+    },
+    {
+      "id": "sikh-000042",
+      "specimenId": null,
+      "title": "SIKH EMPIRE: AR rupee (10.75g), Kashmir, VS1876. VF",
+      "description": "SIKH EMPIRE: AR rupee (10.75g), Kashmir, VS1876, KM-46.2, Herrli-06.02, first year of Sikh coinage at Kashmir, VF.",
+      "weight": 10.75,
+      "references": [
+        "KM-46",
+        "Herrli-06.02"
+      ],
+      "ruler": null,
+      "mint": "Kashmir",
+      "mintRegion": "Jammu and Kashmir",
+      "mintCountry": "Sikh Empire",
+      "denomination": "rupee",
+      "metal": "Silver",
+      "year": null,
+      "yearEnd": null,
+      "yearApprox": false,
+      "dateText": "VS1876. VF",
+      "variety": null,
+      "specialities": [],
+      "gradingCompany": "Ungraded",
+      "grade": "VF",
+      "certNumber": null,
+      "houseId": "stephen-album-rare-coins",
+      "houseName": "Stephen Album Rare Coins",
+      "houseCountry": "USA",
+      "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-auction-30",
+      "eventName": "Stephen Album Rare Coins   Auction 30",
+      "auctionNumber": null,
+      "lotNumber": "2548",
+      "auctionDate": null,
+      "auctionLocation": null,
+      "auctionCountry": null,
+      "status": "sold",
+      "currency": "USD",
+      "estimateLow": null,
+      "estimateHigh": null,
+      "hammer": 90,
+      "buyersPremiumPercent": null,
+      "total": null,
+      "totalIncludesPremium": null,
+      "primaryImage": "https://media.liveauctiongroup.net/i/33320/28669835_1.jpg",
+      "imageCount": 2,
+      "verification": "verified",
+      "createdAt": "2026-11-19T12:11:44.291Z",
+      "updatedAt": "2026-11-19T12:11:44.291Z"
     }
   ]
 }
