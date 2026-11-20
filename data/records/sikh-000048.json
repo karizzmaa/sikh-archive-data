@@ -1,0 +1,91 @@
+{
+  "id": "sikh-000048",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AE paisa (9.61g), [Amritsar], ND",
+  "description": "SIKH EMPIRE: AE paisa (9.61g), [Amritsar], ND, KM-7.15, four-petal flower in reverse center, Fine to Very Fine, R.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-20T01:52:23.997Z",
+  "updatedAt": "2026-11-20T01:52:23.997Z",
+  "coin": {
+    "ruler": null,
+    "mint": "[Amritsar]",
+    "mintRegion": null,
+    "mintCountry": "Sikh Empire",
+    "denomination": "paisa",
+    "metal": "Copper",
+    "fineness": null,
+    "weight": 9.61,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": null,
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-7"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins---auction-10",
+    "eventName": "Stephen Album Rare Coins - Auction 10",
+    "auctionNumber": null,
+    "lotNumber": "1433",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "Very Fine",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 85,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-10491047-1",
+      "url": "https://media.liveauctiongroup.net/i/9628/10491047_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    },
+    {
+      "file": "sarc-10491047-2",
+      "url": "https://media.liveauctiongroup.net/i/9628/10491047_2.jpg",
+      "role": "reverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": false
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AE-paisa-9-61g-Amritsar-ND_i10491047"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "sikh-000057",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR gobindshahi rupee (10.97g), Amritsar, VS1841 / AH11xx",
+  "description": "SIKH EMPIRE: AR gobindshahi rupee (10.97g), Amritsar, VS1841 / AH11xx, KM-A20.2, Herrli-01.18.04, Hijri date atop obverse field, bold Extremely Fine, R.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-20T01:52:23.998Z",
+  "updatedAt": "2026-11-20T01:52:23.998Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Amritsar",
+    "mintRegion": "Punjab",
+    "mintCountry": "Sikh Empire",
+    "denomination": "gobindshahi rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": 10.97,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS1841 / AH11xx",
+    "variety": "Gobindshahi Couplet",
+    "specialities": [
+      "FLOWER KATAR"
+    ],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "Herrli-01.18.04"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins---auction-10",
+    "eventName": "Stephen Album Rare Coins - Auction 10",
+    "auctionNumber": null,
+    "lotNumber": "1442",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "Extremely Fine",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 120,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-10491056-1",
+      "url": "https://media.liveauctiongroup.net/i/9628/10491056_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    },
+    {
+      "file": "sarc-10491056-2",
+      "url": "https://media.liveauctiongroup.net/i/9628/10491056_2.jpg",
+      "role": "reverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": false
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AR-gobindshahi-rupee-10-97g-Amritsar-VS1841-AH11xx_i10491056"
+    }
+  ]
+}

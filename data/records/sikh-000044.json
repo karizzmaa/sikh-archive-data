@@ -1,0 +1,91 @@
+{
+  "id": "sikh-000044",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AE paisa (10.27g), [Amritsar], VS188(5)",
+  "description": "SIKH EMPIRE: AE paisa (10.27g), [Amritsar], VS188(5), KM-7.1, date below pipal leaf, last digit mostly off flan, nice Fine, R.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-20T01:52:23.997Z",
+  "updatedAt": "2026-11-20T01:52:23.997Z",
+  "coin": {
+    "ruler": null,
+    "mint": "[Amritsar]",
+    "mintRegion": null,
+    "mintCountry": "Sikh Empire",
+    "denomination": "paisa",
+    "metal": "Copper",
+    "fineness": null,
+    "weight": 10.27,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS188(5)",
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-7"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins---auction-10",
+    "eventName": "Stephen Album Rare Coins - Auction 10",
+    "auctionNumber": null,
+    "lotNumber": "1429",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "unknown"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "Fine",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": null,
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": null,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-10491043-1",
+      "url": "https://media.liveauctiongroup.net/i/9628/10491043_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    },
+    {
+      "file": "sarc-10491043-2",
+      "url": "https://media.liveauctiongroup.net/i/9628/10491043_2.jpg",
+      "role": "reverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": false
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AE-paisa-10-27g-Amritsar-VS188-5_i10491043"
+    }
+  ]
+}

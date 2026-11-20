@@ -29,6 +29,15 @@
       "date": null,
       "country": null,
       "url": null
+    },
+    {
+      "id": "stephen-album-rare-coins--stephen-album-rare-coins---auction-10",
+      "houseId": "stephen-album-rare-coins",
+      "name": "Stephen Album Rare Coins - Auction 10",
+      "auctionNumber": null,
+      "date": null,
+      "country": null,
+      "url": null
     }
   ],
   "rulers": [
@@ -146,12 +155,27 @@
       "name": "Najibabad",
       "region": "Punjab",
       "country": "SIKH EMPIRE"
+    },
+    {
+      "name": "[Amritsar]",
+      "region": null,
+      "country": "Sikh Empire"
+    },
+    {
+      "name": "Derajat",
+      "region": null,
+      "country": "Sikh Empire"
     }
   ],
   "denominations": [
     "Mohur",
     "Rupee",
-    "Paisa"
+    "Paisa",
+    "heavy paisa",
+    "nanakshahi rupee",
+    "gobindshahi rupee",
+    "mora rupee",
+    "arisi rupee"
   ],
   "metals": [
     "Gold",
@@ -175,7 +199,16 @@
     "Guru Nanak Era Date",
     "NIL",
     "SWORD",
-    "Machine Struck"
+    "Machine Struck",
+    "TRIDENT",
+    "FLAG",
+    "FLOWER KATAR",
+    "FLOWER",
+    "ERROR",
+    "BER LEAF",
+    "OM",
+    "CHHATRA",
+    "HAR"
   ],
   "gradingCompanies": [
     "NGC",
