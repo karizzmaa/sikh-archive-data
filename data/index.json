@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T01:52:24.000Z",
+  "generatedAt": "2026-11-20T15:32:49.995Z",
   "entries": [
     {
       "id": "sikh-000001",
@@ -1937,56 +1937,6 @@
       "verification": "verified",
       "createdAt": "2026-11-18T13:17:48.430Z",
       "updatedAt": "2026-11-18T13:17:48.430Z"
-    },
-    {
-      "id": "sikh-000041",
-      "specimenId": null,
-      "title": "SIKH EMPIRE: AE paisa (8.47g), 1830",
-      "description": "SIKH EMPIRE: AE paisa (8.47g), 1830, KM-Pn1, Herrli-04.20.11, coarsely engraved Persian inscription on machine struck planchet, citing Baba Nanak & Ranjit Singh, Extremely Fine, ex. Eck Prud'homme collection.\n\nHerrli believes this type was a \"token\" issue of the latter part of the 19th century in North India. The manufacturing style would indicate otherwise as high quality striking was not available anywhere in India at this time except at the British government mints in Calcutta, Bombay and Madras. It is possibly a pattern of European origin. This piece reveals a rather large die break across the upper righthand section, suggesting that the die did not survive for many more coins after this piece.",
-      "weight": 8.47,
-      "references": [
-        "Herrli-04.20.11"
-      ],
-      "ruler": null,
-      "mint": null,
-      "mintRegion": null,
-      "mintCountry": "SIKH EMPIRE",
-      "denomination": "Paisa",
-      "metal": "Copper",
-      "year": 1830,
-      "yearEnd": null,
-      "yearApprox": false,
-      "dateText": null,
-      "variety": "NIL",
-      "specialities": [
-        "Machine Struck"
-      ],
-      "gradingCompany": "Ungraded",
-      "grade": "NIL",
-      "certNumber": "NIL",
-      "houseId": "stephen-album-rare-coins",
-      "houseName": "Stephen Album Rare Coins",
-      "houseCountry": "USA",
-      "eventId": "stephen-album-rare-coins--9",
-      "eventName": "PREMIER AUCTIONS-Auction 9",
-      "auctionNumber": null,
-      "lotNumber": "889",
-      "auctionDate": null,
-      "auctionLocation": null,
-      "auctionCountry": null,
-      "status": "sold",
-      "currency": "USD",
-      "estimateLow": null,
-      "estimateHigh": null,
-      "hammer": 400,
-      "buyersPremiumPercent": null,
-      "total": null,
-      "totalIncludesPremium": null,
-      "primaryImage": "obverse.jpg",
-      "imageCount": 2,
-      "verification": "verified",
-      "createdAt": "2026-11-18T13:17:48.434Z",
-      "updatedAt": "2026-11-18T13:17:48.434Z"
     },
     {
       "id": "sikh-000042",
