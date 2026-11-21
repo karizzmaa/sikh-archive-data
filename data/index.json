@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T01:16:14.854Z",
+  "generatedAt": "2026-11-21T01:56:18.536Z",
   "entries": [
     {
       "id": "sikh-000001",
@@ -14876,6 +14876,55 @@
       "verification": "verified",
       "createdAt": "2026-11-21T01:16:14.852Z",
       "updatedAt": "2026-11-21T01:16:14.852Z"
+    },
+    {
+      "id": "sikh-000307",
+      "specimenId": null,
+      "title": "SIKH EMPIRE: AE paisa (11.56g), Amritsar, VS1880",
+      "description": "SIKH EMPIRE: AE paisa (11.56g), Amritsar, VS1880, KM-4, Herrli-01.30.11, lovely strike, clear date & mint name, attractive Very Fine, R.",
+      "weight": 11.56,
+      "references": [
+        "KM-4",
+        "Herrli-01.30.11"
+      ],
+      "ruler": null,
+      "mint": "Amritsar",
+      "mintRegion": "Punjab",
+      "mintCountry": "Sikh Empire",
+      "denomination": "paisa",
+      "metal": "Copper",
+      "year": null,
+      "yearEnd": null,
+      "yearApprox": false,
+      "dateText": "VS1880",
+      "variety": null,
+      "specialities": [],
+      "gradingCompany": "Ungraded",
+      "grade": "Very Fine",
+      "certNumber": null,
+      "houseId": "stephen-album-rare-coins",
+      "houseName": "Stephen Album Rare Coins",
+      "houseCountry": "USA",
+      "eventId": "stephen-album-rare-coins--stephen-album-rare-coins---auction-12",
+      "eventName": "Stephen Album Rare Coins - Auction 12",
+      "auctionNumber": null,
+      "lotNumber": "1141",
+      "auctionDate": null,
+      "auctionLocation": null,
+      "auctionCountry": null,
+      "status": "sold",
+      "currency": "USD",
+      "estimateLow": null,
+      "estimateHigh": null,
+      "hammer": 140,
+      "buyersPremiumPercent": null,
+      "total": null,
+      "totalIncludesPremium": null,
+      "primaryImage": "https://media.liveauctiongroup.net/i/11364/11648215_1.jpg",
+      "imageCount": 2,
+      "verification": "verified",
+      "createdAt": "2026-11-21T01:56:18.535Z",
+      "updatedAt": "2026-11-21T01:56:18.535Z"
     }
   ]
 }
