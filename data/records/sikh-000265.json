@@ -1,0 +1,92 @@
+{
+  "id": "sikh-000265",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AE falus (8.58g), Alkai Peshawar, DM",
+  "description": "SIKH EMPIRE: AE falus (8.58g), Alkai Peshawar, DM, KM-96, Herrli-13.05.11, 5-petal flower / Persian legend, alkai means \"district\", About Very Fine, RR.  AH1265 went from 27 November 1848 to 16 November 1849, from VS1905 to VS1906, the very end of the Sikh Empire. The city of Peshawar was briefly occupied by the Sikh rebels, based in Multan, around October 1848, but the region was shortly afterward by the Afghans under Dost Muhammad, allegedly by the end of November, only to be driven out permanently by the British troops in March 1849. There is also a silver rupee of Peshawar 1265 in the name of Dost Muhammad (Tübingen IM1 B3), but none dated 1264, suggesting the Sikhs may have remained in power after 27 November 1848. This piece may thus have been struck by order of the Sikhs, the Durrani Afghans or the British, or perhaps by all three of them, as it is an anonymous civic coin with no reference to any government. This is the very last coin legally minted at Peshawar, though some recently made modern Indo-Greek and Kushan forgeries are allegedly being made in that city.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-21T01:16:14.851Z",
+  "updatedAt": "2026-11-21T01:16:14.851Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Alkai Peshawar",
+    "mintRegion": null,
+    "mintCountry": "Sikh Empire",
+    "denomination": "falus",
+    "metal": "Copper",
+    "fineness": null,
+    "weight": 8.58,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": null,
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-96",
+      "Herrli-13.05.11"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins---auction-11",
+    "eventName": "Stephen Album Rare Coins - Auction 11",
+    "auctionNumber": null,
+    "lotNumber": "1380",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "Very Fine",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 290,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-11121317-1",
+      "url": "https://media.liveauctiongroup.net/i/10489/11121317_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    },
+    {
+      "file": "sarc-11121317-2",
+      "url": "https://media.liveauctiongroup.net/i/10489/11121317_2.jpg",
+      "role": "reverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": false
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AE-falus-8-58g-Alkai-Peshawar-DM_i11121317"
+    }
+  ]
+}

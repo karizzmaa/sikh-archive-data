@@ -1,0 +1,91 @@
+{
+  "id": "sikh-000232",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AE fulus (9.29g), Multan, 12XX AH",
+  "description": "SIKH EMPIRE: AE fulus (9.29g), Multan, 12XX AH, Herrli-11.05.11, in the name of the Durrani ruler Mahmud Shah, Very Good to Fine. Herrli assigns this type to \"a mint using the mint name Multan, but which was located beyond the borders of the territory effectively controlled by the Sikhs\" (p. 197).",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-21T01:16:14.850Z",
+  "updatedAt": "2026-11-21T01:16:14.850Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Multan",
+    "mintRegion": "Punjab",
+    "mintCountry": "Sikh Empire",
+    "denomination": "fulus",
+    "metal": "Copper",
+    "fineness": null,
+    "weight": 9.29,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": null,
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "Herrli-11.05.11"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins---auction-11",
+    "eventName": "Stephen Album Rare Coins - Auction 11",
+    "auctionNumber": null,
+    "lotNumber": "1346",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "Very Good",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 150,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-11121283-1",
+      "url": "https://media.liveauctiongroup.net/i/10489/11121283_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    },
+    {
+      "file": "sarc-11121283-2",
+      "url": "https://media.liveauctiongroup.net/i/10489/11121283_2.jpg",
+      "role": "reverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": false
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AE-fulus-9-29g-Multan-12XX-AH_i11121283"
+    }
+  ]
+}

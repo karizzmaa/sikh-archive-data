@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 41,
-  "generatedAt": "2026-11-21T00:19:42.824Z",
-  "recordCount": 124,
+  "dataVersion": 42,
+  "generatedAt": "2026-11-21T01:16:14.854Z",
+  "recordCount": 305,
   "index": {
     "file": "index.json",
     "shards": null,

@@ -1,0 +1,89 @@
+{
+  "id": "sikh-000169",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR rupee (8.11g), Kashmir, VS1889",
+  "description": "SIKH EMPIRE: AR rupee (8.11g), Kashmir, VS1889, KM-C50var, Herrli-—, reduced weight standard, final digit of date (\"9\") recut over \"8\", Extremely Fine, RRR.  The local governor of Kashmir, Shaik Gholam, circa VS1889-1891, reduced the weight of the rupee from the standard 10.8-11.0g to the range of 8.0-8.5g, for unknown reasons. Herrli lists two varieties, dated VS1890 (type 06-41-04) and VS1891 (type 06-42.04). Full weight rupees were restored late in VS1891.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-21T01:16:14.848Z",
+  "updatedAt": "2026-11-21T01:16:14.848Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Kashmir",
+    "mintRegion": "Jammu and Kashmir",
+    "mintCountry": "Sikh Empire",
+    "denomination": "rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": 8.11,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS1889",
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins---auction-11",
+    "eventName": "Stephen Album Rare Coins - Auction 11",
+    "auctionNumber": null,
+    "lotNumber": "1283",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "Extremely Fine",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 1200,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-11121220-1",
+      "url": "https://media.liveauctiongroup.net/i/10489/11121220_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    },
+    {
+      "file": "sarc-11121220-2",
+      "url": "https://media.liveauctiongroup.net/i/10489/11121220_2.jpg",
+      "role": "reverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": false
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AR-rupee-8-11g-Kashmir-VS1889_i11121220"
+    }
+  ]
+}
