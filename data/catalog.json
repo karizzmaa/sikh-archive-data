@@ -203,6 +203,11 @@
       "name": "Dera",
       "region": null,
       "country": "Sikh Empire"
+    },
+    {
+      "name": "NM",
+      "region": null,
+      "country": "Sikh Empire"
     }
   ],
   "denominations": [
@@ -232,7 +237,12 @@
     "Nanakshahi Couplet",
     "Gobindshahi Couplet",
     "Arsiwalashai Couplet",
-    "NIL"
+    "NIL",
+    "nanakshahi",
+    "arsiwala shahi",
+    "gobinshahi",
+    "gobindshahi",
+    "mahmudshahi"
   ],
   "specialities": [
     "HALF RUPEE",
