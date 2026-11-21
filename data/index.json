@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T00:00:17.476Z",
+  "generatedAt": "2026-11-21T00:01:25.184Z",
   "entries": [
     {
       "id": "sikh-000001",
@@ -1005,7 +1005,7 @@
       "mintCountry": "SIKH EMPIRE",
       "denomination": "Paisa",
       "metal": "Copper",
-      "year": 1000,
+      "year": null,
       "yearEnd": null,
       "yearApprox": false,
       "dateText": "128X",
@@ -1038,7 +1038,7 @@
       "imageCount": 2,
       "verification": "verified",
       "createdAt": "2026-11-18T13:17:48.348Z",
-      "updatedAt": "2026-11-18T13:17:48.348Z"
+      "updatedAt": "2026-11-21T00:01:25.183Z"
     },
     {
       "id": "sikh-000023",
