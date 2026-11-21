@@ -7,7 +7,7 @@
   "verification": "verified",
   "adminNotes": null,
   "createdAt": "2026-11-18T13:17:48.343Z",
-  "updatedAt": "2026-11-18T13:17:48.343Z",
+  "updatedAt": "2026-11-21T00:00:17.475Z",
   "coin": {
     "ruler": null,
     "mint": "Kashmir",
@@ -19,7 +19,7 @@
     "weight": 8.18,
     "diameter": null,
     "dieAxis": null,
-    "year": 1000,
+    "year": null,
     "yearEnd": null,
     "yearApprox": false,
     "dateText": "188X",
