@@ -1,0 +1,91 @@
+{
+  "id": "sikh-000574",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AE falus (7.75g), Peshawar, DM",
+  "description": "SIKH EMPIRE: AE falus (7.75g), Peshawar, DM, KM-94A. Herrli-—, Gurmukhi text / pipal leaf, with mint name in Persian (falus-i peshawar), Fine, RR.  There is trace of a date above the reverse, perhaps \"91\" for VS1891, well-known date for other Sikh coppers of Peshawar. The reverse die is very similar to the KM illustrated example, perhaps the same die after or before some re-engraving.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-21T04:32:41.832Z",
+  "updatedAt": "2026-11-21T04:32:41.832Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Peshawar",
+    "mintRegion": "Khyber Pakhtunkhwa",
+    "mintCountry": "Sikh Empire",
+    "denomination": "falus",
+    "metal": "Copper",
+    "fineness": null,
+    "weight": 7.75,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": null,
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-94A"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins---auction-15",
+    "eventName": "Stephen Album Rare Coins - Auction 15",
+    "auctionNumber": null,
+    "lotNumber": "1233",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "Fine",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 220,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-15122784-1",
+      "url": "https://media.liveauctiongroup.net/i/14946/15122784_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    },
+    {
+      "file": "sarc-15122784-2",
+      "url": "https://media.liveauctiongroup.net/i/14946/15122784_2.jpg",
+      "role": "reverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": false
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AE-falus-7-75g-Peshawar-DM_i15122784"
+    }
+  ]
+}

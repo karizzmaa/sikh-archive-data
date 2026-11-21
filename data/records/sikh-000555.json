@@ -1,0 +1,92 @@
+{
+  "id": "sikh-000555",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR gobindshahi rupee (11.08g), Mankera, VS1880",
+  "description": "SIKH EMPIRE: AR gobindshahi rupee (11.08g), Mankera, VS1880, KM-72, Herrli-33.03.04, attractive strike, tiny testmark on obverse, date written with both 8's facing evenly upwards, EF, RRR.  Extremely rare mint, formerly and tentatively identified as Malkerian, now confirmed as Mankera, about 50 miles southeast of Dera Ismail Khan (=Derajat). A tediously slow view of Mankera's historic site can be seen at http://www.youtube.com/watch?v=ztnKfuZAvs4.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-21T04:32:41.832Z",
+  "updatedAt": "2026-11-21T04:32:41.832Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Mankera",
+    "mintRegion": "Punjab",
+    "mintCountry": "Sikh Empire",
+    "denomination": "rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": 11.08,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS1880",
+    "variety": "gobindshahi",
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-72",
+      "Herrli-33.03.04"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins---auction-15",
+    "eventName": "Stephen Album Rare Coins - Auction 15",
+    "auctionNumber": null,
+    "lotNumber": "1214",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "EF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 1200,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-15122765-1",
+      "url": "https://media.liveauctiongroup.net/i/14946/15122765_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    },
+    {
+      "file": "sarc-15122765-2",
+      "url": "https://media.liveauctiongroup.net/i/14946/15122765_2.jpg",
+      "role": "reverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": false
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AR-gobindshahi-rupee-11-08g-Mankera-VS1880_i15122765"
+    }
+  ]
+}

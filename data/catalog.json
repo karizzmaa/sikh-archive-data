@@ -74,6 +74,15 @@
       "date": null,
       "country": null,
       "url": null
+    },
+    {
+      "id": "stephen-album-rare-coins--stephen-album-rare-coins---auction-15",
+      "houseId": "stephen-album-rare-coins",
+      "name": "Stephen Album Rare Coins - Auction 15",
+      "auctionNumber": null,
+      "date": null,
+      "country": null,
+      "url": null
     }
   ],
   "rulers": [
@@ -261,6 +270,26 @@
       "name": "ca. 1950s (12.31g",
       "region": null,
       "country": "Sikh Empire"
+    },
+    {
+      "name": "Amritsar (VS1885",
+      "region": null,
+      "country": "Sikh Empire"
+    },
+    {
+      "name": "Dar Jhang\" / Amritsar",
+      "region": null,
+      "country": "Sikh Empire"
+    },
+    {
+      "name": "19th century",
+      "region": null,
+      "country": "Sikh Empire"
+    },
+    {
+      "name": "ca. 1800-1848",
+      "region": null,
+      "country": "Sikh Empire"
     }
   ],
   "denominations": [
@@ -283,7 +312,9 @@
     "1/4 anna",
     "rupees",
     "medallion",
-    "Temple Token"
+    "Temple Token",
+    "dam",
+    "Anonymous"
   ],
   "metals": [
     "Gold",
@@ -304,7 +335,9 @@
     "(9.99g) (Amritsar)",
     "(8.99g) (Amritsar)",
     "mora",
-    "heavy"
+    "heavy",
+    "arsi",
+    "BI"
   ],
   "specialities": [
     "HALF RUPEE",
@@ -333,7 +366,8 @@
     "REEDED EDGE GOLD",
     "ACCUMULATIVE LOT",
     "GOLD TOKEN",
-    "REEDED GOLD"
+    "REEDED GOLD",
+    "DOUBLE LINE"
   ],
   "gradingCompanies": [
     "NGC",

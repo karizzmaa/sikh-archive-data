@@ -1,0 +1,91 @@
+{
+  "id": "sikh-000581",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: Anonymous, 19th century, AE paisa (8.86g), [Dera], uncertain year",
+  "description": "SIKH EMPIRE: Anonymous, 19th century, AE paisa (8.86g), [Dera], uncertain year, KM-—, ra'ij in large letters, with border similar to KM-101.1 / what appears to be single word, samd or samdat, with partial date above, probably \"28\" or \"38\", thus, likely AH1223 or 1238, Fine to VF, RR.  The production mint could be Derajat, which used Hijri dates on the Sikh copper coinage, rather than Dera, which used VS dates.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-21T04:32:41.832Z",
+  "updatedAt": "2026-11-21T04:32:41.832Z",
+  "coin": {
+    "ruler": null,
+    "mint": "19th century",
+    "mintRegion": null,
+    "mintCountry": "Sikh Empire",
+    "denomination": "Anonymous",
+    "metal": null,
+    "fineness": null,
+    "weight": null,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "AE paisa (8.86g)",
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-101"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins---auction-15",
+    "eventName": "Stephen Album Rare Coins - Auction 15",
+    "auctionNumber": null,
+    "lotNumber": "1240",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "unknown"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "Fine",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": null,
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": null,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-15122791-1",
+      "url": "https://media.liveauctiongroup.net/i/14946/15122791_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    },
+    {
+      "file": "sarc-15122791-2",
+      "url": "https://media.liveauctiongroup.net/i/14946/15122791_2.jpg",
+      "role": "reverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": false
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-Anonymous-19th-century-AE-paisa-8-86g-Dera-uncertain-year_i15122791"
+    }
+  ]
+}
