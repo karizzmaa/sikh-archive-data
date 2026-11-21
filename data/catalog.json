@@ -56,6 +56,15 @@
       "date": null,
       "country": null,
       "url": null
+    },
+    {
+      "id": "stephen-album-rare-coins--stephen-album-rare-coins---auction-13",
+      "houseId": "stephen-album-rare-coins",
+      "name": "Stephen Album Rare Coins - Auction 13",
+      "auctionNumber": null,
+      "date": null,
+      "country": null,
+      "url": null
     }
   ],
   "rulers": [
@@ -208,6 +217,41 @@
       "name": "NM",
       "region": null,
       "country": "Sikh Empire"
+    },
+    {
+      "name": "Jammun",
+      "region": null,
+      "country": "Sikh Empire"
+    },
+    {
+      "name": "VS1873",
+      "region": null,
+      "country": "Sikh Empire"
+    },
+    {
+      "name": "3 varieties of VS1842 and 2 gobindshahi rupees VS1841",
+      "region": null,
+      "country": "Sikh Empire"
+    },
+    {
+      "name": "KM-86.1",
+      "region": null,
+      "country": "Sikh Empire"
+    },
+    {
+      "name": "ef condition",
+      "region": null,
+      "country": "Sikh Empire"
+    },
+    {
+      "name": "VS1884 KM-20.1",
+      "region": null,
+      "country": "Sikh Empire"
+    },
+    {
+      "name": "ca. 1950s (12.31g",
+      "region": null,
+      "country": "Sikh Empire"
     }
   ],
   "denominations": [
@@ -226,7 +270,11 @@
     "paisa (7.59g) (Peshawar)",
     "paisa (7.82g) (Peshawar)",
     "falus",
-    "mahmudshahi rupee"
+    "mahmudshahi rupee",
+    "1/4 anna",
+    "rupees",
+    "medallion",
+    "Temple Token"
   ],
   "metals": [
     "Gold",
@@ -242,7 +290,11 @@
     "arsiwala shahi",
     "gobinshahi",
     "gobindshahi",
-    "mahmudshahi"
+    "mahmudshahi",
+    "(8.65g) (Amritsar)",
+    "(9.99g) (Amritsar)",
+    "(8.99g) (Amritsar)",
+    "mora"
   ],
   "specialities": [
     "HALF RUPEE",
@@ -267,7 +319,10 @@
     "HAR",
     "1/4 ANNA",
     "TRISHUL",
-    "SAT"
+    "SAT",
+    "REEDED EDGE GOLD",
+    "ACCUMULATIVE LOT",
+    "GOLD TOKEN"
   ],
   "gradingCompanies": [
     "NGC",
