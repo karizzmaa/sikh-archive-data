@@ -65,6 +65,15 @@
       "date": null,
       "country": null,
       "url": null
+    },
+    {
+      "id": "stephen-album-rare-coins--stephen-album-rare-coins---auction-14",
+      "houseId": "stephen-album-rare-coins",
+      "name": "Stephen Album Rare Coins - Auction 14",
+      "auctionNumber": null,
+      "date": null,
+      "country": null,
+      "url": null
     }
   ],
   "rulers": [
@@ -294,7 +303,8 @@
     "(8.65g) (Amritsar)",
     "(9.99g) (Amritsar)",
     "(8.99g) (Amritsar)",
-    "mora"
+    "mora",
+    "heavy"
   ],
   "specialities": [
     "HALF RUPEE",
@@ -322,7 +332,8 @@
     "SAT",
     "REEDED EDGE GOLD",
     "ACCUMULATIVE LOT",
-    "GOLD TOKEN"
+    "GOLD TOKEN",
+    "REEDED GOLD"
   ],
   "gradingCompanies": [
     "NGC",
