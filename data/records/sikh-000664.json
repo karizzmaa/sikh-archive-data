@@ -1,0 +1,75 @@
+{
+  "id": "sikh-000664",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR nanakshahi rupee, Amritsar, VS1875",
+  "description": "SIKH EMPIRE: AR nanakshahi rupee, Amritsar, VS1875, KM-20.1, Herrli-01.07.04, LOT of 4 pieces, different symbols (two VF with minor testmarks, one EF, one choice AU).",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-22T00:58:46.717Z",
+  "updatedAt": "2026-11-22T00:58:46.717Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Amritsar",
+    "mintRegion": "Punjab",
+    "mintCountry": "Sikh Empire",
+    "denomination": "rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": null,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS1875",
+    "variety": "nanakshahi",
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-20",
+      "Herrli-01.07.04"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins---auction-17",
+    "eventName": "Stephen Album Rare Coins - Auction 17",
+    "auctionNumber": null,
+    "lotNumber": "1351",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "EF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 90,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AR-nanakshahi-rupee-Amritsar-VS1875_i17169884"
+    }
+  ]
+}

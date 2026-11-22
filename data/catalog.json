@@ -92,6 +92,15 @@
       "date": null,
       "country": null,
       "url": null
+    },
+    {
+      "id": "stephen-album-rare-coins--stephen-album-rare-coins---auction-17",
+      "houseId": "stephen-album-rare-coins",
+      "name": "Stephen Album Rare Coins - Auction 17",
+      "auctionNumber": null,
+      "date": null,
+      "country": null,
+      "url": null
     }
   ],
   "rulers": [
@@ -299,6 +308,16 @@
       "name": "ca. 1800-1848",
       "region": null,
       "country": "Sikh Empire"
+    },
+    {
+      "name": "Dar Jhang / Amritsar",
+      "region": null,
+      "country": "Sikh Empire"
+    },
+    {
+      "name": "LOT of 5 silver mahmudshahi rupees",
+      "region": null,
+      "country": "Sikh Empire"
     }
   ],
   "denominations": [
@@ -323,7 +342,10 @@
     "medallion",
     "Temple Token",
     "dam",
-    "Anonymous"
+    "Anonymous",
+    "1/4 rupee",
+    "1/2 rupee",
+    "Derajat mint"
   ],
   "metals": [
     "Gold",
@@ -346,7 +368,9 @@
     "mora",
     "heavy",
     "arsi",
-    "BI"
+    "BI",
+    "morashahi",
+    "arsiwala-shahi"
   ],
   "specialities": [
     "HALF RUPEE",
