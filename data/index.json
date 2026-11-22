@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T01:46:54.345Z",
+  "generatedAt": "2026-11-22T01:47:55.262Z",
   "entries": [
     {
       "id": "sikh-000001",
@@ -28299,11 +28299,11 @@
         "KM-101"
       ],
       "ruler": null,
-      "mint": "19th century",
+      "mint": "Unknown",
       "mintRegion": null,
       "mintCountry": "Sikh Empire",
       "denomination": "Anonymous",
-      "metal": null,
+      "metal": "Copper",
       "year": null,
       "yearEnd": null,
       "yearApprox": false,
@@ -28335,7 +28335,7 @@
       "imageCount": 2,
       "verification": "verified",
       "createdAt": "2026-11-21T04:32:41.832Z",
-      "updatedAt": "2026-11-21T04:32:41.832Z"
+      "updatedAt": "2026-11-22T01:47:54.475Z"
     },
     {
       "id": "sikh-000582",
