@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T23:46:05.929Z",
+  "generatedAt": "2026-11-22T23:47:11.871Z",
   "entries": [
     {
       "id": "sikh-000001",
@@ -6111,8 +6111,8 @@
         "Herrli-01.60"
       ],
       "ruler": null,
-      "mint": "Amritsar (VS1885)",
-      "mintRegion": null,
+      "mint": "Amritsar",
+      "mintRegion": "Punjab",
       "mintCountry": "Sikh Empire",
       "denomination": "paisa",
       "metal": "Copper",
@@ -6149,7 +6149,7 @@
       "imageCount": 2,
       "verification": "verified",
       "createdAt": "2026-11-21T01:16:14.844Z",
-      "updatedAt": "2026-11-21T01:16:14.844Z"
+      "updatedAt": "2026-11-22T23:47:11.152Z"
     },
     {
       "id": "sikh-000128",
