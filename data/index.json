@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T01:40:23.433Z",
+  "generatedAt": "2026-11-22T01:41:45.599Z",
   "entries": [
     {
       "id": "sikh-000001",
@@ -32277,8 +32277,8 @@
         "Herrli-01.09.04"
       ],
       "ruler": null,
-      "mint": "Dar Jhang / Amritsar",
-      "mintRegion": null,
+      "mint": "Amritsar",
+      "mintRegion": "Punjab",
       "mintCountry": "Sikh Empire",
       "denomination": "rupee",
       "metal": "Silver",
@@ -32313,7 +32313,7 @@
       "imageCount": 2,
       "verification": "verified",
       "createdAt": "2026-11-22T00:58:46.717Z",
-      "updatedAt": "2026-11-22T00:58:46.717Z"
+      "updatedAt": "2026-11-22T01:41:44.803Z"
     },
     {
       "id": "sikh-000663",
