@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T01:45:54.396Z",
+  "generatedAt": "2026-11-22T01:46:54.345Z",
   "entries": [
     {
       "id": "sikh-000001",
@@ -21286,8 +21286,8 @@
         "Herrli-01.18.04"
       ],
       "ruler": null,
-      "mint": "3 varieties of VS1842 and 2 gobindshahi rupees VS1841",
-      "mintRegion": null,
+      "mint": "Amritsar",
+      "mintRegion": "Punjab",
       "mintCountry": "Sikh Empire",
       "denomination": "rupees",
       "metal": null,
@@ -21324,7 +21324,7 @@
       "imageCount": 2,
       "verification": "verified",
       "createdAt": "2026-11-21T03:15:09.200Z",
-      "updatedAt": "2026-11-21T03:15:09.200Z"
+      "updatedAt": "2026-11-22T01:46:53.681Z"
     },
     {
       "id": "sikh-000439",
