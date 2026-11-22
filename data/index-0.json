@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T23:44:56.733Z",
+  "generatedAt": "2026-11-22T23:46:05.929Z",
   "entries": [
     {
       "id": "sikh-000001",
@@ -602,7 +602,7 @@
         "KM-120.2"
       ],
       "ruler": null,
-      "mint": "Derajat Dera Ghazi khan",
+      "mint": "Derajat",
       "mintRegion": "Punjab",
       "mintCountry": "SIKH EMPIRE",
       "denomination": "Rupee",
@@ -640,7 +640,7 @@
       "imageCount": 2,
       "verification": "verified",
       "createdAt": "2026-11-18T13:17:48.311Z",
-      "updatedAt": "2026-11-18T13:17:48.311Z"
+      "updatedAt": "2026-11-22T23:46:05.326Z"
     },
     {
       "id": "sikh-000015",
