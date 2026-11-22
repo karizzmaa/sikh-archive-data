@@ -6,7 +6,7 @@
   "verification": "verified",
   "adminNotes": null,
   "createdAt": "2026-11-17T00:34:12.152Z",
-  "updatedAt": "2026-11-17T00:35:14.692Z",
+  "updatedAt": "2026-11-22T23:56:57.455Z",
   "coin": {
     "ruler": null,
     "mint": "Amritsar",
@@ -24,8 +24,7 @@
     "dateText": "AE",
     "variety": null,
     "specialities": [
-      "Eck Prud'homme Collection",
-      "katar"
+      "KATAR"
     ],
     "inscriptions": {
       "obverse": null,
@@ -82,5 +81,6 @@
       "primary": false
     }
   ],
-  "sources": []
+  "sources": [],
+  "description": null
 }
