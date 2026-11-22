@@ -6,11 +6,11 @@
   "verification": "verified",
   "adminNotes": null,
   "createdAt": "2026-11-16T12:02:01.046Z",
-  "updatedAt": "2026-11-16T12:32:17.024Z",
+  "updatedAt": "2026-11-22T23:55:19.111Z",
   "coin": {
     "ruler": "Maharaja Ranjit Singh",
     "mint": "Amritsar",
-    "mintRegion": "PANJAB",
+    "mintRegion": "Punjab",
     "mintCountry": "SIKH EMPIRE",
     "denomination": "Rupee",
     "metal": "Silver",
@@ -24,8 +24,7 @@
     "dateText": null,
     "variety": "Gobindshahi Couplet",
     "specialities": [
-      "katar",
-      "Eck Prud'homme Collection"
+      "KATAR"
     ],
     "inscriptions": {
       "obverse": null,
@@ -82,5 +81,6 @@
       "primary": false
     }
   ],
-  "sources": []
+  "sources": [],
+  "description": null
 }

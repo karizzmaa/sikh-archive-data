@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T23:48:15.070Z",
+  "generatedAt": "2026-11-22T23:55:19.847Z",
   "entries": [
     {
       "id": "sikh-000001",
@@ -98,9 +98,14 @@
       "id": "sikh-000003",
       "specimenId": null,
       "title": "SIKH EMPIRE: AR gobindshahi rupee (10.55g), Amritsar, VS1864, Herrli-20.04, small katar in reverse field, choice Extremely Fine, ex. Eck Prud'homme collection.",
+      "description": null,
+      "weight": 10.55,
+      "references": [
+        "Herrli 20.04"
+      ],
       "ruler": "Maharaja Ranjit Singh",
       "mint": "Amritsar",
-      "mintRegion": "PANJAB",
+      "mintRegion": "Punjab",
       "mintCountry": "SIKH EMPIRE",
       "denomination": "Rupee",
       "metal": "Silver",
@@ -110,8 +115,7 @@
       "dateText": null,
       "variety": "Gobindshahi Couplet",
       "specialities": [
-        "katar",
-        "Eck Prud'homme Collection"
+        "KATAR"
       ],
       "gradingCompany": "Ungraded",
       "grade": null,
@@ -138,7 +142,7 @@
       "imageCount": 2,
       "verification": "verified",
       "createdAt": "2026-11-16T12:02:01.046Z",
-      "updatedAt": "2026-11-16T12:32:17.024Z"
+      "updatedAt": "2026-11-22T23:55:19.111Z"
     },
     {
       "id": "sikh-000004",
