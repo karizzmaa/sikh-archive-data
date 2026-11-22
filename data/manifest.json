@@ -1,12 +1,16 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 65,
-  "generatedAt": "2026-11-22T01:47:55.262Z",
+  "dataVersion": 66,
+  "generatedAt": "2026-11-22T23:43:38.636Z",
   "recordCount": 845,
   "index": {
     "file": "index.json",
-    "shards": null,
-    "shardSize": 2500
+    "shards": [
+      "index-0.json",
+      "index-1.json",
+      "index-2.json"
+    ],
+    "shardSize": 400
   },
   "catalog": "catalog.json",
   "siteConfig": "site-config.json"
