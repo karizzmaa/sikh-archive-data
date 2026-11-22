@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T01:34:02.224Z",
+  "generatedAt": "2026-11-22T01:35:29.266Z",
   "entries": [
     {
       "id": "sikh-000001",
@@ -36776,10 +36776,10 @@
         "Herrli-07.06.04"
       ],
       "ruler": null,
-      "mint": "LOT of 5 silver mahmudshahi rupees",
+      "mint": "Derajat",
       "mintRegion": null,
       "mintCountry": "Sikh Empire",
-      "denomination": "Derajat mint",
+      "denomination": "mahmudshahi rupees",
       "metal": null,
       "year": null,
       "yearEnd": null,
@@ -36812,7 +36812,7 @@
       "imageCount": 0,
       "verification": "verified",
       "createdAt": "2026-11-22T00:58:46.720Z",
-      "updatedAt": "2026-11-22T00:58:46.720Z"
+      "updatedAt": "2026-11-22T01:35:28.501Z"
     },
     {
       "id": "sikh-000755",
