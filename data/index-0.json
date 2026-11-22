@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T23:56:58.280Z",
+  "generatedAt": "2026-11-22T23:58:28.633Z",
   "entries": [
     {
       "id": "sikh-000001",
@@ -869,7 +869,7 @@
       "dateText": "NIL",
       "variety": "NIL",
       "specialities": [
-        "Eck Prud'homme collection"
+        "Eck Prud'homme Collection"
       ],
       "gradingCompany": "Ungraded",
       "grade": "NIL",
@@ -896,7 +896,7 @@
       "imageCount": 2,
       "verification": "verified",
       "createdAt": "2026-11-18T13:17:48.335Z",
-      "updatedAt": "2026-11-18T13:17:48.335Z"
+      "updatedAt": "2026-11-22T23:58:27.989Z"
     },
     {
       "id": "sikh-000020",
