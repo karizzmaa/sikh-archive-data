@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T01:35:29.266Z",
+  "generatedAt": "2026-11-22T01:36:36.566Z",
   "entries": [
     {
       "id": "sikh-000001",
@@ -21337,8 +21337,8 @@
         "Herrli-11.03.04"
       ],
       "ruler": null,
-      "mint": "KM-86.1",
-      "mintRegion": null,
+      "mint": "Amritsar",
+      "mintRegion": "Punjab",
       "mintCountry": "Sikh Empire",
       "denomination": "rupees",
       "metal": null,
@@ -21375,7 +21375,7 @@
       "imageCount": 2,
       "verification": "verified",
       "createdAt": "2026-11-21T03:15:09.200Z",
-      "updatedAt": "2026-11-21T03:15:09.200Z"
+      "updatedAt": "2026-11-22T01:36:35.978Z"
     },
     {
       "id": "sikh-000440",
