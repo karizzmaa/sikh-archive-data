@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T01:31:55.927Z",
+  "generatedAt": "2026-11-22T01:32:58.907Z",
   "entries": [
     {
       "id": "sikh-000001",
@@ -21439,7 +21439,7 @@
         "KM-22"
       ],
       "ruler": null,
-      "mint": "AMRITSAR",
+      "mint": "Amritsar",
       "mintRegion": "Punjab",
       "mintCountry": "Sikh Empire",
       "denomination": "rupees",
@@ -21477,7 +21477,7 @@
       "imageCount": 2,
       "verification": "verified",
       "createdAt": "2026-11-21T03:15:09.200Z",
-      "updatedAt": "2026-11-22T01:30:43.203Z"
+      "updatedAt": "2026-11-22T01:32:58.176Z"
     },
     {
       "id": "sikh-000442",
