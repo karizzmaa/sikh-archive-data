@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T01:44:25.714Z",
+  "generatedAt": "2026-11-22T01:45:54.396Z",
   "entries": [
     {
       "id": "sikh-000001",
@@ -22946,8 +22946,8 @@
         "KM-7"
       ],
       "ruler": null,
-      "mint": "Amritsar (VS1885",
-      "mintRegion": null,
+      "mint": "Amritsar",
+      "mintRegion": "Punjab",
       "mintCountry": "Sikh Empire",
       "denomination": "paisa",
       "metal": "Copper",
@@ -22982,7 +22982,7 @@
       "imageCount": 2,
       "verification": "verified",
       "createdAt": "2026-11-21T04:32:41.830Z",
-      "updatedAt": "2026-11-21T04:32:41.830Z"
+      "updatedAt": "2026-11-22T01:45:53.742Z"
     },
     {
       "id": "sikh-000473",
