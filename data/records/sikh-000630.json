@@ -1,0 +1,89 @@
+{
+  "id": "sikh-000630",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AE paisa (7.93g), Dera, year \"13\"",
+  "description": "SIKH EMPIRE: AE paisa (7.93g), Dera, year \"13\", KM-—, Herrli-—. Va-616, Fine to VF, RRR.  Valentine read the \"date\" as 12, but the top of the \"2\" was not fully legible, whereas on this piece, it is boldly \"3\". The countermark seems to be a repeat of the word rayij, not something like \"ya shaykh\" or something similar suggested by Valentine in his drawing. It is also unclear from the drawing whether the word is a countermark or actually engraved in the obverse die.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-22T00:34:39.173Z",
+  "updatedAt": "2026-11-22T00:34:39.173Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Dera",
+    "mintRegion": null,
+    "mintCountry": "Sikh Empire",
+    "denomination": "paisa",
+    "metal": "Copper",
+    "fineness": null,
+    "weight": 7.93,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": null,
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins---auction-16",
+    "eventName": "Stephen Album Rare Coins - Auction 16",
+    "auctionNumber": null,
+    "lotNumber": "1186",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "Fine",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 360,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-16045184-1",
+      "url": "https://media.liveauctiongroup.net/i/16172/16045184_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    },
+    {
+      "file": "sarc-16045184-2",
+      "url": "https://media.liveauctiongroup.net/i/16172/16045184_2.jpg",
+      "role": "reverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": false
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AE-paisa-7-93g-Dera-year-13_i16045184"
+    }
+  ]
+}

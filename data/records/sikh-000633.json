@@ -1,0 +1,72 @@
+{
+  "id": "sikh-000633",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE:",
+  "description": "SIKH EMPIRE:LOT of 5 copper coins, Amritsar (host to a later off-center strike, VF), Amritsar VS1885/[18]96 (contemporary forgery of standard silver rupee but in copper, AVF), Peshawar (with bird, crude fine), Peshawar (floral design, overstruck on another Peshawar type, crude F-VF), and one unidentified Indian copper coin, lot of 5 pieces.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-22T00:34:39.173Z",
+  "updatedAt": "2026-11-22T00:34:39.173Z",
+  "coin": {
+    "ruler": null,
+    "mint": null,
+    "mintRegion": null,
+    "mintCountry": "Sikh Empire",
+    "denomination": null,
+    "metal": null,
+    "fineness": null,
+    "weight": null,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": null,
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins---auction-16",
+    "eventName": "Stephen Album Rare Coins - Auction 16",
+    "auctionNumber": null,
+    "lotNumber": "1190",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "Fine",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 280,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE_i16045188"
+    }
+  ]
+}

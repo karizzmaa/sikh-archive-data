@@ -83,6 +83,15 @@
       "date": null,
       "country": null,
       "url": null
+    },
+    {
+      "id": "stephen-album-rare-coins--stephen-album-rare-coins---auction-16",
+      "houseId": "stephen-album-rare-coins",
+      "name": "Stephen Album Rare Coins - Auction 16",
+      "auctionNumber": null,
+      "date": null,
+      "country": null,
+      "url": null
     }
   ],
   "rulers": [
@@ -367,7 +376,8 @@
     "ACCUMULATIVE LOT",
     "GOLD TOKEN",
     "REEDED GOLD",
-    "DOUBLE LINE"
+    "DOUBLE LINE",
+    "PLAIN EDGE GOLD"
   ],
   "gradingCompanies": [
     "NGC",
