@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T01:42:59.596Z",
+  "generatedAt": "2026-11-22T01:44:25.714Z",
   "entries": [
     {
       "id": "sikh-000001",
@@ -28786,11 +28786,11 @@
         "Herrli-18.02.11"
       ],
       "ruler": null,
-      "mint": "ca. 1800-1848",
+      "mint": "Unknown",
       "mintRegion": null,
       "mintCountry": "Sikh Empire",
-      "denomination": "Anonymous",
-      "metal": null,
+      "denomination": "Paisa",
+      "metal": "Copper",
       "year": null,
       "yearEnd": null,
       "yearApprox": false,
@@ -28822,7 +28822,7 @@
       "imageCount": 2,
       "verification": "verified",
       "createdAt": "2026-11-21T04:32:41.832Z",
-      "updatedAt": "2026-11-21T04:32:41.832Z"
+      "updatedAt": "2026-11-22T01:44:24.958Z"
     },
     {
       "id": "sikh-000592",
