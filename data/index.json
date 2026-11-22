@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T01:41:45.599Z",
+  "generatedAt": "2026-11-22T01:42:59.596Z",
   "entries": [
     {
       "id": "sikh-000001",
@@ -21535,11 +21535,11 @@
       "weight": null,
       "references": [],
       "ruler": null,
-      "mint": "ca. 1950s (12.31g",
+      "mint": "Temple",
       "mintRegion": null,
       "mintCountry": "Sikh Empire",
       "denomination": "Temple Token",
-      "metal": null,
+      "metal": "Gold",
       "year": null,
       "yearEnd": null,
       "yearApprox": false,
@@ -21573,7 +21573,7 @@
       "imageCount": 2,
       "verification": "verified",
       "createdAt": "2026-11-21T03:15:09.200Z",
-      "updatedAt": "2026-11-21T03:15:09.200Z"
+      "updatedAt": "2026-11-22T01:42:58.577Z"
     },
     {
       "id": "sikh-000444",
