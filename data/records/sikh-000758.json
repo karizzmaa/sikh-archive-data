@@ -1,0 +1,93 @@
+{
+  "id": "sikh-000758",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR 1/4 rupee (2.67g), Amritsar, VS[18]93",
+  "description": "SIKH EMPIRE: AR ¼ rupee (2.67g), Amritsar, VS[18]93, KM-18.3, Herrli-01.11.06, VS1885 atop reverse, somewhat cleaned, VF, R.    Was the KM photo in previous editions, replaced in the latest edition by an example of Herrli-01.12.06.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-22T01:26:09.808Z",
+  "updatedAt": "2026-11-22T01:26:09.808Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Amritsar",
+    "mintRegion": "Punjab",
+    "mintCountry": "Sikh Empire",
+    "denomination": "1/4 rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": 2.67,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": null,
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-18",
+      "Herrli-01.11.06",
+      "Herrli-01.12.06."
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins---auction-18",
+    "eventName": "Stephen Album Rare Coins - Auction 18",
+    "auctionNumber": null,
+    "lotNumber": "1577",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "VF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 700,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-18273367-1",
+      "url": "https://media.liveauctiongroup.net/i/18992/18273367_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    },
+    {
+      "file": "sarc-18273367-2",
+      "url": "https://media.liveauctiongroup.net/i/18992/18273367_2.jpg",
+      "role": "reverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": false
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AR-1-4-rupee-2-67g-Amritsar-VS-18-93_i18273367"
+    }
+  ]
+}
