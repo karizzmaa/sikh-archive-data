@@ -6,7 +6,7 @@
   "verification": "verified",
   "adminNotes": null,
   "createdAt": "2026-11-16T12:56:13.462Z",
-  "updatedAt": "2026-11-16T12:56:13.462Z",
+  "updatedAt": "2026-11-22T23:59:41.963Z",
   "coin": {
     "ruler": "Maharaja Ranjit Singh",
     "mint": "Amritsar",
@@ -23,9 +23,7 @@
     "yearApprox": false,
     "dateText": null,
     "variety": "Arsiwalashai Couplet",
-    "specialities": [
-      "Arsiwalashai Rupee"
-    ],
+    "specialities": [],
     "inscriptions": {
       "obverse": null,
       "reverse": null
@@ -81,5 +79,6 @@
       "primary": false
     }
   ],
-  "sources": []
+  "sources": [],
+  "description": null
 }
