@@ -7,10 +7,10 @@
   "verification": "verified",
   "adminNotes": null,
   "createdAt": "2026-11-23T02:26:43.266Z",
-  "updatedAt": "2026-11-23T02:26:43.266Z",
+  "updatedAt": "2026-11-23T02:51:49.833Z",
   "coin": {
     "ruler": null,
-    "mint": "1830. AU",
+    "mint": null,
     "mintRegion": null,
     "mintCountry": "Sikh Empire",
     "denomination": "paisa",
