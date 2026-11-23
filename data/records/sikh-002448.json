@@ -1,0 +1,81 @@
+{
+  "id": "sikh-002448",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AE falus (11.31g), Peshawar, AH1236 year 3, F-VF",
+  "description": "SIKH EMPIRE: AE falus (11.31g), Peshawar, AH1236 year 3, KM-, Valentine-743var, Album-11, in the name of the Durrani Ayyub, fancy arrangement of mint & regnal year on the reverse; some porosity, F-VF, RRR. Peshawar came under Sikh control in AH1231 (1816 AD), but struck silver coins in the name of the Durrani ruler until AH1246 and copper until AH1239.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T13:12:31.328Z",
+  "updatedAt": "2026-11-23T13:12:31.328Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Peshawar",
+    "mintRegion": "Khyber Pakhtunkhwa",
+    "mintCountry": "Sikh Empire",
+    "denomination": "falus",
+    "metal": "Copper",
+    "fineness": null,
+    "weight": 11.31,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "AH1236 year 3",
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins--auction-50--september-19-22-2024",
+    "eventName": "Stephen Album Rare Coins | Auction 50 | September 19-22, 2024",
+    "auctionNumber": null,
+    "lotNumber": "2575",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "VF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 85,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-53870083-1",
+      "url": "https://media.liveauctiongroup.net/i/68228/53870083_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AE-falus-11-31g-Peshawar-AH1236-year-3-F-VF_i53870083"
+    }
+  ]
+}

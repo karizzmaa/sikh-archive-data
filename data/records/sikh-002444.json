@@ -1,0 +1,92 @@
+{
+  "id": "sikh-002444",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR rupee, Kashmir, VS1902, NGC MS62",
+  "description": "SIKH EMPIRE: AR rupee, Kashmir, VS1902, KM-52.2, Herrli-06.51.04, with the flower before the name Gobind on the obverse, used only in VS1902; above 20% flat strike (not noted on the slab), NGC graded MS62. Date incorrectly called VS1903 on the slab (1903 has a different symbol before \"Gobind\").",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T13:12:31.328Z",
+  "updatedAt": "2026-11-23T13:12:31.328Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Kashmir",
+    "mintRegion": "Jammu and Kashmir",
+    "mintCountry": "Sikh Empire",
+    "denomination": "rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": null,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS1902",
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-52",
+      "Herrli-06.51.04"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins--auction-50--september-19-22-2024",
+    "eventName": "Stephen Album Rare Coins | Auction 50 | September 19-22, 2024",
+    "auctionNumber": null,
+    "lotNumber": "2571",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "NGC",
+    "grade": "MS62",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 90,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-53870079-1",
+      "url": "https://media.liveauctiongroup.net/i/68228/53870079_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    },
+    {
+      "file": "sarc-53870079-2",
+      "url": "https://media.liveauctiongroup.net/i/68228/53870079_2.jpg",
+      "role": "reverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": false
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AR-rupee-Kashmir-VS1902-NGC-MS62_i53870079"
+    }
+  ]
+}

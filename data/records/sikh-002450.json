@@ -1,0 +1,81 @@
+{
+  "id": "sikh-002450",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AE falus (paisa) (8.93g), Peshawar, AH1260 (sic), VF",
+  "description": "SIKH EMPIRE: AE falus (paisa) (8.93g), Peshawar, AH1260 (sic), KM-, cf. Zeno-95817, date error for AH1240; ornate canopy within an ornamental arch, with Arabic phrase 'aqibat ma'mur (\"at the end, all is well\"), date below // mint name in circular frame, decent strike, VF, RR.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T13:12:31.328Z",
+  "updatedAt": "2026-11-23T13:12:31.328Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Peshawar",
+    "mintRegion": "Khyber Pakhtunkhwa",
+    "mintCountry": "Sikh Empire",
+    "denomination": "falus",
+    "metal": "Copper",
+    "fineness": null,
+    "weight": 8.93,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "AH1260 (sic)",
+    "variety": "(paisa)",
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins--auction-50--september-19-22-2024",
+    "eventName": "Stephen Album Rare Coins | Auction 50 | September 19-22, 2024",
+    "auctionNumber": null,
+    "lotNumber": "2577",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "unknown"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "VF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": null,
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": null,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-53870085-1",
+      "url": "https://media.liveauctiongroup.net/i/68228/53870085_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AE-falus-paisa-8-93g-Peshawar-AH1260-sic-VF_i53870085"
+    }
+  ]
+}

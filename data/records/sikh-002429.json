@@ -1,0 +1,83 @@
+{
+  "id": "sikh-002429",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR gobindshahi rupee (10.53g), Amritsar, VS1864, VF-XF",
+  "description": "SIKH EMPIRE: AR gobindshahi rupee (10.53g), Amritsar, VS1864, KM-A20.2, Herrli-01.20.04, VF-XF.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T13:12:31.328Z",
+  "updatedAt": "2026-11-23T13:12:31.328Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Amritsar",
+    "mintRegion": "Punjab",
+    "mintCountry": "Sikh Empire",
+    "denomination": "rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": 10.53,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS1864",
+    "variety": "gobindshahi",
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "Herrli-01.20.04"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins--auction-50--september-19-22-2024",
+    "eventName": "Stephen Album Rare Coins | Auction 50 | September 19-22, 2024",
+    "auctionNumber": null,
+    "lotNumber": "2556",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "XF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 85,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-53870064-1",
+      "url": "https://media.liveauctiongroup.net/i/68228/53870064_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AR-gobindshahi-rupee-10-53g-Amritsar-VS1864-VF-XF_i53870064"
+    }
+  ]
+}
