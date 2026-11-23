@@ -1,0 +1,81 @@
+{
+  "id": "sikh-001980",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AE falus (paisa) (11.43g), Peshawar, AH1239, VF",
+  "description": "SIKH EMPIRE: AE falus (paisa) (11.43g), Peshawar, AH1239, SICA-9:472, SCP-19, SICA-9:472, in the name of the Durrani king Ayyub // peacock right, falus in its body, mint name in its tail, complete date above the peacock's tail, overstruck on uncertain host, some obverse weakness, VF, RRR.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T11:00:45.824Z",
+  "updatedAt": "2026-11-23T11:00:45.824Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Peshawar",
+    "mintRegion": "Khyber Pakhtunkhwa",
+    "mintCountry": "Sikh Empire",
+    "denomination": "falus",
+    "metal": "Copper",
+    "fineness": null,
+    "weight": 11.43,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "AH1239",
+    "variety": "(paisa)",
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-internet-auction-18",
+    "eventName": "Stephen Album Rare Coins   Internet Auction 18",
+    "auctionNumber": null,
+    "lotNumber": "863",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "VF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 80,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-46691611-1",
+      "url": "https://media.liveauctiongroup.net/i/57776/46691611_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AE-falus-paisa-11-43g-Peshawar-AH1239-VF_i46691611"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "sikh-001989",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AE falus or paisa (8.52g), Derajat, AH12xx, VF-EF",
+  "description": "SIKH EMPIRE: AE falus or paisa (8.52g), Derajat, AH12xx, KM-, Herrli-, 6-petal rosette, with the mint formula around, mostly off flan due to a very broad die // Persian rayij (\"current\") with dagger-like symbol, appaers to be unpublished, VF-EF, RRR.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T11:00:45.824Z",
+  "updatedAt": "2026-11-23T11:00:45.824Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Derajat",
+    "mintRegion": null,
+    "mintCountry": "Sikh Empire",
+    "denomination": "paisa",
+    "metal": "Copper",
+    "fineness": null,
+    "weight": 8.52,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "AH12xx",
+    "variety": "falus or",
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-internet-auction-18",
+    "eventName": "Stephen Album Rare Coins   Internet Auction 18",
+    "auctionNumber": null,
+    "lotNumber": "872",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "unknown"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "VF-EF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": null,
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": null,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-46691620-1",
+      "url": "https://media.liveauctiongroup.net/i/57776/46691620_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AE-falus-or-paisa-8-52g-Derajat-AH12xx-VF-EF_i46691620"
+    }
+  ]
+}

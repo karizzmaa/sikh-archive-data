@@ -1,0 +1,84 @@
+{
+  "id": "sikh-001964",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR rupee (11.08g), Amritsar, VS[18]85, EF-AU",
+  "description": "SIKH EMPIRE: AR rupee (11.08g), Amritsar, VS[18]85, KM-20.1, Herrli-01.10.04, VS1884 series, scarce date, bold strike on broad flan, EF-AU",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T11:00:45.823Z",
+  "updatedAt": "2026-11-23T11:00:45.823Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Amritsar",
+    "mintRegion": "Punjab",
+    "mintCountry": "Sikh Empire",
+    "denomination": "rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": 11.08,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": null,
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-20",
+      "Herrli-01.10.04"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-internet-auction-18",
+    "eventName": "Stephen Album Rare Coins   Internet Auction 18",
+    "auctionNumber": null,
+    "lotNumber": "847",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "EF-AU",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 80,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-46691595-1",
+      "url": "https://media.liveauctiongroup.net/i/57776/46691595_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AR-rupee-11-08g-Amritsar-VS-18-85-EF-AU_i46691595"
+    }
+  ]
+}

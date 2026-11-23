@@ -407,6 +407,15 @@
       "date": null,
       "country": null,
       "url": null
+    },
+    {
+      "id": "stephen-album-rare-coins--stephen-album-rare-coins-internet-auction-18",
+      "houseId": "stephen-album-rare-coins",
+      "name": "Stephen Album Rare Coins   Internet Auction 18",
+      "auctionNumber": null,
+      "date": null,
+      "country": null,
+      "url": null
     }
   ],
   "rulers": [
@@ -784,6 +793,16 @@
       "name": "Dera or Derajat",
       "region": null,
       "country": "Sikh Empire"
+    },
+    {
+      "name": "crude VF",
+      "region": null,
+      "country": "Sikh Empire"
+    },
+    {
+      "name": "Dera ND",
+      "region": null,
+      "country": "Sikh Empire"
     }
   ],
   "denominations": [
@@ -912,7 +931,9 @@
     "LOT of silver",
     "LOT of silver of Amristar",
     "LOT of of Derajat mint",
-    "(paisa)"
+    "(paisa)",
+    "(paisa) (7.54g) (Peshawar)",
+    "falus or"
   ],
   "specialities": [
     "HALF RUPEE",
