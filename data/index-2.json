@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T02:26:43.269Z",
+  "generatedAt": "2026-11-23T02:31:57.217Z",
   "entries": [
     {
       "id": "sikh-000802",
@@ -9528,7 +9528,7 @@
       "weight": 10.86,
       "references": [],
       "ruler": null,
-      "mint": "KM-—",
+      "mint": null,
       "mintRegion": null,
       "mintCountry": "Sikh Empire",
       "denomination": "rupee",
@@ -9564,7 +9564,7 @@
       "imageCount": 2,
       "verification": "verified",
       "createdAt": "2026-11-23T01:05:23.903Z",
-      "updatedAt": "2026-11-23T01:05:23.903Z"
+      "updatedAt": "2026-11-23T02:31:56.329Z"
     },
     {
       "id": "sikh-000997",
