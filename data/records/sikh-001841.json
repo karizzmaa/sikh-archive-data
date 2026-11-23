@@ -1,0 +1,92 @@
+{
+  "id": "sikh-001841",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR rupee (9.32g), Nimak, VS1905, VF",
+  "description": "SIKH EMPIRE: AR rupee (9.32g), Nimak, VS1905, KM-88, Herrli-03.01.04, heavily cleaned, perhaps acid cleaned which caused the weight reduction, altogether attractive example, VF. Herrli associates the Nimak mint, which means \"salt\" (in Urdu), with the town of Pin Dadan Khan in the Punjab, an important town at the base of the Salt Range mountains.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T10:49:42.117Z",
+  "updatedAt": "2026-11-23T10:49:42.117Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Nimak",
+    "mintRegion": null,
+    "mintCountry": "Sikh Empire",
+    "denomination": "rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": 9.32,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS1905",
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-88",
+      "Herrli-03.01.04"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-auction-42",
+    "eventName": "Stephen Album Rare Coins   Auction 42",
+    "auctionNumber": null,
+    "lotNumber": "467",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "VF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 300,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-43843363-1",
+      "url": "https://media.liveauctiongroup.net/i/53343/43843363_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    },
+    {
+      "file": "sarc-43843363-2",
+      "url": "https://media.liveauctiongroup.net/i/53343/43843363_2.jpg",
+      "role": "reverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": false
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AR-rupee-9-32g-Nimak-VS1905-VF_i43843363"
+    }
+  ]
+}

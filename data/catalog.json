@@ -353,6 +353,15 @@
       "date": null,
       "country": null,
       "url": null
+    },
+    {
+      "id": "stephen-album-rare-coins--stephen-album-rare-coins-auction-42",
+      "houseId": "stephen-album-rare-coins",
+      "name": "Stephen Album Rare Coins   Auction 42",
+      "auctionNumber": null,
+      "date": null,
+      "country": null,
+      "url": null
     }
   ],
   "rulers": [
@@ -720,6 +729,11 @@
       "name": "Alkay Peshawar",
       "region": null,
       "country": "Sikh Empire"
+    },
+    {
+      "name": "EF",
+      "region": null,
+      "country": "Sikh Empire"
     }
   ],
   "denominations": [
@@ -787,7 +801,8 @@
     "mohurs (8 pieces) in necklace",
     "¼ rupee",
     "½ rupee",
-    "LOT of 26 copper coins"
+    "LOT of 26 copper coins",
+    "late 19th century"
   ],
   "metals": [
     "Gold",
@@ -883,7 +898,8 @@
     "OM  SHRI",
     "HAR JI",
     "GOLD MOHUR NECKLACE",
-    "OM SHRI"
+    "OM SHRI",
+    "GLOD TOKEN"
   ],
   "gradingCompanies": [
     "NGC",

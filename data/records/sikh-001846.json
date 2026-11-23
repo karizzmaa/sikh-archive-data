@@ -1,0 +1,99 @@
+{
+  "id": "sikh-001846",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR rupee, Anandgarh, VS1841, NGC AU53",
+  "description": "SIKH EMPIRE: AR rupee, Anandgarh, VS1841, KM-30, labelled Anandghar on the slab, the old spelling of the city as on the coins, NGC graded AU53.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T10:49:42.118Z",
+  "updatedAt": "2026-11-23T10:49:42.118Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Anandgarh",
+    "mintRegion": "Punjab",
+    "mintCountry": "Sikh Empire",
+    "denomination": "rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": null,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS1841",
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-30"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-auction-42",
+    "eventName": "Stephen Album Rare Coins   Auction 42",
+    "auctionNumber": null,
+    "lotNumber": "2099",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "AU",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 170,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-43850927-1",
+      "url": "https://media.liveauctiongroup.net/i/53343/43850927_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    },
+    {
+      "file": "sarc-43850927-2",
+      "url": "https://media.liveauctiongroup.net/i/53343/43850927_2.jpg",
+      "role": "reverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": false
+    },
+    {
+      "file": "sarc-43850927-3",
+      "url": "https://media.liveauctiongroup.net/i/53343/43850927_3.jpg",
+      "role": "additional",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": false
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AR-rupee-Anandgarh-VS1841-NGC-AU53_i43850927"
+    }
+  ]
+}
