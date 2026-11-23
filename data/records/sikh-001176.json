@@ -1,0 +1,94 @@
+{
+  "id": "sikh-001176",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR rupee (10.88g), Kashmir, VS1876. VF",
+  "description": "SIKH EMPIRE: AR rupee (10.88g), Kashmir, VS1876, KM-46.2, Herrli-06.02.04, sprig mark on obverse, VF.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T01:35:41.605Z",
+  "updatedAt": "2026-11-23T01:35:41.605Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Kashmir",
+    "mintRegion": "Jammu and Kashmir",
+    "mintCountry": "Sikh Empire",
+    "denomination": "rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": 10.88,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS1876. VF",
+    "variety": null,
+    "specialities": [
+      "SPRIG"
+    ],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-46",
+      "Herrli-06.02.04"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins--auction-26",
+    "eventName": "Stephen Album Rare Coins | Auction 26",
+    "auctionNumber": null,
+    "lotNumber": "1982",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "VF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 110,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-25487038-1",
+      "url": "https://media.liveauctiongroup.net/i/29313/25487038_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    },
+    {
+      "file": "sarc-25487038-2",
+      "url": "https://media.liveauctiongroup.net/i/29313/25487038_2.jpg",
+      "role": "reverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": false
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AR-rupee-10-88g-Kashmir-VS1876-VF_i25487038"
+    }
+  ]
+}

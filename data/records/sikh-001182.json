@@ -1,0 +1,92 @@
+{
+  "id": "sikh-001182",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR rupee (10.45g), Peshawar, year 22//year 22. VF-EF",
+  "description": "SIKH EMPIRE: AR rupee (10.45g), Peshawar, year 22//year 22, KM-733 (Afghan), A-3135 (Durrani), in the name of Ayyub Shah, with the regnal year 22 above the name Ayyub on obverse, the former position of the Hijri year, and on the reverse in the normal position, 1 small testmark, VF to EF, RRR.    The regular Sikh rupees of Peshawar (KM-98) were struck VS1891-94 (1834-37), to a standard of about 8.55g. I believe that the Ayyub year 11 rupees without Hijri date were then introduced at Peshawar, as a restoration of the previous nominal rupees struck before 1834 (weight standard about 10.6g). Moreover, the nominal Durrani Mahmud rupees of the nearby mint Derajat were last struck dated AH1252 (1836-37). It seems that the ongoing year 11 type was briefly replaced by this type, year 22 on both sides, as the 22nd regnal year of the by then deceased Ayyub would correspond to 1839-40, of which this piece is the first confirmed example, and the last silver coinage struck at Peshawar.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T01:35:41.606Z",
+  "updatedAt": "2026-11-23T01:35:41.606Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Peshawar",
+    "mintRegion": "Khyber Pakhtunkhwa",
+    "mintCountry": "Sikh Empire",
+    "denomination": "rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": 10.45,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": null,
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-733",
+      "KM-98"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins--auction-26",
+    "eventName": "Stephen Album Rare Coins | Auction 26",
+    "auctionNumber": null,
+    "lotNumber": "1988",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "EF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 400,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-25487044-1",
+      "url": "https://media.liveauctiongroup.net/i/29313/25487044_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    },
+    {
+      "file": "sarc-25487044-2",
+      "url": "https://media.liveauctiongroup.net/i/29313/25487044_2.jpg",
+      "role": "reverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": false
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AR-rupee-10-45g-Peshawar-year-22-year-22-VF-EF_i25487044"
+    }
+  ]
+}
