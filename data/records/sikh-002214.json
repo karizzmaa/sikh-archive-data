@@ -1,0 +1,84 @@
+{
+  "id": "sikh-002214",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR rupee (10.81g), Kashmir, VS1903, VF",
+  "description": "SIKH EMPIRE: AR rupee (10.81g), Kashmir, VS1903, KM-52.2, Herrli-06.51.04, Persian \"Sh\" in obverse field, for Shaikh Imam al-Din, governor 1845-1847, 2-leaf sprig left of \"Sh\", minimal weakness, VF, R, ex Butalia Collection.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T12:04:58.100Z",
+  "updatedAt": "2026-11-23T12:04:58.100Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Kashmir",
+    "mintRegion": "Jammu and Kashmir",
+    "mintCountry": "Sikh Empire",
+    "denomination": "rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": 10.81,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS1903",
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-52",
+      "Herrli-06.51.04"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-internet-auction-21",
+    "eventName": "Stephen Album Rare Coins   Internet Auction 21",
+    "auctionNumber": null,
+    "lotNumber": "1356",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "unknown"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "VF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": null,
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": null,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-49302938-1",
+      "url": "https://media.liveauctiongroup.net/i/61477/49302938_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AR-rupee-10-81g-Kashmir-VS1903-VF_i49302938"
+    }
+  ]
+}

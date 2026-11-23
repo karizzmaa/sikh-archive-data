@@ -1,0 +1,86 @@
+{
+  "id": "sikh-002255",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: LOT of 3 coins",
+  "description": "SIKH EMPIRE: LOT of 3 coins, Including: AE paisa (11.06g), Amritsar, VS19xx, KM-7.1, Herrli-01.34var, obverse marks off flan; unusual variant, choice VF; AE paisa (11.23g), Amritsar, DM, KM-7.1, Herrli-01.34, obverse marks off flan; bold strike from broad flans, lovely VF; AR nanakshahi rupee (11.11g), Amritsar, VS[18]86, KM-21.1, Herrli-01.10.04, VS1884 series, bold strike, choice EF; retail value $250, lot of 3 coins.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T12:04:58.100Z",
+  "updatedAt": "2026-11-23T12:04:58.100Z",
+  "coin": {
+    "ruler": null,
+    "mint": null,
+    "mintRegion": null,
+    "mintCountry": "Sikh Empire",
+    "denomination": "LOT of 3 coins",
+    "metal": null,
+    "fineness": null,
+    "weight": null,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": null,
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-7",
+      "KM-21",
+      "Herrli-01.34",
+      "Herrli-01.10.04"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-internet-auction-21",
+    "eventName": "Stephen Album Rare Coins   Internet Auction 21",
+    "auctionNumber": null,
+    "lotNumber": "1397",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "EF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 100,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-49302979-1",
+      "url": "https://media.liveauctiongroup.net/i/61477/49302979_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-LOT-of-3-coins_i49302979"
+    }
+  ]
+}
