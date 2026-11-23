@@ -1,0 +1,84 @@
+{
+  "id": "sikh-002567",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH CONFEDERACY: AR rupee (11.52g), Anandgarh, VS1841 (1784), VF",
+  "description": "SIKH CONFEDERACY: AR rupee (11.52g), Anandgarh, VS1841 (1784), KM-30, Herrli-02.02.04, Gobindshahi couplet in Persian (abundance, power and victory (and) assistance without delay are the gift of Nanak (and) Guru Gobind Singh) // Persian legend at the top with the Vikram Samvat 1841, with floral and mace mintmarks, VF. Struck by the military government of the Sikh Confederacy, known as the Dal Khalsa, predates the foundation of the Sikh Empire by around 15 years. The old spelling of the city is Anandghar.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T13:44:36.479Z",
+  "updatedAt": "2026-11-23T13:44:36.479Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Anandgarh",
+    "mintRegion": "Punjab",
+    "mintCountry": "Sikh Empire",
+    "denomination": "rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": 11.52,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS1841 (1784)",
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-30",
+      "Herrli-02.02.04"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--sarc--internet-auction-40",
+    "eventName": "SARC | Internet Auction 40",
+    "auctionNumber": null,
+    "lotNumber": "619",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "VF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 750,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-61474280-1",
+      "url": "https://media.liveauctiongroup.net/i/81135/61474280_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-CONFEDERACY-AR-rupee-11-52g-Anandgarh-VS1841-1784-VF_i61474280"
+    }
+  ]
+}
