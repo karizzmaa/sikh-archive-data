@@ -1,0 +1,84 @@
+{
+  "id": "sikh-002369",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR broad rupee (11.14g), Multan, VS1896, choice EF",
+  "description": "SIKH EMPIRE: AR broad rupee (11.14g), Multan, VS1896, KM-86, Herrli-11.03.04, 24.5mm; it has been suggested that the VS1896 broad flan rupees might have been produced for some special occasion, choice EF, RR.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T13:03:39.910Z",
+  "updatedAt": "2026-11-23T13:03:39.910Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Multan",
+    "mintRegion": "Punjab",
+    "mintCountry": "Sikh Empire",
+    "denomination": "rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": 11.14,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS1896",
+    "variety": "broad",
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-86",
+      "Herrli-11.03.04"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-auction-48-january-18-21-2024",
+    "eventName": "Stephen Album Rare Coins   Auction 48   January 18-21, 2024",
+    "auctionNumber": null,
+    "lotNumber": "726",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "EF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 450,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-51273992-1",
+      "url": "https://media.liveauctiongroup.net/i/64398/51273992_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AR-broad-rupee-11-14g-Multan-VS1896-choice-EF_i51273992"
+    }
+  ]
+}

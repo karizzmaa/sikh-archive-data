@@ -506,6 +506,15 @@
       "date": null,
       "country": null,
       "url": null
+    },
+    {
+      "id": "stephen-album-rare-coins--stephen-album-rare-coins-auction-48-january-18-21-2024",
+      "houseId": "stephen-album-rare-coins",
+      "name": "Stephen Album Rare Coins   Auction 48   January 18-21, 2024",
+      "auctionNumber": null,
+      "date": null,
+      "country": null,
+      "url": null
     }
   ],
   "rulers": [
@@ -913,6 +922,11 @@
       "name": "Amritisar",
       "region": null,
       "country": "Sikh Empire"
+    },
+    {
+      "name": "VF-EF",
+      "region": null,
+      "country": "Sikh Empire"
     }
   ],
   "denominations": [
@@ -990,7 +1004,13 @@
     "DURRANI: Ahmad Shah",
     "LOT of 3 coins",
     "45 paise",
-    "fals (paisa)"
+    "fals (paisa)",
+    "57 paise",
+    "56 paise",
+    "31 paise",
+    "14 rupees",
+    "13 rupees",
+    "12 rupees"
   ],
   "metals": [
     "Gold",
@@ -1061,7 +1081,11 @@
     "bershahi",
     "phulanshahi",
     "(billishahi)",
-    "LOT of silver nanakshahi"
+    "LOT of silver nanakshahi",
+    "broad",
+    "LOT of copper (fulus)",
+    "LOT of silver of Amritsar Mint",
+    "LOT of scarce silver"
   ],
   "specialities": [
     "HALF RUPEE",

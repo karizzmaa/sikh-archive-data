@@ -1,0 +1,81 @@
+{
+  "id": "sikh-002365",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR rupee (11.34g), Amritsar, VS1840 Guru Nanak year 315, VF-EF",
+  "description": "SIKH EMPIRE: AR rupee (11.34g), Amritsar, VS1840 Guru Nanak year 315, KM-A20.3, Herrli-general type 01.05.04, clearly dated VS1840 and not 1841; this is the first known example of this type dated VS1840, not known to Herrli, Dalwinder Singh, or Gurprit Singh, and none are on CoinArchives or Zeno; adjustment mark on the edge, some spots of adhesions; an exceedingly rare and important example! VF-EF, RRR.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T13:03:39.910Z",
+  "updatedAt": "2026-11-23T13:03:39.910Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Amritsar",
+    "mintRegion": "Punjab",
+    "mintCountry": "Sikh Empire",
+    "denomination": "rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": 11.34,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS1840 Guru Nanak year 315",
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-auction-48-january-18-21-2024",
+    "eventName": "Stephen Album Rare Coins   Auction 48   January 18-21, 2024",
+    "auctionNumber": null,
+    "lotNumber": "722",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "unknown"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "VF-EF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": null,
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": null,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-51273988-1",
+      "url": "https://media.liveauctiongroup.net/i/64398/51273988_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AR-rupee-11-34g-Amritsar-VS1840-Guru-Nanak-year-315-VF-EF_i51273988"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": "sikh-002368",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR gobindshahi rupee (11.01g), Amritsar, VS1900, choice VF-EF",
+  "description": "SIKH EMPIRE: AR gobindshahi rupee (11.01g), Amritsar, VS1900, KM-21.2, Herrli-01.22.04, VS1884 series; \"parachute\" symbol in obverse center, choice VF-EF. The \"parachute\" is surely a simplified version of the chhatra (umbrella) on the nanakshahi rupees dated VS1899-1901 (KM-22.6).",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T13:03:39.910Z",
+  "updatedAt": "2026-11-23T13:03:39.910Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Amritsar",
+    "mintRegion": "Punjab",
+    "mintCountry": "Sikh Empire",
+    "denomination": "rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": 11.01,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS1900",
+    "variety": "gobindshahi",
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-21",
+      "KM-22",
+      "Herrli-01.22.04"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-auction-48-january-18-21-2024",
+    "eventName": "Stephen Album Rare Coins   Auction 48   January 18-21, 2024",
+    "auctionNumber": null,
+    "lotNumber": "725",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "VF-EF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 425,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-51273991-1",
+      "url": "https://media.liveauctiongroup.net/i/64398/51273991_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AR-gobindshahi-rupee-11-01g-Amritsar-VS1900-choice-VF-EF_i51273991"
+    }
+  ]
+}

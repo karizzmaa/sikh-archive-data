@@ -1,0 +1,84 @@
+{
+  "id": "sikh-002371",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR rupee (8.40g), Peshawar, VS1893//1893, choice EF",
+  "description": "SIKH EMPIRE: AR rupee (8.40g), Peshawar, VS1893//1893, KM-98.2, Herrli-13.02.04, superb strike, except for one small flat area near the edge (irregular thickness of the blank planchet), choice EF.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T13:03:39.910Z",
+  "updatedAt": "2026-11-23T13:03:39.910Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Peshawar",
+    "mintRegion": "Khyber Pakhtunkhwa",
+    "mintCountry": "Sikh Empire",
+    "denomination": "rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": 8.4,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS1893//1893",
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-98",
+      "Herrli-13.02.04"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-auction-48-january-18-21-2024",
+    "eventName": "Stephen Album Rare Coins   Auction 48   January 18-21, 2024",
+    "auctionNumber": null,
+    "lotNumber": "728",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "EF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 750,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-51273994-1",
+      "url": "https://media.liveauctiongroup.net/i/64398/51273994_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AR-rupee-8-40g-Peshawar-VS1893-1893-choice-EF_i51273994"
+    }
+  ]
+}
