@@ -1,0 +1,83 @@
+{
+  "id": "sikh-002283",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR rupee (11.14g), Kashmir, VS1881, EF",
+  "description": "SIKH EMPIRE: AR rupee (11.14g), Kashmir, VS1881, KM-46.8, flag in obverse center, facing to the right, type assigned to the governorship of Diwan Moti Ram, 1821-1825, and probably also to the subsequent active governor Gurmak Singh later in 1825, EF.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T12:07:12.920Z",
+  "updatedAt": "2026-11-23T12:07:12.920Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Kashmir",
+    "mintRegion": "Jammu and Kashmir",
+    "mintCountry": "Sikh Empire",
+    "denomination": "rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": 11.14,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS1881",
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-46"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-internet-auction-22",
+    "eventName": "Stephen Album Rare Coins   Internet Auction 22",
+    "auctionNumber": null,
+    "lotNumber": "584",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "unknown"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "EF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": null,
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": null,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-49711551-1",
+      "url": "https://media.liveauctiongroup.net/i/62109/49711551_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AR-rupee-11-14g-Kashmir-VS1881-EF_i49711551"
+    }
+  ]
+}

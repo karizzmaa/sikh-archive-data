@@ -1,0 +1,83 @@
+{
+  "id": "sikh-002277",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AE falus (paisa) (8.75g), Dera, ND, VF",
+  "description": "SIKH EMPIRE: AE falus (paisa) (8.75g), Dera, ND, SS-DR41, KM-101.1var. Va-616, obverse legend falus dera with uncertain Persian word in a circle at the center, reverse legend rayij, appears to be an unpublished variety, VF, RRR.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T12:07:12.920Z",
+  "updatedAt": "2026-11-23T12:07:12.920Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Dera",
+    "mintRegion": null,
+    "mintCountry": "Sikh Empire",
+    "denomination": "falus",
+    "metal": "Copper",
+    "fineness": null,
+    "weight": 8.75,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "ND",
+    "variety": "(paisa)",
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-101"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-internet-auction-22",
+    "eventName": "Stephen Album Rare Coins   Internet Auction 22",
+    "auctionNumber": null,
+    "lotNumber": "578",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "unknown"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "VF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": null,
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": null,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-49711545-1",
+      "url": "https://media.liveauctiongroup.net/i/62109/49711545_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AE-falus-paisa-8-75g-Dera-ND-VF_i49711545"
+    }
+  ]
+}
