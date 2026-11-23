@@ -1,0 +1,85 @@
+{
+  "id": "sikh-002028",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AE presentation paisa (16.14g), Amritsar, ND, Fine",
+  "description": "SIKH EMPIRE: AE presentation paisa (16.14g), Amritsar, ND, Herrli-01.34, KM-9., standard type as KM-7.1, but struck on much larger flans for decorative purposes; original mounting still partially attached, Fine, RRR.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T11:55:11.156Z",
+  "updatedAt": "2026-11-23T11:55:11.156Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Amritsar",
+    "mintRegion": "Punjab",
+    "mintCountry": "Sikh Empire",
+    "denomination": "paisa",
+    "metal": "Copper",
+    "fineness": null,
+    "weight": 16.14,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "ND",
+    "variety": "presentation",
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-9",
+      "KM-7",
+      "Herrli-01.34"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-internet-auction-19",
+    "eventName": "Stephen Album Rare Coins   Internet Auction 19",
+    "auctionNumber": null,
+    "lotNumber": "1000",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "Fine",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 160,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-48071933-1",
+      "url": "https://media.liveauctiongroup.net/i/59749/48071933_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AE-presentation-paisa-16-14g-Amritsar-ND-Fine_i48071933"
+    }
+  ]
+}

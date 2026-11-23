@@ -1,0 +1,84 @@
+{
+  "id": "sikh-002023",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AE paisa (11.05g), Amritsar, VS(18)87, bold VF",
+  "description": "SIKH EMPIRE: AE paisa (11.05g), Amritsar, VS(18)87, KM-4var, generally as type Herrli-01.30.11 (KM-4), listed only for VS1880-1882; the year VS1887 is omitted from KM, Herrli, and the still unpublished work by Dalwinder Singh; fine style of the Amritsar mint, just like the normal examples of VS1880-1882, bold VF, RRR.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T11:55:11.156Z",
+  "updatedAt": "2026-11-23T11:55:11.156Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Amritsar",
+    "mintRegion": "Punjab",
+    "mintCountry": "Sikh Empire",
+    "denomination": "paisa",
+    "metal": "Copper",
+    "fineness": null,
+    "weight": 11.05,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS(18)87",
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-4",
+      "Herrli-01.30.11"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-internet-auction-19",
+    "eventName": "Stephen Album Rare Coins   Internet Auction 19",
+    "auctionNumber": null,
+    "lotNumber": "995",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "Fine",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 90,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-48071928-1",
+      "url": "https://media.liveauctiongroup.net/i/59749/48071928_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AE-paisa-11-05g-Amritsar-VS-18-87-bold-VF_i48071928"
+    }
+  ]
+}

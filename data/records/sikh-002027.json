@@ -1,0 +1,84 @@
+{
+  "id": "sikh-002027",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AE paisa (9.57g), Amritsar, lovely VF",
+  "description": "SIKH EMPIRE: AE paisa (9.57g), Amritsar, KM-7.6, Herrli-01.35, standard type but with katar facing right on the obverse, lovely VF.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T11:55:11.156Z",
+  "updatedAt": "2026-11-23T11:55:11.156Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Amritsar",
+    "mintRegion": "Punjab",
+    "mintCountry": "Sikh Empire",
+    "denomination": "paisa",
+    "metal": "Copper",
+    "fineness": null,
+    "weight": 9.57,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": null,
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-7",
+      "Herrli-01.35"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-internet-auction-19",
+    "eventName": "Stephen Album Rare Coins   Internet Auction 19",
+    "auctionNumber": null,
+    "lotNumber": "999",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "unknown"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "VF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": null,
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": null,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-48071932-1",
+      "url": "https://media.liveauctiongroup.net/i/59749/48071932_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AE-paisa-9-57g-Amritsar-lovely-VF_i48071932"
+    }
+  ]
+}
