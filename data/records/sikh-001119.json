@@ -1,0 +1,92 @@
+{
+  "id": "sikh-001119",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR rupee (10.75g), Derajat, AH1250",
+  "description": "SIKH EMPIRE: AR rupee (10.75g), Derajat, AH1250, KM-373, Herrli-07.01.04, in the name of the deceased Durrani Mahmud Shah, rare date towards the end of the series, choice VF.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T01:29:42.422Z",
+  "updatedAt": "2026-11-23T01:29:42.422Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Derajat",
+    "mintRegion": null,
+    "mintCountry": "Sikh Empire",
+    "denomination": "rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": 10.75,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "AH1250",
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-373",
+      "Herrli-07.01.04"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins--auction-24",
+    "eventName": "Stephen Album Rare Coins | Auction 24",
+    "auctionNumber": null,
+    "lotNumber": "1901",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "VF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 150,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-23809318-1",
+      "url": "https://media.liveauctiongroup.net/i/26769/23809318_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    },
+    {
+      "file": "sarc-23809318-2",
+      "url": "https://media.liveauctiongroup.net/i/26769/23809318_2.jpg",
+      "role": "reverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": false
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AR-rupee-10-75g-Derajat-AH1250_i23809318"
+    }
+  ]
+}

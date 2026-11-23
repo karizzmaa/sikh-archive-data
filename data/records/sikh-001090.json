@@ -1,0 +1,91 @@
+{
+  "id": "sikh-001090",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR 1/8 rupee (1.38g), Amritsar, VS[18]9(5)",
+  "description": "SIKH EMPIRE: AR 1/8 rupee (1.38g), Amritsar, VS[18]9(5), KM-17.1, VS1884 series, same obverse die as the illustrated KM specimen, which shows the full \"95\" of the date, lovely toning, EF to About Unc, RRR, ex Stephen Album Pricelist #32, Lot 1502 (August 1983), then offered for the timely price of $50.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T01:29:42.421Z",
+  "updatedAt": "2026-11-23T01:29:42.421Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Amritsar",
+    "mintRegion": "Punjab",
+    "mintCountry": "Sikh Empire",
+    "denomination": "1/8 rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": 1.38,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS[18]9(5)",
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-17"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins--auction-24",
+    "eventName": "Stephen Album Rare Coins | Auction 24",
+    "auctionNumber": null,
+    "lotNumber": "1872",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "UNC",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 2600,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-23809289-1",
+      "url": "https://media.liveauctiongroup.net/i/26769/23809289_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    },
+    {
+      "file": "sarc-23809289-2",
+      "url": "https://media.liveauctiongroup.net/i/26769/23809289_2.jpg",
+      "role": "reverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": false
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AR-1-8-rupee-1-38g-Amritsar-VS-18-9-5_i23809289"
+    }
+  ]
+}

@@ -155,6 +155,15 @@
       "date": null,
       "country": null,
       "url": null
+    },
+    {
+      "id": "stephen-album-rare-coins--stephen-album-rare-coins--auction-24",
+      "houseId": "stephen-album-rare-coins",
+      "name": "Stephen Album Rare Coins | Auction 24",
+      "auctionNumber": null,
+      "date": null,
+      "country": null,
+      "url": null
     }
   ],
   "rulers": [
@@ -412,6 +421,11 @@
       "name": "2nd reign",
       "region": null,
       "country": "Sikh Empire"
+    },
+    {
+      "name": "1871-1911",
+      "region": null,
+      "country": "Sikh Empire"
     }
   ],
   "denominations": [
@@ -446,7 +460,9 @@
     "LOT of 9 copper coins",
     "\"paisa\"",
     "billishahi",
-    "Mahmud Shah"
+    "Mahmud Shah",
+    "Hira Singh",
+    "1/8 rupee"
   ],
   "metals": [
     "Gold",
@@ -476,7 +492,8 @@
     "pattern",
     "'pattern'",
     "mora shahi",
-    "token"
+    "token",
+    "devaki"
   ],
   "specialities": [
     "HALF RUPEE",
