@@ -1,0 +1,84 @@
+{
+  "id": "sikh-002101",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR rupee (11.09g), Nimak, VS1904, EF",
+  "description": "SIKH EMPIRE: AR rupee (11.09g), Nimak, VS1904, KM-86, Herrli-03.01.04, lovely strike on broad flan, pleasant toning, EF, RRR, ex Butalia Collection. Herrli associates the name Nimak, which means \"salt\" (in Urdu), with the town of Pin Dadan Khan in the Punjab, an important town at the base of the Salt Range mountains.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T12:00:07.017Z",
+  "updatedAt": "2026-11-23T12:00:07.017Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Nimak",
+    "mintRegion": null,
+    "mintCountry": "Sikh Empire",
+    "denomination": "rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": 11.09,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS1904",
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-86",
+      "Herrli-03.01.04"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-auction-46-may-18-21-2023",
+    "eventName": "Stephen Album Rare Coins   Auction 46   May 18-21, 2023",
+    "auctionNumber": null,
+    "lotNumber": "1004",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "EF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 1100,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-48640465-1",
+      "url": "https://media.liveauctiongroup.net/i/60574/48640465_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AR-rupee-11-09g-Nimak-VS1904-EF_i48640465"
+    }
+  ]
+}

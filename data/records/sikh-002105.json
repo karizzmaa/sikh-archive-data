@@ -1,0 +1,81 @@
+{
+  "id": "sikh-002105",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AE falus (8.56g), Derajat, ND, lovely EF",
+  "description": "SIKH EMPIRE: AE falus (8.56g), Derajat, ND, KM-, SS-DJ80, 3-line Gurmukhi legend, including the name of Duleep Singh // leaf & Gurmukhi legend, superb example! lovely EF, RRR. One of the very few Sikh Empire coins that cite the name of the ruler, in this case Duleep Singh (1843-1849).",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T12:00:07.018Z",
+  "updatedAt": "2026-11-23T12:00:07.018Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Derajat",
+    "mintRegion": null,
+    "mintCountry": "Sikh Empire",
+    "denomination": "falus",
+    "metal": "Copper",
+    "fineness": null,
+    "weight": 8.56,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "ND",
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-auction-46-may-18-21-2023",
+    "eventName": "Stephen Album Rare Coins   Auction 46   May 18-21, 2023",
+    "auctionNumber": null,
+    "lotNumber": "1008",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "EF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 260,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-48640469-1",
+      "url": "https://media.liveauctiongroup.net/i/60574/48640469_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AE-falus-8-56g-Derajat-ND-lovely-EF_i48640469"
+    }
+  ]
+}

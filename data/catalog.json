@@ -452,6 +452,15 @@
       "date": null,
       "country": null,
       "url": null
+    },
+    {
+      "id": "stephen-album-rare-coins--stephen-album-rare-coins-auction-46-may-18-21-2023",
+      "houseId": "stephen-album-rare-coins",
+      "name": "Stephen Album Rare Coins   Auction 46   May 18-21, 2023",
+      "auctionNumber": null,
+      "date": null,
+      "country": null,
+      "url": null
     }
   ],
   "rulers": [
@@ -844,6 +853,16 @@
       "name": "ca. 1840s",
       "region": null,
       "country": "Sikh Empire"
+    },
+    {
+      "name": "Almost Unc to Unc.",
+      "region": null,
+      "country": "Sikh Empire"
+    },
+    {
+      "name": "1747-1772",
+      "region": null,
+      "country": "Sikh Empire"
     }
   ],
   "denominations": [
@@ -917,7 +936,8 @@
     "LOT of 10 coins",
     "35 paise",
     "¼ nanakshahi anna",
-    "4 paise"
+    "4 paise",
+    "DURRANI: Ahmad Shah"
   ],
   "metals": [
     "Gold",
@@ -984,7 +1004,9 @@
     "LOT of silver nanakshahi Amritsar",
     "LOT of copper with Persian legends",
     "presentation",
-    "LOT of copper"
+    "LOT of copper",
+    "bershahi",
+    "phulanshahi"
   ],
   "specialities": [
     "HALF RUPEE",

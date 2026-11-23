@@ -1,0 +1,84 @@
+{
+  "id": "sikh-002080",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR rupee (11.12g), Dar Jhang / Amritsar, VS1874, bold VF",
+  "description": "SIKH EMPIRE: AR rupee (11.12g), Dar Jhang / Amritsar, VS1874, KM-20.1a, Herrli-01.09.04, cf. ONS Newsletter vol. 143 (1995), with mint name Amritsar at the top and dar jhang in left center, both on reverse, with group of 4 pellets below the leaf on reverse; 1 small banker's mark on the edge, without any testmarks on the surfaces, bold VF, RR, ex Butalia Collection. The meaning of \"dar jhang\" has never been satisfactorily determined. Perhaps it is a local spelling of the Persian \"dar jang\" (\"at war\") referring to the victorious Sikh advances that took place in 1816-1817 (VS1873-1874).",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T12:00:07.017Z",
+  "updatedAt": "2026-11-23T12:00:07.017Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Dar Jhang / Amritsar",
+    "mintRegion": null,
+    "mintCountry": "Sikh Empire",
+    "denomination": "rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": 11.12,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS1874",
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-20",
+      "Herrli-01.09.04"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-auction-46-may-18-21-2023",
+    "eventName": "Stephen Album Rare Coins   Auction 46   May 18-21, 2023",
+    "auctionNumber": null,
+    "lotNumber": "983",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "VF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 1300,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-48640444-1",
+      "url": "https://media.liveauctiongroup.net/i/60574/48640444_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AR-rupee-11-12g-Dar-Jhang-Amritsar-VS1874-bold-VF_i48640444"
+    }
+  ]
+}
