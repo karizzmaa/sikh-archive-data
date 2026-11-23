@@ -515,6 +515,42 @@
       "date": null,
       "country": null,
       "url": null
+    },
+    {
+      "id": "stephen-album-rare-coins--sarc-internet-auction-25",
+      "houseId": "stephen-album-rare-coins",
+      "name": "SARC   Internet Auction 25",
+      "auctionNumber": null,
+      "date": null,
+      "country": null,
+      "url": null
+    },
+    {
+      "id": "stephen-album-rare-coins--sarc-internet-auction-26",
+      "houseId": "stephen-album-rare-coins",
+      "name": "SARC   Internet Auction 26",
+      "auctionNumber": null,
+      "date": null,
+      "country": null,
+      "url": null
+    },
+    {
+      "id": "stephen-album-rare-coins--sarc--internet-auction-27",
+      "houseId": "stephen-album-rare-coins",
+      "name": "SARC | Internet Auction 27",
+      "auctionNumber": null,
+      "date": null,
+      "country": null,
+      "url": null
+    },
+    {
+      "id": "stephen-album-rare-coins--stephen-album-rare-coins--auction-49--june-13-16-2024",
+      "houseId": "stephen-album-rare-coins",
+      "name": "Stephen Album Rare Coins | Auction 49 | June 13-16, 2024",
+      "auctionNumber": null,
+      "date": null,
+      "country": null,
+      "url": null
     }
   ],
   "rulers": [
@@ -1085,7 +1121,8 @@
     "broad",
     "LOT of copper (fulus)",
     "LOT of silver of Amritsar Mint",
-    "LOT of scarce silver"
+    "LOT of scarce silver",
+    "phunalshahi"
   ],
   "specialities": [
     "HALF RUPEE",

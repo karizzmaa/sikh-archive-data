@@ -1,0 +1,84 @@
+{
+  "id": "sikh-002421",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR phunalshahi rupee (11.18g), Amritsar, VS1863, bold VF-XF",
+  "description": "SIKH EMPIRE: AR phunalshahi rupee (11.18g), Amritsar, VS1863, KM-20.6, Herrli-01.16.04, eight-petal floral pattern; type formerly called arsiwala shahi; bold VF-XF.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T13:07:57.001Z",
+  "updatedAt": "2026-11-23T13:07:57.001Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Amritsar",
+    "mintRegion": "Punjab",
+    "mintCountry": "Sikh Empire",
+    "denomination": "rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": 11.18,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS1863",
+    "variety": "phunalshahi",
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-20",
+      "Herrli-01.16.04"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins--auction-49--june-13-16-2024",
+    "eventName": "Stephen Album Rare Coins | Auction 49 | June 13-16, 2024",
+    "auctionNumber": null,
+    "lotNumber": "2332",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "XF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 325,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-52801036-1",
+      "url": "https://media.liveauctiongroup.net/i/66683/52801036_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AR-phunalshahi-rupee-11-18g-Amritsar-VS1863-bold-VF-XF_i52801036"
+    }
+  ]
+}
