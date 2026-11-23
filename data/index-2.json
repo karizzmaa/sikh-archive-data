@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T02:49:41.702Z",
+  "generatedAt": "2026-11-23T02:50:44.715Z",
   "entries": [
     {
       "id": "sikh-000802",
@@ -13850,7 +13850,7 @@
         "Herrli-15.04.04"
       ],
       "ruler": null,
-      "mint": "1871-1911",
+      "mint": null,
       "mintRegion": null,
       "mintCountry": "Sikh Empire",
       "denomination": "Hira Singh",
@@ -13886,7 +13886,7 @@
       "imageCount": 2,
       "verification": "verified",
       "createdAt": "2026-11-23T01:29:42.420Z",
-      "updatedAt": "2026-11-23T01:29:42.420Z"
+      "updatedAt": "2026-11-23T02:50:43.564Z"
     },
     {
       "id": "sikh-001085",

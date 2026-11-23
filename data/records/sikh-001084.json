@@ -7,10 +7,10 @@
   "verification": "verified",
   "adminNotes": null,
   "createdAt": "2026-11-23T01:29:42.420Z",
-  "updatedAt": "2026-11-23T01:29:42.420Z",
+  "updatedAt": "2026-11-23T02:50:43.564Z",
   "coin": {
     "ruler": null,
-    "mint": "1871-1911",
+    "mint": null,
     "mintRegion": null,
     "mintCountry": "Sikh Empire",
     "denomination": "Hira Singh",
