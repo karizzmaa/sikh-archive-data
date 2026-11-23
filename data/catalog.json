@@ -182,6 +182,15 @@
       "date": null,
       "country": null,
       "url": null
+    },
+    {
+      "id": "stephen-album-rare-coins--stephen-album-rare-coins--auction-27",
+      "houseId": "stephen-album-rare-coins",
+      "name": "Stephen Album Rare Coins | Auction 27",
+      "auctionNumber": null,
+      "date": null,
+      "country": null,
+      "url": null
     }
   ],
   "rulers": [
@@ -447,6 +456,11 @@
     },
     {
       "name": "Anandghar",
+      "region": null,
+      "country": "Sikh Empire"
+    },
+    {
+      "name": "Jammu",
       "region": null,
       "country": "Sikh Empire"
     }

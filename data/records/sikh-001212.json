@@ -1,0 +1,74 @@
+{
+  "id": "sikh-001212",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE:",
+  "description": "SIKH EMPIRE: LOT of 70 copper paisa, including 18 of Amritsar and 52 of Jammu, common types only, average VG, but a number of better coins, especially for Jammu, retail value $500, lot of 70 pieces, ex Paul Stevens Collection.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T01:56:26.867Z",
+  "updatedAt": "2026-11-23T01:56:26.867Z",
+  "coin": {
+    "ruler": null,
+    "mint": null,
+    "mintRegion": null,
+    "mintCountry": "Sikh Empire",
+    "denomination": null,
+    "metal": null,
+    "fineness": null,
+    "weight": null,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": null,
+    "variety": null,
+    "specialities": [
+      "ACCUMULATIVE LOT"
+    ],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins--auction-27",
+    "eventName": "Stephen Album Rare Coins | Auction 27",
+    "auctionNumber": null,
+    "lotNumber": "2351",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "VG",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 190,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE_i26223577"
+    }
+  ]
+}
