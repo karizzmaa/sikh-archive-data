@@ -1,0 +1,91 @@
+{
+  "id": "sikh-001150",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AE paisa (13.08g), Kashmir, VS(1877). VF",
+  "description": "SIKH EMPIRE: AE paisa (13.08g), Kashmir, VS(1877), KM-—, Herrli-06.70.11. SS-SS72, 2-leaf sprig / pipal leaf, bottom of date digits \"77\" barely visible, VF, RR.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T01:32:32.478Z",
+  "updatedAt": "2026-11-23T01:32:32.478Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Kashmir",
+    "mintRegion": "Jammu and Kashmir",
+    "mintCountry": "Sikh Empire",
+    "denomination": "paisa",
+    "metal": "Copper",
+    "fineness": null,
+    "weight": 13.08,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS(1877). VF",
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "Herrli-06.70.11."
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins--auction-25",
+    "eventName": "Stephen Album Rare Coins | Auction 25",
+    "auctionNumber": null,
+    "lotNumber": "1189",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "VF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 425,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-24611547-1",
+      "url": "https://media.liveauctiongroup.net/i/28065/24611547_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    },
+    {
+      "file": "sarc-24611547-2",
+      "url": "https://media.liveauctiongroup.net/i/28065/24611547_2.jpg",
+      "role": "reverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": false
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AE-paisa-13-08g-Kashmir-VS-1877-VF_i24611547"
+    }
+  ]
+}

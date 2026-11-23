@@ -1,0 +1,91 @@
+{
+  "id": "sikh-001162",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AE paisa (7.37g), Derajat, DM. F",
+  "description": "SIKH EMPIRE: AE paisa (7.37g), Derajat, DM, KM-—, Herrli-07.03.11. SS-SS193, Gobind Shahi text / 6-petal flower and small pipal leaf, trace of last digit of date, which is presumably \"9\" for VS1889, the only known date for this type, overstruck on uncertain host, Fine, RR.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T01:32:32.478Z",
+  "updatedAt": "2026-11-23T01:32:32.478Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Derajat",
+    "mintRegion": null,
+    "mintCountry": "Sikh Empire",
+    "denomination": "paisa",
+    "metal": "Copper",
+    "fineness": null,
+    "weight": 7.37,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": null,
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "Herrli-07.03.11."
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins--auction-25",
+    "eventName": "Stephen Album Rare Coins | Auction 25",
+    "auctionNumber": null,
+    "lotNumber": "1201",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "Fine",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 280,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-24611559-1",
+      "url": "https://media.liveauctiongroup.net/i/28065/24611559_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    },
+    {
+      "file": "sarc-24611559-2",
+      "url": "https://media.liveauctiongroup.net/i/28065/24611559_2.jpg",
+      "role": "reverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": false
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AE-paisa-7-37g-Derajat-DM-F_i24611559"
+    }
+  ]
+}
