@@ -191,6 +191,15 @@
       "date": null,
       "country": null,
       "url": null
+    },
+    {
+      "id": "stephen-album-rare-coins--stephen-album-rare-coins--auction-28",
+      "houseId": "stephen-album-rare-coins",
+      "name": "Stephen Album Rare Coins | Auction 28",
+      "auctionNumber": null,
+      "date": null,
+      "country": null,
+      "url": null
     }
   ],
   "rulers": [
@@ -463,6 +472,11 @@
       "name": "Jammu",
       "region": null,
       "country": "Sikh Empire"
+    },
+    {
+      "name": "unidentified mint",
+      "region": null,
+      "country": "Sikh Empire"
     }
   ],
   "denominations": [
@@ -499,7 +513,8 @@
     "billishahi",
     "Mahmud Shah",
     "Hira Singh",
-    "1/8 rupee"
+    "1/8 rupee",
+    "nanakshahi 1/4 anna (pa-anna)"
   ],
   "metals": [
     "Gold",

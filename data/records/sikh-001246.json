@@ -1,0 +1,91 @@
+{
+  "id": "sikh-001246",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR nanakshahi rupee (11.14g), Amritsar, VS1845 year 318 GN. VF-EF",
+  "description": "SIKH EMPIRE: AR nanakshahi rupee (11.14g), Amritsar, VS1845 year 318 GN, KM-A20.4, Herrli-01.06.04, clear GN year, toward the left of obverse center, choice VF to EF, R, ex Ajit Singh Collection.    Scarce 3-year type (VS1845-1847), but very rare with clear GN year.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T02:05:24.541Z",
+  "updatedAt": "2026-11-23T02:05:24.541Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Amritsar",
+    "mintRegion": "Punjab",
+    "mintCountry": "Sikh Empire",
+    "denomination": "rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": 11.14,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS1845 year 318 GN. VF-EF",
+    "variety": "nanakshahi",
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "Herrli-01.06.04"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins--auction-28",
+    "eventName": "Stephen Album Rare Coins | Auction 28",
+    "auctionNumber": null,
+    "lotNumber": "2612",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "EF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 650,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-27047636-1",
+      "url": "https://media.liveauctiongroup.net/i/31208/27047636_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    },
+    {
+      "file": "sarc-27047636-2",
+      "url": "https://media.liveauctiongroup.net/i/31208/27047636_2.jpg",
+      "role": "reverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": false
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AR-nanakshahi-rupee-11-14g-Amritsar-VS1845-year-318-GN-VF-EF_i27047636"
+    }
+  ]
+}
