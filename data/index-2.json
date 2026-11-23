@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T02:37:34.448Z",
+  "generatedAt": "2026-11-23T02:44:28.666Z",
   "entries": [
     {
       "id": "sikh-000802",
@@ -8693,7 +8693,7 @@
         "Herrli-15.03.04"
       ],
       "ruler": null,
-      "mint": "AR rupee (10.96g",
+      "mint": null,
       "mintRegion": null,
       "mintCountry": "Sikh Empire",
       "denomination": "Raja Jaswant Singh",
@@ -8729,7 +8729,7 @@
       "imageCount": 2,
       "verification": "verified",
       "createdAt": "2026-11-23T00:54:30.298Z",
-      "updatedAt": "2026-11-23T00:54:30.298Z"
+      "updatedAt": "2026-11-23T02:44:27.706Z"
     },
     {
       "id": "sikh-000980",
