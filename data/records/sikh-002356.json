@@ -1,0 +1,84 @@
+{
+  "id": "sikh-002356",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AE paisa (12.22g), Multan, AH(1)880, F-VF",
+  "description": "SIKH EMPIRE: AE paisa (12.22g), Multan, AH(1)880, KM-77, Herrli-11.08.11, Nanakshahi couplet obverse, Fine to VF.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T12:14:03.454Z",
+  "updatedAt": "2026-11-23T12:14:03.454Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Multan",
+    "mintRegion": "Punjab",
+    "mintCountry": "Sikh Empire",
+    "denomination": "paisa",
+    "metal": "Copper",
+    "fineness": null,
+    "weight": 12.22,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "AH(1)880",
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-77",
+      "Herrli-11.08.11"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--sarc-internet-auction-24",
+    "eventName": "SARC   Internet Auction 24",
+    "auctionNumber": null,
+    "lotNumber": "677",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "Fine",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 75,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-50827406-1",
+      "url": "https://media.liveauctiongroup.net/i/63699/50827406_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AE-paisa-12-22g-Multan-AH-1-880-F-VF_i50827406"
+    }
+  ]
+}
