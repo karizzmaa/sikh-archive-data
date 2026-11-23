@@ -1,0 +1,91 @@
+{
+  "id": "sikh-000936",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AV mohur, Amritsar, VS1863",
+  "description": "SIKH EMPIRE: AV mohur, Amritsar, VS1863, KM-25.3, NGC graded EF45. \n\nFull mohurs of the Sikh Empire are rarely offered for sale and examples are only seen on the market every several years. \nA similar specimen of this date and type sold in Baldwin's \nAuction 50 Lot 1073 for &pound;6,400 in 2007.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T00:54:30.296Z",
+  "updatedAt": "2026-11-23T00:54:30.296Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Amritsar",
+    "mintRegion": "Punjab",
+    "mintCountry": "Sikh Empire",
+    "denomination": "mohur",
+    "metal": "Gold",
+    "fineness": null,
+    "weight": null,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS1863",
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-25"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins--auction-20",
+    "eventName": "Stephen Album Rare Coins | Auction 20",
+    "auctionNumber": null,
+    "lotNumber": "1538",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "NGC",
+    "grade": "EF45",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 22000,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-20305430-1",
+      "url": "https://media.liveauctiongroup.net/i/21773/20305430_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    },
+    {
+      "file": "sarc-20305430-2",
+      "url": "https://media.liveauctiongroup.net/i/21773/20305430_2.jpg",
+      "role": "reverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": false
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AV-mohur-Amritsar-VS1863_i20305430"
+    }
+  ]
+}

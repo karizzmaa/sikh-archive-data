@@ -119,6 +119,15 @@
       "date": null,
       "country": null,
       "url": null
+    },
+    {
+      "id": "stephen-album-rare-coins--stephen-album-rare-coins--auction-20",
+      "houseId": "stephen-album-rare-coins",
+      "name": "Stephen Album Rare Coins | Auction 20",
+      "auctionNumber": null,
+      "date": null,
+      "country": null,
+      "url": null
     }
   ],
   "rulers": [
@@ -346,6 +355,11 @@
       "name": "Mundarka",
       "region": null,
       "country": "Sikh Empire"
+    },
+    {
+      "name": "AR rupee (10.96g",
+      "region": null,
+      "country": "Sikh Empire"
     }
   ],
   "denominations": [
@@ -375,7 +389,8 @@
     "1/2 rupee",
     "Derajat mint",
     "Bharpur Singh",
-    "\"rupee\""
+    "\"rupee\"",
+    "Raja Jaswant Singh"
   ],
   "metals": [
     "Gold",
@@ -402,7 +417,8 @@
     "morashahi",
     "arsiwala-shahi",
     "arsiwala",
-    "pattern"
+    "pattern",
+    "'pattern'"
   ],
   "specialities": [
     "HALF RUPEE",
@@ -433,7 +449,8 @@
     "GOLD TOKEN",
     "REEDED GOLD",
     "DOUBLE LINE",
-    "PLAIN EDGE GOLD"
+    "PLAIN EDGE GOLD",
+    "PEACOCK"
   ],
   "gradingCompanies": [
     "NGC",

@@ -1,0 +1,92 @@
+{
+  "id": "sikh-000938",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR rupee (11.23g), Lahore, VS1822",
+  "description": "SIKH EMPIRE: AR rupee (11.23g), Lahore, VS1822, KM-63, Herrli-08.02.04, 1 small testmark, EF, RR.  \n\nSlightly different obverse text arrangement (Herrli's type 1a), very noticeable on this piece, which shows nearly all of the lower panel of the obverse legend.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T00:54:30.297Z",
+  "updatedAt": "2026-11-23T00:54:30.297Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Lahore",
+    "mintRegion": "Punjab",
+    "mintCountry": "Sikh Empire",
+    "denomination": "rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": 11.23,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS1822",
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-63",
+      "Herrli-08.02.04"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins--auction-20",
+    "eventName": "Stephen Album Rare Coins | Auction 20",
+    "auctionNumber": null,
+    "lotNumber": "1540",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "EF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 230,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-20305432-1",
+      "url": "https://media.liveauctiongroup.net/i/21773/20305432_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    },
+    {
+      "file": "sarc-20305432-2",
+      "url": "https://media.liveauctiongroup.net/i/21773/20305432_2.jpg",
+      "role": "reverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": false
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AR-rupee-11-23g-Lahore-VS1822_i20305432"
+    }
+  ]
+}
