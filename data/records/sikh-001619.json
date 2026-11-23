@@ -1,0 +1,85 @@
+{
+  "id": "sikh-001619",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: LOT of 8 gobindshahi rupees",
+  "description": "SIKH EMPIRE:LOT of 8 gobindshahi rupees of the VS1884 series of Amritsar, type KM-21.2: VS[18]97 (choice AU), VS[18]98 (EF-AU, 1 testmark), VS[18]99 (2 pcs, both EF-AU), VS1900 (2 pcs, one choice EF, the other AU), and VS1901 (2 pcs, both choice EF, but one with 1 testmark); retail value $600, lot of 8 pieces.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T07:27:08.490Z",
+  "updatedAt": "2026-11-23T07:27:08.490Z",
+  "coin": {
+    "ruler": null,
+    "mint": null,
+    "mintRegion": null,
+    "mintCountry": "Sikh Empire",
+    "denomination": "8 rupees",
+    "metal": null,
+    "fineness": null,
+    "weight": null,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": null,
+    "variety": "LOT of gobindshahi",
+    "specialities": [
+      "ACCUMULATIVE LOT"
+    ],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-21"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-auction-32",
+    "eventName": "Stephen Album Rare Coins   Auction 32",
+    "auctionNumber": null,
+    "lotNumber": "2015",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "EF-AU",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 600,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-30945562-1",
+      "url": "https://media.liveauctiongroup.net/i/35901/30945562_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-LOT-of-8-gobindshahi-rupees_i30945562"
+    }
+  ]
+}

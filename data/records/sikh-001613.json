@@ -1,0 +1,83 @@
+{
+  "id": "sikh-001613",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: LOT of 9 Sikh rupees",
+  "description": "SIKH EMPIRE:LOT of 9 Sikh rupees: Lahore: VS1857 (VF-EF), and VS1870 (F-VF); and Amritsar: VS1879 (choice EF, 1 testmark); VS1884 series: VS[18]85 (2 pcs, both EF, one with 1 testmark); and VS1885 series: VS[18]95, silver-plated copper (EF, one corrosion spot, appear to be struck from official dies), VS[18]96 (EF), VS1901 (VF-EF), and VS19001 (1900 re-engraved for 1901, bold VF); retail value $550, lot of 9 pieces ,  ex Ajit Singh Collection.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T07:27:08.490Z",
+  "updatedAt": "2026-11-23T07:27:08.490Z",
+  "coin": {
+    "ruler": null,
+    "mint": null,
+    "mintRegion": null,
+    "mintCountry": "Sikh Empire",
+    "denomination": "9 rupees",
+    "metal": null,
+    "fineness": null,
+    "weight": null,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": null,
+    "variety": "LOT of Sikh",
+    "specialities": [
+      "ACCUMULATIVE LOT"
+    ],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-auction-32",
+    "eventName": "Stephen Album Rare Coins   Auction 32",
+    "auctionNumber": null,
+    "lotNumber": "2009",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "VF-EF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 350,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-30945556-1",
+      "url": "https://media.liveauctiongroup.net/i/35901/30945556_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-LOT-of-9-Sikh-rupees_i30945556"
+    }
+  ]
+}

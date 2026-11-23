@@ -1,0 +1,83 @@
+{
+  "id": "sikh-001621",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: LOT of 8 rupees of Lahore",
+  "description": "SIKH EMPIRE:LOT of 8 rupees of Lahore: Gobindshahi: VS1822 (first type, used only 1822-1823, with  dig  with Persian G, EF, 3 testmarks, rare), 1829 (scruffy Fine, several testmarks), and 1834 (nice Fine); and Nanakshahi: VS1841 (VF-EF), 1857 (2 pcs, both EF, though one has one spot of hornsilver), 1862 (VF, 1 testmark), and 1880 (EF, minor weakness); retail value $540, lot of 8 pieces.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T07:27:08.490Z",
+  "updatedAt": "2026-11-23T07:27:08.490Z",
+  "coin": {
+    "ruler": null,
+    "mint": null,
+    "mintRegion": null,
+    "mintCountry": "Sikh Empire",
+    "denomination": "8 rupees",
+    "metal": null,
+    "fineness": null,
+    "weight": null,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": null,
+    "variety": "LOT of of Lahore",
+    "specialities": [
+      "ACCUMULATIVE LOT"
+    ],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-auction-32",
+    "eventName": "Stephen Album Rare Coins   Auction 32",
+    "auctionNumber": null,
+    "lotNumber": "2017",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "VF-EF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 500,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-30945564-1",
+      "url": "https://media.liveauctiongroup.net/i/35901/30945564_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-LOT-of-8-rupees-of-Lahore_i30945564"
+    }
+  ]
+}
