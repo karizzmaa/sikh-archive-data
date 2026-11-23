@@ -1,0 +1,89 @@
+{
+  "id": "sikh-001650",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AE falus (6.34g) (uncertain mint), ND. VF",
+  "description": "SIKH EMPIRE: AE falus (6.34g) (uncertain mint), ND, KM-—, Herrli-—, Gurmukhi legends both sides, but with the end of what is likely part of a Persian letter below and to the left of the pipal leaf, perhaps the final  \"S \" of the word falus, pleasing VF, R.    The blundered Gurmukhi on the reverse suggests that this is either a local imitation of an Amritsar prototype, but it is also possibly an issue of Dera. The overall style is too close to a normal issue and therefore suggests that it cannot be a Loharu imitation.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T08:17:27.449Z",
+  "updatedAt": "2026-11-23T08:17:27.449Z",
+  "coin": {
+    "ruler": null,
+    "mint": null,
+    "mintRegion": null,
+    "mintCountry": "Sikh Empire",
+    "denomination": "falus",
+    "metal": "Copper",
+    "fineness": null,
+    "weight": null,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "ND. VF",
+    "variety": "(6.34g) (uncertain mint)",
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-auction-34",
+    "eventName": "Stephen Album Rare Coins   Auction 34",
+    "auctionNumber": null,
+    "lotNumber": "2670",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "unknown"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "VF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": null,
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": null,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-33092884-1",
+      "url": "https://media.liveauctiongroup.net/i/38554/33092884_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    },
+    {
+      "file": "sarc-33092884-2",
+      "url": "https://media.liveauctiongroup.net/i/38554/33092884_2.jpg",
+      "role": "reverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": false
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AE-falus-6-34g-uncertain-mint-ND-VF_i33092884"
+    }
+  ]
+}

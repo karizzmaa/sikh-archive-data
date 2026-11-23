@@ -1,0 +1,92 @@
+{
+  "id": "sikh-001648",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AE falus (9.31g), Amritsar, ND. VF",
+  "description": "SIKH EMPIRE: AE falus (9.31g), Amritsar, ND, KM-10.2, Herrli-01.67, Gurmukhi legends both sides, denomination in Persian, yek falus, in reverse center, VF.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T08:17:27.449Z",
+  "updatedAt": "2026-11-23T08:17:27.449Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Amritsar",
+    "mintRegion": "Punjab",
+    "mintCountry": "Sikh Empire",
+    "denomination": "falus",
+    "metal": "Copper",
+    "fineness": null,
+    "weight": 9.31,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "ND. VF",
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-10",
+      "Herrli-01.67"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-auction-34",
+    "eventName": "Stephen Album Rare Coins   Auction 34",
+    "auctionNumber": null,
+    "lotNumber": "2668",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "unknown"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "VF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": null,
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": null,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-33092882-1",
+      "url": "https://media.liveauctiongroup.net/i/38554/33092882_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    },
+    {
+      "file": "sarc-33092882-2",
+      "url": "https://media.liveauctiongroup.net/i/38554/33092882_2.jpg",
+      "role": "reverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": false
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AE-falus-9-31g-Amritsar-ND-VF_i33092882"
+    }
+  ]
+}

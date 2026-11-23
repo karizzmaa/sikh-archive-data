@@ -245,6 +245,15 @@
       "date": null,
       "country": null,
       "url": null
+    },
+    {
+      "id": "stephen-album-rare-coins--stephen-album-rare-coins-auction-34",
+      "houseId": "stephen-album-rare-coins",
+      "name": "Stephen Album Rare Coins   Auction 34",
+      "auctionNumber": null,
+      "date": null,
+      "country": null,
+      "url": null
     }
   ],
   "rulers": [
@@ -644,7 +653,8 @@
     "12 paisa",
     "lot of 9 pieces",
     "LOT of 3 copper fulus",
-    "base-metal paisa/token"
+    "base-metal paisa/token",
+    "1/4 nanakshahi anna"
   ],
   "metals": [
     "Gold",
@@ -698,7 +708,8 @@
     "LOT of Sikh copper of Amritsar",
     "LOT of nanakshahi",
     "LOT of gobindshahi",
-    "LOT of of Lahore"
+    "LOT of of Lahore",
+    "(6.34g) (uncertain mint)"
   ],
   "specialities": [
     "HALF RUPEE",
