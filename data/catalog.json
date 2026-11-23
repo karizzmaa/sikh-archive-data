@@ -200,6 +200,15 @@
       "date": null,
       "country": null,
       "url": null
+    },
+    {
+      "id": "stephen-album-rare-coins--stephen-album-rare-coins--auction-29",
+      "houseId": "stephen-album-rare-coins",
+      "name": "Stephen Album Rare Coins | Auction 29",
+      "auctionNumber": null,
+      "date": null,
+      "country": null,
+      "url": null
     }
   ],
   "rulers": [
@@ -477,6 +486,36 @@
       "name": "unidentified mint",
       "region": null,
       "country": "Sikh Empire"
+    },
+    {
+      "name": "Srinagar",
+      "region": null,
+      "country": "Sikh Empire"
+    },
+    {
+      "name": "Dera Ghazi Khan (=Dera",
+      "region": null,
+      "country": "Sikh Empire"
+    },
+    {
+      "name": "1830. AU",
+      "region": null,
+      "country": "Sikh Empire"
+    },
+    {
+      "name": "1877-1949",
+      "region": null,
+      "country": "Sikh Empire"
+    },
+    {
+      "name": "ex Paul Stevens Collection.",
+      "region": null,
+      "country": "Sikh Empire"
+    },
+    {
+      "name": "ex Paul Stevens Collection",
+      "region": null,
+      "country": "Sikh Empire"
     }
   ],
   "denominations": [
@@ -514,7 +553,23 @@
     "Mahmud Shah",
     "Hira Singh",
     "1/8 rupee",
-    "nanakshahi 1/4 anna (pa-anna)"
+    "nanakshahi 1/4 anna (pa-anna)",
+    "1/2 paisa",
+    "Jagatjit Singh",
+    "5 rupees",
+    "3 rupees",
+    "6 rupees",
+    "7 rupees",
+    "4 rupees",
+    "10 rupees",
+    "LOT of 3 silver rupees: Amritsar",
+    "8 rupees",
+    "9 rupees",
+    "26 rupees",
+    "9 3 rupees",
+    "11 rupees",
+    "LOT of 13 rupees: Amritsar",
+    "LOT of 35 copper coins: Sikh Empire"
   ],
   "metals": [
     "Gold",
@@ -546,7 +601,19 @@
     "mora shahi",
     "token",
     "devaki",
-    "(1/15 mohur)"
+    "(1/15 mohur)",
+    "(falus)",
+    "(4.98g) (Kashmir?)",
+    "(4.91g) (Kashmir?)",
+    "\"pattern\"",
+    "LOT of silver of Kashmir",
+    "LOT of silver of the Lahore mint",
+    "LOT of nanakshahi of Amritsar mint",
+    "LOT of gobindshahi of Amritsar (series VS1884)",
+    "LOT of gobindshahi rupees & nanakshahi of Amritsar",
+    "LOT of nanakshahi of Amritsar",
+    "LOT of better of the Amritsar mint",
+    "LOT of better of the Amritsar mint of the VS1885 series"
   ],
   "specialities": [
     "HALF RUPEE",
@@ -581,7 +648,9 @@
     "PEACOCK",
     "RAM",
     "STAR",
-    "SPRIG"
+    "SPRIG",
+    "OM  SHRI",
+    "HAR JI"
   ],
   "gradingCompanies": [
     "NGC",

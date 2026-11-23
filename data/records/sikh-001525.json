@@ -1,0 +1,85 @@
+{
+  "id": "sikh-001525",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE:LOT of 11 nanakshahi rupees of Amritsar, ex Paul Stevens Collection.",
+  "description": "SIKH EMPIRE:LOT of 11 nanakshahi rupees of Amritsar, KM-22.1 (series VS1885): VS[18]94, VS[18]95 (3 pcs), VS[18]96; VS[18]97 (2 pcs); and VS[18]98, all but one EF or better, but some with light traces of hornsilver; KM-22.2: VS[18]93, katar (EF, slight hornsilver, 1 testmark); KM-22.4: VS[18]97, om (VF); and KM-22.6, VS[18]99, chhatra (VF); retail value $540, lot of 11 pieces, ex Paul Stevens Collection.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T02:26:43.267Z",
+  "updatedAt": "2026-11-23T02:26:43.267Z",
+  "coin": {
+    "ruler": null,
+    "mint": "ex Paul Stevens Collection.",
+    "mintRegion": null,
+    "mintCountry": "Sikh Empire",
+    "denomination": "11 rupees",
+    "metal": null,
+    "fineness": null,
+    "weight": null,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": null,
+    "variety": "LOT of nanakshahi of Amritsar",
+    "specialities": [
+      "ACCUMULATIVE LOT"
+    ],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-22"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins--auction-29",
+    "eventName": "Stephen Album Rare Coins | Auction 29",
+    "auctionNumber": null,
+    "lotNumber": "1755",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "EF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 425,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-27652219-1",
+      "url": "https://media.liveauctiongroup.net/i/32092/27652219_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-LOT-of-11-nanakshahi-rupees-of-Amritsar-ex-Paul-Stevens-Collection_i27652219"
+    }
+  ]
+}

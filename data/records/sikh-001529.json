@@ -1,0 +1,84 @@
+{
+  "id": "sikh-001529",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE & other states:LOT of 35 copper coins: Sikh Empire, Amritsar",
+  "description": "SIKH EMPIRE & other states:LOT of 35 copper coins: Sikh Empire, Amritsar:: KM-4, Herrli-01.30 (2 pcs, 1 dated AH1880 in VF condtion, one (188)0 in Fine); and KM-7.1, Herrli-01.34 (6 pcs, one VF, the rest VG to Fine), Rewa: KM-16 (VF), KM-26 (VF), plus 6 others average VG to Fine; Makrai: KM-1 or KM-2, 11 pieces, including a couple of contemporary imitations, average Fine: and Radhanpur: KM-3 and KM-16, 6 pieces, average circulating grade; all identified in paper or plastic envelopes; retail value $500, lot of 35 pieces, ex Paul Stevens Collection.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T02:26:43.268Z",
+  "updatedAt": "2026-11-23T02:26:43.268Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Amritsar",
+    "mintRegion": "Punjab",
+    "mintCountry": "Sikh Empire",
+    "denomination": "LOT of 35 copper coins: Sikh Empire",
+    "metal": null,
+    "fineness": null,
+    "weight": null,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": null,
+    "variety": null,
+    "specialities": [
+      "ACCUMULATIVE LOT"
+    ],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-4",
+      "KM-7",
+      "KM-16",
+      "KM-26",
+      "KM-1",
+      "KM-2",
+      "KM-3",
+      "Herrli-01.30",
+      "Herrli-01.34"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins--auction-29",
+    "eventName": "Stephen Album Rare Coins | Auction 29",
+    "auctionNumber": null,
+    "lotNumber": "1759",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "Fine",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 240,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-other-states-LOT-of-35-copper-coins-Sikh-Empire-Amritsar_i27652223"
+    }
+  ]
+}

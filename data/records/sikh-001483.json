@@ -1,0 +1,91 @@
+{
+  "id": "sikh-001483",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AE paisa (5.44g), Srinagar, VS(1)90x. F",
+  "description": "SIKH EMPIRE: AE paisa (5.44g), Srinagar, VS(1)90x, KM-1.3, Va-150/51, inscribed sri gadadharji saha on obverse, mint & leaf on reverse, Fine, RR, ex Paul Stevens Collection.    KM has assigned this to the Doghra rulers, time of Gulab Singh (VS1903-1913), but Valentine calls it Sikh, time of Dulip Singh, and suggested that it is dated VS1900.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T02:26:43.264Z",
+  "updatedAt": "2026-11-23T02:26:43.264Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Srinagar",
+    "mintRegion": null,
+    "mintCountry": "Sikh Empire",
+    "denomination": "paisa",
+    "metal": "Copper",
+    "fineness": null,
+    "weight": 5.44,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS(1)90x. F",
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-1"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins--auction-29",
+    "eventName": "Stephen Album Rare Coins | Auction 29",
+    "auctionNumber": null,
+    "lotNumber": "1713",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "Fine",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 240,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-27652177-1",
+      "url": "https://media.liveauctiongroup.net/i/32092/27652177_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    },
+    {
+      "file": "sarc-27652177-2",
+      "url": "https://media.liveauctiongroup.net/i/32092/27652177_2.jpg",
+      "role": "reverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": false
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AE-paisa-5-44g-Srinagar-VS-1-90x-F_i27652177"
+    }
+  ]
+}

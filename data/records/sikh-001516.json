@@ -1,0 +1,88 @@
+{
+  "id": "sikh-001516",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE:LOT of 4 silver rupees of Kashmir, ex Paul Stevens Collection",
+  "description": "SIKH EMPIRE:LOT of 4 silver rupees of Kashmir: Herrli-06.12.04, VS1881, with floral cross in obverse center (VG-F, rare); Herrli-06.19.04, DM, with Persian \"K\" (VF, some weaknes), Herrli-06.26.04, VS1885 (EF, 3 small testmarks); and Herrli-06.29.04, VS1887 (VF); all scarce types, retail value $400, lot of 4 pieces, ex Paul Stevens Collection.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T02:26:43.267Z",
+  "updatedAt": "2026-11-23T02:26:43.267Z",
+  "coin": {
+    "ruler": null,
+    "mint": "ex Paul Stevens Collection",
+    "mintRegion": null,
+    "mintCountry": "Sikh Empire",
+    "denomination": "4 rupees",
+    "metal": null,
+    "fineness": null,
+    "weight": null,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": null,
+    "variety": "LOT of silver of Kashmir",
+    "specialities": [
+      "ACCUMULATIVE LOT"
+    ],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "Herrli-06.12.04",
+      "Herrli-06.19.04",
+      "Herrli-06.26.04",
+      "Herrli-06.29.04"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins--auction-29",
+    "eventName": "Stephen Album Rare Coins | Auction 29",
+    "auctionNumber": null,
+    "lotNumber": "1746",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "EF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 350,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-27652210-1",
+      "url": "https://media.liveauctiongroup.net/i/32092/27652210_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-LOT-of-4-silver-rupees-of-Kashmir-ex-Paul-Stevens-Collection_i27652210"
+    }
+  ]
+}
