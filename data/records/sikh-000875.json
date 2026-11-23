@@ -1,0 +1,92 @@
+{
+  "id": "sikh-000875",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR rupee (11.14g), Anandgarh, VS1841",
+  "description": "SIKH EMPIRE: AR rupee (11.14g), Anandgarh, VS1841, KM-30, Herrli-02.02.04, full mint name, superb strike, choice EF, ex Deepak Haritwal Collection.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T00:30:32.448Z",
+  "updatedAt": "2026-11-23T00:30:32.448Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Anandgarh",
+    "mintRegion": "Punjab",
+    "mintCountry": "Sikh Empire",
+    "denomination": "rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": 11.14,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS1841",
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-30",
+      "Herrli-02.02.04"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins--auction-19",
+    "eventName": "Stephen Album Rare Coins | Auction 19",
+    "auctionNumber": null,
+    "lotNumber": "1543",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "unknown"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "EF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": null,
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": null,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-19474185-1",
+      "url": "https://media.liveauctiongroup.net/i/20534/19474185_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    },
+    {
+      "file": "sarc-19474185-2",
+      "url": "https://media.liveauctiongroup.net/i/20534/19474185_2.jpg",
+      "role": "reverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": false
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AR-rupee-11-14g-Anandgarh-VS1841_i19474185"
+    }
+  ]
+}

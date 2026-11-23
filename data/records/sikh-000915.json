@@ -1,0 +1,77 @@
+{
+  "id": "sikh-000915",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE:",
+  "description": "SIKH EMPIRE:LOT of 3 copper & 1 silver coin: Copper: KM-4 (Amritsar VS1881 and 1882, the latter rare, both Fine) and KM-94A (Peshawar, Fair). Silver: KM-A20.1 (Amritsar VS1864, final digit weak, VF), lot of 4 pieces.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T00:30:32.449Z",
+  "updatedAt": "2026-11-23T00:30:32.449Z",
+  "coin": {
+    "ruler": null,
+    "mint": null,
+    "mintRegion": null,
+    "mintCountry": "Sikh Empire",
+    "denomination": null,
+    "metal": null,
+    "fineness": null,
+    "weight": null,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": null,
+    "variety": null,
+    "specialities": [
+      "ACCUMULATIVE LOT"
+    ],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-4",
+      "KM-94A"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins--auction-19",
+    "eventName": "Stephen Album Rare Coins | Auction 19",
+    "auctionNumber": null,
+    "lotNumber": "1583",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "unknown"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "Fine",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": null,
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": null,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE_i19474225"
+    }
+  ]
+}

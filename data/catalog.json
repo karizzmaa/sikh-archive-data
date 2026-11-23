@@ -110,6 +110,15 @@
       "date": null,
       "country": null,
       "url": null
+    },
+    {
+      "id": "stephen-album-rare-coins--stephen-album-rare-coins--auction-19",
+      "houseId": "stephen-album-rare-coins",
+      "name": "Stephen Album Rare Coins | Auction 19",
+      "auctionNumber": null,
+      "date": null,
+      "country": null,
+      "url": null
     }
   ],
   "rulers": [
@@ -332,6 +341,11 @@
       "name": "1847-1863",
       "region": null,
       "country": "Sikh Empire"
+    },
+    {
+      "name": "Mundarka",
+      "region": null,
+      "country": "Sikh Empire"
     }
   ],
   "denominations": [
@@ -387,7 +401,8 @@
     "BI",
     "morashahi",
     "arsiwala-shahi",
-    "arsiwala"
+    "arsiwala",
+    "pattern"
   ],
   "specialities": [
     "HALF RUPEE",
