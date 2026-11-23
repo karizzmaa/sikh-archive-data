@@ -1,0 +1,91 @@
+{
+  "id": "sikh-001550",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: Duleep Singh, 1843-1849, AE paisa (8.63g) (Amritsar?), ND. VF-EF",
+  "description": "SIKH EMPIRE: Duleep Singh, 1843-1849, AE paisa (8.63g) (Amritsar?), ND, KM-—, Herrli-04.13.11. SS-54, with the name of the maharaja Duleep Singh in the Gumrukhi script on the obverse, leaf in the center of the undeciphered Gurmukhi legend on the reverse, with a 5-point flower beneath, VF to EF, RRR.    Saran Singh suggests that this type was probably not struck at Amritsar, but an undetermined local mint (in his publication on Sikh copper coinage, anticipated in 2018).",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T07:17:01.072Z",
+  "updatedAt": "2026-11-23T07:17:01.072Z",
+  "coin": {
+    "ruler": null,
+    "mint": "1843-1849",
+    "mintRegion": null,
+    "mintCountry": "Sikh Empire",
+    "denomination": "Duleep Singh",
+    "metal": null,
+    "fineness": null,
+    "weight": null,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "ND",
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "Herrli-04.13.11."
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-auction-31",
+    "eventName": "Stephen Album Rare Coins   Auction 31",
+    "auctionNumber": null,
+    "lotNumber": "2611",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "EF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 260,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-29826783-1",
+      "url": "https://media.liveauctiongroup.net/i/34711/29826783_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    },
+    {
+      "file": "sarc-29826783-2",
+      "url": "https://media.liveauctiongroup.net/i/34711/29826783_2.jpg",
+      "role": "reverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": false
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-Duleep-Singh-1843-1849-AE-paisa-8-63g-Amritsar-ND-VF-EF_i29826783"
+    }
+  ]
+}

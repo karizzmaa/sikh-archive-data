@@ -1,0 +1,92 @@
+{
+  "id": "sikh-001548",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AE heavy paisa (11.40g), Amritsar, VS1881. VF",
+  "description": "SIKH EMPIRE: AE heavy paisa (11.40g), Amritsar, VS1881, KM-6, Herrli-01.30.11, with numeral Persian numeral \"5\" to right of the pipal leaf on reverse, lovely example, choice VF, R.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T07:17:01.072Z",
+  "updatedAt": "2026-11-23T07:17:01.072Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Amritsar",
+    "mintRegion": "Punjab",
+    "mintCountry": "Sikh Empire",
+    "denomination": "paisa",
+    "metal": "Copper",
+    "fineness": null,
+    "weight": 11.4,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS1881",
+    "variety": "heavy",
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-6",
+      "Herrli-01.30.11"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-auction-31",
+    "eventName": "Stephen Album Rare Coins   Auction 31",
+    "auctionNumber": null,
+    "lotNumber": "2609",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "unknown"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "VF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": null,
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": null,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-29826781-1",
+      "url": "https://media.liveauctiongroup.net/i/34711/29826781_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    },
+    {
+      "file": "sarc-29826781-2",
+      "url": "https://media.liveauctiongroup.net/i/34711/29826781_2.jpg",
+      "role": "reverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": false
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AE-heavy-paisa-11-40g-Amritsar-VS1881-VF_i29826781"
+    }
+  ]
+}

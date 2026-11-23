@@ -1,0 +1,88 @@
+{
+  "id": "sikh-001588",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE:",
+  "description": "SIKH EMPIRE:LOT of 8 better silver rupees: Amritsar: KM-20.1, VS1860 (EF, 1 small testmark), VS1863 (EF), and VS1880 (choice AU); and KM-22.6 of the VS1885 series, dated VS1901, chattra in obverse center (AU); Lahore: KM-66.1, VS1871 (VF-EF), and VS1873 (VF-EF, stained); and Derajat: KM-373, AH1248 (VF-EF), and AH\"12\" (VF-EF); retail value $700, lot of 8 pieces.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T07:17:01.073Z",
+  "updatedAt": "2026-11-23T07:17:01.073Z",
+  "coin": {
+    "ruler": null,
+    "mint": null,
+    "mintRegion": null,
+    "mintCountry": "Sikh Empire",
+    "denomination": null,
+    "metal": null,
+    "fineness": null,
+    "weight": null,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": null,
+    "variety": null,
+    "specialities": [
+      "ACCUMULATIVE LOT"
+    ],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-20",
+      "KM-22",
+      "KM-66",
+      "KM-373"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-auction-31",
+    "eventName": "Stephen Album Rare Coins   Auction 31",
+    "auctionNumber": null,
+    "lotNumber": "2649",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "VF-EF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 375,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-29826821-1",
+      "url": "https://media.liveauctiongroup.net/i/34711/29826821_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE_i29826821"
+    }
+  ]
+}

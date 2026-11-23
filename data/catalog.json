@@ -209,6 +209,15 @@
       "date": null,
       "country": null,
       "url": null
+    },
+    {
+      "id": "stephen-album-rare-coins--stephen-album-rare-coins-auction-31",
+      "houseId": "stephen-album-rare-coins",
+      "name": "Stephen Album Rare Coins   Auction 31",
+      "auctionNumber": null,
+      "date": null,
+      "country": null,
+      "url": null
     }
   ],
   "rulers": [
@@ -516,6 +525,11 @@
       "name": "ex Paul Stevens Collection",
       "region": null,
       "country": "Sikh Empire"
+    },
+    {
+      "name": "1843-1849",
+      "region": null,
+      "country": "Sikh Empire"
     }
   ],
   "denominations": [
@@ -571,7 +585,8 @@
     "LOT of 13 rupees: Amritsar",
     "LOT of 35 copper coins: Sikh Empire",
     "27 rupees",
-    "17 rupees"
+    "17 rupees",
+    "Duleep Singh"
   ],
   "metals": [
     "Gold",

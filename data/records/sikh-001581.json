@@ -1,0 +1,92 @@
+{
+  "id": "sikh-001581",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR rupee (9.23g), Peshawar, VS1891//1891. VF",
+  "description": "SIKH EMPIRE: AR rupee (9.23g), Peshawar, VS1891//1891, KM-98.1, Herrli-13.01.04, first type, without the border of dots around the pipal leaf, a few nicks, nice overall, VF, RR.    The weight of this piece corresponds to the contemporary Afghan rupee of about 9.2-9.4 grams, the weight of the last Barakzay rupees of Peshawar, struck anonymously by Sultan Muhammad Tala'i AH1247-1249. It is likely that the border of dots added later in VS1891 (began about 15 April 1834, near the end of AH1249) represent a reduction of the Peshawar rupee weight to about 8.4-8.5 grams. In order to confirm this theory, the weight of more Peshawar VS1891 rupees without the border of dots is needed.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T07:17:01.073Z",
+  "updatedAt": "2026-11-23T07:17:01.073Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Peshawar",
+    "mintRegion": "Khyber Pakhtunkhwa",
+    "mintCountry": "Sikh Empire",
+    "denomination": "rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": 9.23,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS1891//1891. VF",
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-98",
+      "Herrli-13.01.04"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-auction-31",
+    "eventName": "Stephen Album Rare Coins   Auction 31",
+    "auctionNumber": null,
+    "lotNumber": "2642",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "VF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 170,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-29826814-1",
+      "url": "https://media.liveauctiongroup.net/i/34711/29826814_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    },
+    {
+      "file": "sarc-29826814-2",
+      "url": "https://media.liveauctiongroup.net/i/34711/29826814_2.jpg",
+      "role": "reverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": false
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AR-rupee-9-23g-Peshawar-VS1891-1891-VF_i29826814"
+    }
+  ]
+}
