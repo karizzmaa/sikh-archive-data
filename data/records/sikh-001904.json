@@ -1,0 +1,84 @@
+{
+  "id": "sikh-001904",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR nanakshahi rupee (11.12g), Amritsar, VS1878, EF",
+  "description": "SIKH EMPIRE: AR nanakshahi rupee (11.12g), Amritsar, VS1878, KM-20.1, Herrli-01.07.04, 5-petal flower in obverse center, numeral \"2\" below the leaf on the reverse, EF.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T10:57:00.690Z",
+  "updatedAt": "2026-11-23T10:57:00.690Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Amritsar",
+    "mintRegion": "Punjab",
+    "mintCountry": "Sikh Empire",
+    "denomination": "rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": 11.12,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS1878",
+    "variety": "nanakshahi",
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-20",
+      "Herrli-01.07.04"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-internet-auction-16",
+    "eventName": "Stephen Album Rare Coins   Internet Auction 16",
+    "auctionNumber": null,
+    "lotNumber": "697",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "EF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 70,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-45489246-1",
+      "url": "https://media.liveauctiongroup.net/i/56022/45489246_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AR-nanakshahi-rupee-11-12g-Amritsar-VS1878-EF_i45489246"
+    }
+  ]
+}

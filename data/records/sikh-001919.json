@@ -1,0 +1,83 @@
+{
+  "id": "sikh-001919",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AE paisa (8.44g), Dera, VS[18]97, VF",
+  "description": "SIKH EMPIRE: AE paisa (8.44g), Dera, VS[18]97, KM-, Herrli-05.10.11, unread Gurmukhi legend, large leaf in center // Gurmukhi legend, tentative read by Herrli as jarab / dhera gha / ji khan, date weak but likely (also known VS[18]98 as published by Herrli), porous surfaces, VF, RR.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T10:57:00.691Z",
+  "updatedAt": "2026-11-23T10:57:00.691Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Dera",
+    "mintRegion": null,
+    "mintCountry": "Sikh Empire",
+    "denomination": "paisa",
+    "metal": "Copper",
+    "fineness": null,
+    "weight": 8.44,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": null,
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "Herrli-05.10.11"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-internet-auction-16",
+    "eventName": "Stephen Album Rare Coins   Internet Auction 16",
+    "auctionNumber": null,
+    "lotNumber": "712",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "unknown"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "VF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": null,
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": null,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-45489261-1",
+      "url": "https://media.liveauctiongroup.net/i/56022/45489261_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AE-paisa-8-44g-Dera-VS-18-97-VF_i45489261"
+    }
+  ]
+}
