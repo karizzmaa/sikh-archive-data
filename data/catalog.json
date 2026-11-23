@@ -227,6 +227,15 @@
       "date": null,
       "country": null,
       "url": null
+    },
+    {
+      "id": "stephen-album-rare-coins--stephen-album-rare-coins-auction-33-january-17-19-2019",
+      "houseId": "stephen-album-rare-coins",
+      "name": "Stephen Album Rare Coins   Auction 33   January 17-19, 2019",
+      "auctionNumber": null,
+      "date": null,
+      "country": null,
+      "url": null
     }
   ],
   "rulers": [
@@ -554,6 +563,16 @@
       "name": "1830. EF",
       "region": null,
       "country": "Sikh Empire"
+    },
+    {
+      "name": "uncertain mint",
+      "region": null,
+      "country": "Sikh Empire"
+    },
+    {
+      "name": "VS[1]832. VF",
+      "region": null,
+      "country": "Sikh Empire"
     }
   ],
   "denominations": [
@@ -615,7 +634,8 @@
     "LOT of 7 copper coins",
     "12 paisa",
     "lot of 9 pieces",
-    "LOT of 3 copper fulus"
+    "LOT of 3 copper fulus",
+    "base-metal paisa/token"
   ],
   "metals": [
     "Gold",
