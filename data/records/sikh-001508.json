@@ -7,10 +7,10 @@
   "verification": "verified",
   "adminNotes": null,
   "createdAt": "2026-11-23T02:26:43.267Z",
-  "updatedAt": "2026-11-23T02:26:43.267Z",
+  "updatedAt": "2026-11-23T02:49:40.765Z",
   "coin": {
     "ruler": null,
-    "mint": "1877-1949",
+    "mint": null,
     "mintRegion": null,
     "mintCountry": "Sikh Empire",
     "denomination": "Jagatjit Singh",

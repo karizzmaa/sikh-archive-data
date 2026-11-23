@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T02:47:07.656Z",
+  "generatedAt": "2026-11-23T02:49:41.702Z",
   "entries": [
     {
       "id": "sikh-001202",
@@ -15027,7 +15027,7 @@
       "weight": null,
       "references": [],
       "ruler": null,
-      "mint": "1877-1949",
+      "mint": null,
       "mintRegion": null,
       "mintCountry": "Sikh Empire",
       "denomination": "Jagatjit Singh",
@@ -15063,7 +15063,7 @@
       "imageCount": 2,
       "verification": "verified",
       "createdAt": "2026-11-23T02:26:43.267Z",
-      "updatedAt": "2026-11-23T02:26:43.267Z"
+      "updatedAt": "2026-11-23T02:49:40.765Z"
     },
     {
       "id": "sikh-001509",
