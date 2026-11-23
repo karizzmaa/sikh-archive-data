@@ -398,6 +398,15 @@
       "date": null,
       "country": null,
       "url": null
+    },
+    {
+      "id": "stephen-album-rare-coins--stephen-album-rare-coins-auction-44",
+      "houseId": "stephen-album-rare-coins",
+      "name": "Stephen Album Rare Coins   Auction 44",
+      "auctionNumber": null,
+      "date": null,
+      "country": null,
+      "url": null
     }
   ],
   "rulers": [
@@ -770,6 +779,11 @@
       "name": "EF",
       "region": null,
       "country": "Sikh Empire"
+    },
+    {
+      "name": "Dera or Derajat",
+      "region": null,
+      "country": "Sikh Empire"
     }
   ],
   "denominations": [
@@ -897,7 +911,8 @@
     "(6.34g) (uncertain mint)",
     "LOT of silver",
     "LOT of silver of Amristar",
-    "LOT of of Derajat mint"
+    "LOT of of Derajat mint",
+    "(paisa)"
   ],
   "specialities": [
     "HALF RUPEE",

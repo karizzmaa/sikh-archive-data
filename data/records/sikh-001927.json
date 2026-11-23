@@ -1,0 +1,84 @@
+{
+  "id": "sikh-001927",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR nanakshahi rupee (10.97g), Dar Jhang / Amritsar, VS1874, bold EF",
+  "description": "SIKH EMPIRE: AR nanakshahi rupee (10.97g), Dar Jhang / Amritsar, VS1874, KM-20.1a, Herrli-01.09.04, cf. ONS Newsletter vol. 143 (1995), with mint name Amritsar at the top and dar jhang in left center, both on reverse, with sprig below the leaf on reverse; 2 banker's marks on the edge, without any testmarks on the surfaces, bold EF, RR.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T10:59:17.143Z",
+  "updatedAt": "2026-11-23T10:59:17.143Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Dar Jhang / Amritsar",
+    "mintRegion": null,
+    "mintCountry": "Sikh Empire",
+    "denomination": "rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": 10.97,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS1874",
+    "variety": "nanakshahi",
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-20",
+      "Herrli-01.09.04"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-auction-44",
+    "eventName": "Stephen Album Rare Coins   Auction 44",
+    "auctionNumber": null,
+    "lotNumber": "761",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "EF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 2600,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-46002229-1",
+      "url": "https://media.liveauctiongroup.net/i/56771/46002229_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AR-nanakshahi-rupee-10-97g-Dar-Jhang-Amritsar-VS1874-bold-EF_i46002229"
+    }
+  ]
+}

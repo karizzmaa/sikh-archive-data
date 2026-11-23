@@ -1,0 +1,83 @@
+{
+  "id": "sikh-001936",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AE falus (paisa) (7.67g), Peshawar, DM, bold VF-EF",
+  "description": "SIKH EMPIRE: AE falus (paisa) (7.67g), Peshawar, DM, KM-94A, Herrli-, SCP-74, pipal leaf in center, date above (off flan, normal VS1891 in Arabic) // undeciphered Gurmukhi legend, with extra pellets above instead of the date in Arabic; cf. example sold in our Auction 22, Lot 936, for the Arabic date above the reverse; overstruck as always, bold VF-EF, RR.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T10:59:17.143Z",
+  "updatedAt": "2026-11-23T10:59:17.143Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Peshawar",
+    "mintRegion": "Khyber Pakhtunkhwa",
+    "mintCountry": "Sikh Empire",
+    "denomination": "falus",
+    "metal": "Copper",
+    "fineness": null,
+    "weight": 7.67,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": null,
+    "variety": "(paisa)",
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-94A"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-auction-44",
+    "eventName": "Stephen Album Rare Coins   Auction 44",
+    "auctionNumber": null,
+    "lotNumber": "2207",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "VF-EF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 425,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-46003680-1",
+      "url": "https://media.liveauctiongroup.net/i/56771/46003680_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AE-falus-paisa-7-67g-Peshawar-DM-bold-VF-EF_i46003680"
+    }
+  ]
+}

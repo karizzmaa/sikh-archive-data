@@ -1,0 +1,81 @@
+{
+  "id": "sikh-001956",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AE falus (paisa) (8.01g), Dera, ND, F-VF",
+  "description": "SIKH EMPIRE: AE falus (paisa) (8.01g), Dera, ND, KM-, Herrli-, cf. Valentine-627, pipal leaf with mint formula // legend rayij fath (gobind) (current, victory of Gobind), sword below, F-VF, RR.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T10:59:17.144Z",
+  "updatedAt": "2026-11-23T10:59:17.144Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Dera",
+    "mintRegion": null,
+    "mintCountry": "Sikh Empire",
+    "denomination": "falus",
+    "metal": "Copper",
+    "fineness": null,
+    "weight": 8.01,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "ND",
+    "variety": "(paisa)",
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-auction-44",
+    "eventName": "Stephen Album Rare Coins   Auction 44",
+    "auctionNumber": null,
+    "lotNumber": "2227",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "VF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 100,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-46003700-1",
+      "url": "https://media.liveauctiongroup.net/i/56771/46003700_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AE-falus-paisa-8-01g-Dera-ND-F-VF_i46003700"
+    }
+  ]
+}
