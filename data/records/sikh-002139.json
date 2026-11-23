@@ -1,0 +1,84 @@
+{
+  "id": "sikh-002139",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR rupee (11.15g), Lahore, VS1841, EF",
+  "description": "SIKH EMPIRE: AR rupee (11.15g), Lahore, VS1841, KM-64, Herrli-08.04.04, first year of the Nanakshahi series (the Gobindshahi series was struck from VS1822-1840), bold strike, EF, ex Butalia Collection. The Nanakshahi series survived until the final Lahore rupee in VS1903, but from the year VS1856 onwards the leaf was added to the reverse, always placed left of the VS date.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T12:01:36.139Z",
+  "updatedAt": "2026-11-23T12:01:36.139Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Lahore",
+    "mintRegion": "Punjab",
+    "mintCountry": "Sikh Empire",
+    "denomination": "rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": 11.15,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS1841",
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-64",
+      "Herrli-08.04.04"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-auction-46-may-18-21-2023",
+    "eventName": "Stephen Album Rare Coins   Auction 46   May 18-21, 2023",
+    "auctionNumber": null,
+    "lotNumber": "2049",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "EF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 160,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-48645514-1",
+      "url": "https://media.liveauctiongroup.net/i/60574/48645514_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AR-rupee-11-15g-Lahore-VS1841-EF_i48645514"
+    }
+  ]
+}

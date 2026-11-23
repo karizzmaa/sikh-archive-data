@@ -1,0 +1,84 @@
+{
+  "id": "sikh-002124",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR gobindshahi rupee (10.35g), Anandgarh, VS1846, VF-EF",
+  "description": "SIKH EMPIRE: AR gobindshahi rupee (10.35g), Anandgarh, VS1846, KM-30, Herrli-02.02.04, with the Arabic numeral \"6\" added below the reverse field, 1 testmark, VF-EF, ex Butalia Collection. There is only one rupee type for Anandgarh (Herrli-02.02.04), not the 6 subtypes suggested by Herrli nor the 2 subtypes suggested by Singh.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T12:01:36.139Z",
+  "updatedAt": "2026-11-23T12:01:36.139Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Anandgarh",
+    "mintRegion": "Punjab",
+    "mintCountry": "Sikh Empire",
+    "denomination": "rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": 10.35,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS1846",
+    "variety": "gobindshahi",
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-30",
+      "Herrli-02.02.04"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-auction-46-may-18-21-2023",
+    "eventName": "Stephen Album Rare Coins   Auction 46   May 18-21, 2023",
+    "auctionNumber": null,
+    "lotNumber": "2034",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "VF-EF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 120,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-48645499-1",
+      "url": "https://media.liveauctiongroup.net/i/60574/48645499_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AR-gobindshahi-rupee-10-35g-Anandgarh-VS1846-VF-EF_i48645499"
+    }
+  ]
+}
