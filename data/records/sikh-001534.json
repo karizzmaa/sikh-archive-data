@@ -1,0 +1,89 @@
+{
+  "id": "sikh-001534",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AV mohur (11.55g), Amritsar, VS1843 year GN31x. EF",
+  "description": "SIKH EMPIRE: AV mohur (11.55g), Amritsar, VS1843 year GN31x, KM-—, Herrli-\"01.05.01\", Misl period, struck in the Bhangi Misl, centered at Amritsar, then under the rule of Ghulab Singh Bhangi; mount attached, unique and the earliest known Sikh Empire coin struck in gold, choice EF, RRRR.    This VS1843 mohur was not struck for circulation, but was almost certainly a very special piece ordered by Ghulab Singh Bhangi, the seventh chief of Bhangi Misl, for presentation for a chief official or for a member of his own family. It was produced from the same dies used for silver rupee, and the actual production was either just one piece or a very small group, of which this is first reported piece. Unlisted by both Herrli and Gurprit Singh, it is of the same type as the silver rupees of type 01.05 and 01.09, respectively. The mounting indicated that this was made to be worn, most likely, attached to a neckless worn by the receiver. Thus it served the same function as a nazarana mohur.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T07:04:42.953Z",
+  "updatedAt": "2026-11-23T07:04:42.953Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Amritsar",
+    "mintRegion": "Punjab",
+    "mintCountry": "Sikh Empire",
+    "denomination": "mohur",
+    "metal": "Gold",
+    "fineness": null,
+    "weight": 11.55,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS1843 year GN31x. EF",
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-auction-30",
+    "eventName": "Stephen Album Rare Coins   Auction 30",
+    "auctionNumber": null,
+    "lotNumber": "2547",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "EF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 13000,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-28669834-1",
+      "url": "https://media.liveauctiongroup.net/i/33320/28669834_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    },
+    {
+      "file": "sarc-28669834-2",
+      "url": "https://media.liveauctiongroup.net/i/33320/28669834_2.jpg",
+      "role": "reverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": false
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AV-mohur-11-55g-Amritsar-VS1843-year-GN31x-EF_i28669834"
+    }
+  ]
+}
