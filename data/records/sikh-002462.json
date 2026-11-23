@@ -1,0 +1,84 @@
+{
+  "id": "sikh-002462",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR rupee (8.49g), Peshawar, VS1892//1892, choice VF-XF",
+  "description": "SIKH EMPIRE: AR rupee (8.49g), Peshawar, VS1892//1892, KM-98.2, Herrli-13.12.04, choice VF-XF, ex Ajit Singh Collection. All examples of this type bear the Gobindshahi couplet on the obverse, with the mint, date and pipal leaf on the reverse.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T13:17:40.122Z",
+  "updatedAt": "2026-11-23T13:17:40.122Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Peshawar",
+    "mintRegion": "Khyber Pakhtunkhwa",
+    "mintCountry": "Sikh Empire",
+    "denomination": "rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": 8.49,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS1892//1892",
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-98",
+      "Herrli-13.12.04"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins--auction-51--january-23-26-2025",
+    "eventName": "Stephen Album Rare Coins | Auction 51 | January 23-26, 2025",
+    "auctionNumber": null,
+    "lotNumber": "714",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "XF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 325,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-55128552-1",
+      "url": "https://media.liveauctiongroup.net/i/70161/55128552_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AR-rupee-8-49g-Peshawar-VS1892-1892-choice-VF-XF_i55128552"
+    }
+  ]
+}

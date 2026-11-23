@@ -1,0 +1,85 @@
+{
+  "id": "sikh-002487",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AE paisa (9.26g), 1830, VF",
+  "description": "SIKH EMPIRE: AE paisa (9.26g), 1830, KM-Pn1. Herrli-04-20-11, Zeno-337279 (this piece), pseudo-Sikh machine-struck token or \"pattern\", often regarded as a fantasy: coarsely engraved Persian inscription on machine-struck planchet, citing Baba Nanak and Ranjit Singh, VF, RR.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T13:17:40.122Z",
+  "updatedAt": "2026-11-23T13:17:40.122Z",
+  "coin": {
+    "ruler": null,
+    "mint": "VF",
+    "mintRegion": null,
+    "mintCountry": "Sikh Empire",
+    "denomination": "paisa",
+    "metal": "Copper",
+    "fineness": null,
+    "weight": 9.26,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "1830",
+    "variety": null,
+    "specialities": [
+      "MACHINE STRUCK"
+    ],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "Herrli-04"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins--auction-51--january-23-26-2025",
+    "eventName": "Stephen Album Rare Coins | Auction 51 | January 23-26, 2025",
+    "auctionNumber": null,
+    "lotNumber": "2717",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "VF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 280,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-55130556-1",
+      "url": "https://media.liveauctiongroup.net/i/70161/55130556_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AE-paisa-9-26g-1830-VF_i55130556"
+    }
+  ]
+}
