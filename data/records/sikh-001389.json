@@ -1,0 +1,100 @@
+{
+  "id": "sikh-001389",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR rupee (8.53g), Peshawar, VS1892//1892. NGC MS63",
+  "description": "SIKH EMPIRE: AR rupee (8.53g), Peshawar, VS1892//1892, KM-98.2. Herrli-13.02.04, fantastic bold strike, NGC graded MS63, R, ex Ajit Singh Collection.    All examples of this type bear the Gobindshahi couplet on the obverse, mint, date and pipal leaf on reverse.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T02:16:43.715Z",
+  "updatedAt": "2026-11-23T02:16:43.715Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Peshawar",
+    "mintRegion": "Khyber Pakhtunkhwa",
+    "mintCountry": "Sikh Empire",
+    "denomination": "rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": 8.53,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS1892//1892. NGC MS63",
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-98",
+      "Herrli-13.02.04"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins--auction-28",
+    "eventName": "Stephen Album Rare Coins | Auction 28",
+    "auctionNumber": null,
+    "lotNumber": "2755",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": null,
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 325,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-27047779-1",
+      "url": "https://media.liveauctiongroup.net/i/31208/27047779_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    },
+    {
+      "file": "sarc-27047779-2",
+      "url": "https://media.liveauctiongroup.net/i/31208/27047779_2.jpg",
+      "role": "reverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": false
+    },
+    {
+      "file": "sarc-27047779-3",
+      "url": "https://media.liveauctiongroup.net/i/31208/27047779_3.jpg",
+      "role": "additional",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": false
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AR-rupee-8-53g-Peshawar-VS1892-1892-NGC-MS63_i27047779"
+    }
+  ]
+}
