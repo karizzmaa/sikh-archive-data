@@ -587,6 +587,24 @@
       "date": null,
       "country": null,
       "url": null
+    },
+    {
+      "id": "stephen-album-rare-coins--accumulations--collections-auction-1",
+      "houseId": "stephen-album-rare-coins",
+      "name": "Accumulations & Collections Auction 1",
+      "auctionNumber": null,
+      "date": null,
+      "country": null,
+      "url": null
+    },
+    {
+      "id": "stephen-album-rare-coins--sarc--internet-auction-31",
+      "houseId": "stephen-album-rare-coins",
+      "name": "SARC | Internet Auction 31",
+      "auctionNumber": null,
+      "date": null,
+      "country": null,
+      "url": null
     }
   ],
   "rulers": [
@@ -1164,7 +1182,8 @@
     "LOT of silver of Amritsar Mint",
     "LOT of scarce silver",
     "phunalshahi",
-    "(= 1/15 mohur)"
+    "(= 1/15 mohur)",
+    "LOT of scarce"
   ],
   "specialities": [
     "HALF RUPEE",
