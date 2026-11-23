@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T02:44:28.666Z",
+  "generatedAt": "2026-11-23T02:45:54.986Z",
   "entries": [
     {
       "id": "sikh-001202",
@@ -9951,7 +9951,7 @@
         "Herrli-04.20.11"
       ],
       "ruler": null,
-      "mint": "NM",
+      "mint": null,
       "mintRegion": null,
       "mintCountry": "Sikh Empire",
       "denomination": "paisa",
@@ -9987,7 +9987,7 @@
       "imageCount": 2,
       "verification": "verified",
       "createdAt": "2026-11-23T02:16:43.715Z",
-      "updatedAt": "2026-11-23T02:16:43.715Z"
+      "updatedAt": "2026-11-23T02:45:54.064Z"
     },
     {
       "id": "sikh-001406",
