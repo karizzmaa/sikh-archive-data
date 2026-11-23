@@ -1,0 +1,91 @@
+{
+  "id": "sikh-002016",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: LOT of 6 silver Amritsar rupees",
+  "description": "SIKH EMPIRE: LOT of 6 silver Amritsar rupees, KM-21.1 & 21.2, VS1884 series: nanakshahi type KM-21.1: VS[18]85, 86, 90, 92, and 96; and gobindshahi type KM-21.2: VS[18]99; average VF to EF, including 4 with small testmarks; retail value $350, lot of 6 pieces.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T11:52:58.468Z",
+  "updatedAt": "2026-11-23T11:52:58.468Z",
+  "coin": {
+    "ruler": null,
+    "mint": null,
+    "mintRegion": null,
+    "mintCountry": "Sikh Empire",
+    "denomination": "6 rupees",
+    "metal": null,
+    "fineness": null,
+    "weight": null,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": null,
+    "variety": "LOT of silver Amritsar",
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-21"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-auction-45-january-26-29-2023",
+    "eventName": "Stephen Album Rare Coins   Auction 45   January 26-29, 2023",
+    "auctionNumber": null,
+    "lotNumber": "3098",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "EF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 260,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-47287941-1",
+      "url": "https://media.liveauctiongroup.net/i/58698/47287941_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    },
+    {
+      "file": "sarc-47287941-2",
+      "url": "https://media.liveauctiongroup.net/i/58698/47287941_2.jpg",
+      "role": "reverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": false
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-LOT-of-6-silver-Amritsar-rupees_i47287941"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "sikh-002020",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: LOT of 35 copper paise with Persian legends",
+  "description": "SIKH EMPIRE: LOT of 35 copper paise with Persian legends, Amritsar Mint: type KM-4, Herrli-01.30.11, some showing the dates VS1880 or 1881, average weight about 11.5g; average Fine condition, but several nicer, many with very light adhesions (probably removable by careful cleaning); should be an interesting die study group; retail value $1200, lot of 35 pieces.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T11:52:58.468Z",
+  "updatedAt": "2026-11-23T11:52:58.468Z",
+  "coin": {
+    "ruler": null,
+    "mint": null,
+    "mintRegion": null,
+    "mintCountry": "Sikh Empire",
+    "denomination": "35 paise",
+    "metal": null,
+    "fineness": null,
+    "weight": null,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": null,
+    "variety": "LOT of copper with Persian legends",
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-4",
+      "Herrli-01.30.11"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-auction-45-january-26-29-2023",
+    "eventName": "Stephen Album Rare Coins   Auction 45   January 26-29, 2023",
+    "auctionNumber": null,
+    "lotNumber": "3103",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "Fine",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 425,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-47287946-1",
+      "url": "https://media.liveauctiongroup.net/i/58698/47287946_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-LOT-of-35-copper-paise-with-Persian-legends_i47287946"
+    }
+  ]
+}

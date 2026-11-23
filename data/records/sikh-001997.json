@@ -1,0 +1,84 @@
+{
+  "id": "sikh-001997",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR mora shahi rupee (11.17g), Amritsar, VS1862, attractive VF",
+  "description": "SIKH EMPIRE: AR mora shahi rupee (11.17g), Amritsar, VS1862, KM-20.4, Herrli-01.13.04. SS-AM.37e, double sprig with buds in obverse center, denomination more correctly \"ber shahi rupee\", fish & star in obverse field, attractive VF.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T11:52:58.468Z",
+  "updatedAt": "2026-11-23T11:52:58.468Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Amritsar",
+    "mintRegion": "Punjab",
+    "mintCountry": "Sikh Empire",
+    "denomination": "rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": 11.17,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS1862",
+    "variety": "mora shahi",
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-20",
+      "Herrli-01.13.04."
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-auction-45-january-26-29-2023",
+    "eventName": "Stephen Album Rare Coins   Auction 45   January 26-29, 2023",
+    "auctionNumber": null,
+    "lotNumber": "2244",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "VF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 325,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-47286883-1",
+      "url": "https://media.liveauctiongroup.net/i/58698/47286883_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AR-mora-shahi-rupee-11-17g-Amritsar-VS1862-attractive-VF_i47286883"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "sikh-002004",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR rupee, Amritsar, VS[18]85, PCGS MS63",
+  "description": "SIKH EMPIRE: AR rupee, Amritsar, VS[18]85, KM-20.1, Herrli-01.07.04, frozen year VS1884, a lovely mint state example! PCGS graded MS63.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T11:52:58.468Z",
+  "updatedAt": "2026-11-23T11:52:58.468Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Amritsar",
+    "mintRegion": "Punjab",
+    "mintCountry": "Sikh Empire",
+    "denomination": "rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": null,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": null,
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-20",
+      "Herrli-01.07.04"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-auction-45-january-26-29-2023",
+    "eventName": "Stephen Album Rare Coins   Auction 45   January 26-29, 2023",
+    "auctionNumber": null,
+    "lotNumber": "2251",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "PCGS",
+    "grade": "MS63",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 475,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-47286890-1",
+      "url": "https://media.liveauctiongroup.net/i/58698/47286890_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    },
+    {
+      "file": "sarc-47286890-2",
+      "url": "https://media.liveauctiongroup.net/i/58698/47286890_2.jpg",
+      "role": "reverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": false
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AR-rupee-Amritsar-VS-18-85-PCGS-MS63_i47286890"
+    }
+  ]
+}

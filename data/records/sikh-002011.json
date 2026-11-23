@@ -1,0 +1,83 @@
+{
+  "id": "sikh-002011",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AE falus (8.21g), Peshawar, DM, VF",
+  "description": "SIKH EMPIRE: AE falus (8.21g), Peshawar, DM, KM-, Herrli-. SS-, Durrani-style legend in the name of the long-deceased Taimur Shah // bird left, mint formula around, VF, RRR. Only one known example of this type has been sold, in our Auction 44, Lot 2214. Prior to that it was unpublished.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T11:52:58.468Z",
+  "updatedAt": "2026-11-23T11:52:58.468Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Peshawar",
+    "mintRegion": "Khyber Pakhtunkhwa",
+    "mintCountry": "Sikh Empire",
+    "denomination": "falus",
+    "metal": "Copper",
+    "fineness": null,
+    "weight": 8.21,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": null,
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "Herrli-."
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-auction-45-january-26-29-2023",
+    "eventName": "Stephen Album Rare Coins   Auction 45   January 26-29, 2023",
+    "auctionNumber": null,
+    "lotNumber": "2258",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "VF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 425,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-47286897-1",
+      "url": "https://media.liveauctiongroup.net/i/58698/47286897_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AE-falus-8-21g-Peshawar-DM-VF_i47286897"
+    }
+  ]
+}

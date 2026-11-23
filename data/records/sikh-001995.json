@@ -1,0 +1,85 @@
+{
+  "id": "sikh-001995",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AE paisa (11.25g), Amritsar, VS(1)887, choice VF",
+  "description": "SIKH EMPIRE: AE paisa (11.25g), Amritsar, VS(1)887, Herrli-01.30, KM-4var. SS-AM.10, generally as type Herrli-01.30.11 (KM-4), listed only for VS1880-1882; the year VS1887 is omitted from KM and Herrli; fine style like the normal examples dated VS1880-1882, the best known example of this date, choice VF, RRR. We have also sold two examples in Auctions 43 and 44, but this piece is far superior.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T11:52:58.468Z",
+  "updatedAt": "2026-11-23T11:52:58.468Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Amritsar",
+    "mintRegion": "Punjab",
+    "mintCountry": "Sikh Empire",
+    "denomination": "paisa",
+    "metal": "Copper",
+    "fineness": null,
+    "weight": 11.25,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS(1)887",
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-4",
+      "Herrli-01.30",
+      "Herrli-01.30.11"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-auction-45-january-26-29-2023",
+    "eventName": "Stephen Album Rare Coins   Auction 45   January 26-29, 2023",
+    "auctionNumber": null,
+    "lotNumber": "2242",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "Fine",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 200,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-47286881-1",
+      "url": "https://media.liveauctiongroup.net/i/58698/47286881_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AE-paisa-11-25g-Amritsar-VS-1-887-choice-VF_i47286881"
+    }
+  ]
+}

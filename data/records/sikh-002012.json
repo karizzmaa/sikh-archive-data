@@ -1,0 +1,83 @@
+{
+  "id": "sikh-002012",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AE falus (10.17g), Peshawar, AH1238 year 6, F-VF",
+  "description": "SIKH EMPIRE: AE falus (10.17g), Peshawar, AH1238 year 6, KM-730, A-3127, SCP-20, SS-PW.10, in the name of Ayyub (Durrani); tall leaf in center, mint name below (mostly off flan on this specimen), Fine to VF, RR. The only other specimen we have seen was sold in our Auction 24, Lot 1903.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T11:52:58.468Z",
+  "updatedAt": "2026-11-23T11:52:58.468Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Peshawar",
+    "mintRegion": "Khyber Pakhtunkhwa",
+    "mintCountry": "Sikh Empire",
+    "denomination": "falus",
+    "metal": "Copper",
+    "fineness": null,
+    "weight": 10.17,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "AH1238 year 6",
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-730"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-auction-45-january-26-29-2023",
+    "eventName": "Stephen Album Rare Coins   Auction 45   January 26-29, 2023",
+    "auctionNumber": null,
+    "lotNumber": "2259",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "Fine",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 180,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-47286898-1",
+      "url": "https://media.liveauctiongroup.net/i/58698/47286898_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AE-falus-10-17g-Peshawar-AH1238-year-6-F-VF_i47286898"
+    }
+  ]
+}
