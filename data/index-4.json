@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T09:46:13.315Z",
+  "generatedAt": "2026-11-23T09:47:27.764Z",
   "entries": [
     {
       "id": "sikh-001602",
@@ -6424,6 +6424,54 @@
       "verification": "verified",
       "createdAt": "2026-11-23T09:46:13.315Z",
       "updatedAt": "2026-11-23T09:46:13.315Z"
+    },
+    {
+      "id": "sikh-001734",
+      "specimenId": null,
+      "title": "SIKH EMPIRE: AR rupee, Amritsar, VS1877. PCGS UNC",
+      "description": "SIKH EMPIRE: AR rupee, Amritsar, VS1877, KM-20.1, shroff mark, PCGS graded Unc details.",
+      "weight": null,
+      "references": [
+        "KM-20"
+      ],
+      "ruler": null,
+      "mint": "Amritsar",
+      "mintRegion": "Punjab",
+      "mintCountry": "Sikh Empire",
+      "denomination": "rupee",
+      "metal": "Silver",
+      "year": null,
+      "yearEnd": null,
+      "yearApprox": false,
+      "dateText": "VS1877. PCGS UNC",
+      "variety": null,
+      "specialities": [],
+      "gradingCompany": "PCGS",
+      "grade": "UNC",
+      "certNumber": null,
+      "houseId": "stephen-album-rare-coins",
+      "houseName": "Stephen Album Rare Coins",
+      "houseCountry": "USA",
+      "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-internet-auction-10",
+      "eventName": "Stephen Album Rare Coins   Internet Auction 10",
+      "auctionNumber": null,
+      "lotNumber": "955",
+      "auctionDate": null,
+      "auctionLocation": null,
+      "auctionCountry": null,
+      "status": "sold",
+      "currency": "USD",
+      "estimateLow": null,
+      "estimateHigh": null,
+      "hammer": 170,
+      "buyersPremiumPercent": null,
+      "total": null,
+      "totalIncludesPremium": null,
+      "primaryImage": "https://media.liveauctiongroup.net/i/49914/41543721_1.jpg",
+      "imageCount": 2,
+      "verification": "verified",
+      "createdAt": "2026-11-23T09:47:27.764Z",
+      "updatedAt": "2026-11-23T09:47:27.764Z"
     }
   ]
 }
