@@ -1,0 +1,83 @@
+{
+  "id": "sikh-002520",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AE paisa (6.04g), Amritsar, DM/ND, XF",
+  "description": "SIKH EMPIRE: AE paisa (6.04g), Amritsar, DM/ND, KM-, Herrli-01.32.11/12, Persian legends both sides, known dated VS1897; extremely rare, with no examples on CoinArchives or acsearch, XF, RRR. There is apparently only one denomination of this type, roughly 6-7 gram weight.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T13:27:59.017Z",
+  "updatedAt": "2026-11-23T13:27:59.017Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Amritsar",
+    "mintRegion": "Punjab",
+    "mintCountry": "Sikh Empire",
+    "denomination": "paisa",
+    "metal": "Copper",
+    "fineness": null,
+    "weight": 6.04,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": null,
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "Herrli-01.32.11"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins--auction-53--september-18-21-2025",
+    "eventName": "Stephen Album Rare Coins | Auction 53 | September 18-21, 2025",
+    "auctionNumber": null,
+    "lotNumber": "2563",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "XF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 475,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-57748616-1",
+      "url": "https://media.liveauctiongroup.net/i/74300/57748616_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AE-paisa-6-04g-Amritsar-DM-ND-XF_i57748616"
+    }
+  ]
+}

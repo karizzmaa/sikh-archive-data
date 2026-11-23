@@ -1,0 +1,84 @@
+{
+  "id": "sikh-002519",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AE falus (9.11g), Alkai Peshawar, AH(1265), bold VF",
+  "description": "SIKH EMPIRE: AE falus (9.11g), Alkai Peshawar, AH(1265), KM-99, Herrli-13.05.11, 5-petal flower // Persian legend; alkai means \"district\"; overstruck on older type of Peshawar, with the mint name of the host coin visible on the obverse, bold VF, R.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T13:27:59.017Z",
+  "updatedAt": "2026-11-23T13:27:59.017Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Alkai Peshawar",
+    "mintRegion": null,
+    "mintCountry": "Sikh Empire",
+    "denomination": "falus",
+    "metal": "Copper",
+    "fineness": null,
+    "weight": 9.11,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "AH(1265)",
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-99",
+      "Herrli-13.05.11"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins--auction-53--september-18-21-2025",
+    "eventName": "Stephen Album Rare Coins | Auction 53 | September 18-21, 2025",
+    "auctionNumber": null,
+    "lotNumber": "2562",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "VF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 90,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-57748615-1",
+      "url": "https://media.liveauctiongroup.net/i/74300/57748615_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AE-falus-9-11g-Alkai-Peshawar-AH-1265-bold-VF_i57748615"
+    }
+  ]
+}
