@@ -1,0 +1,93 @@
+{
+  "id": "sikh-001016",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR nanakshahi rupee (10.89g), Amritsar, VS[18]94. KM-22.4, with RAM, VF-EF",
+  "description": "SIKH EMPIRE: AR nanakshahi rupee (10.89g), Amritsar, VS[18]94. KM-22.4. Herrli-—, VS1885 series, with RAM, extremely rare date, 3 small testmarks but still very attractive, VF to EF, RRR. \r\nEstimated Value $400 - 500. \r\n\r\nListed by Herrli on page 75 in his book. Unlisted by KM, but another specimen (same reverse die, without testmarks), was sold at the Spink Auction 6003, Lot 1230, for £420, then about $728.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T01:08:45.678Z",
+  "updatedAt": "2026-11-23T01:08:45.678Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Amritsar",
+    "mintRegion": "Punjab",
+    "mintCountry": "Sikh Empire",
+    "denomination": "rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": 10.89,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": null,
+    "variety": "nanakshahi",
+    "specialities": [
+      "RAM"
+    ],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-22"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins--auction-22",
+    "eventName": "Stephen Album Rare Coins | Auction 22",
+    "auctionNumber": null,
+    "lotNumber": "933",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "EF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 1400,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-21995625-1",
+      "url": "https://media.liveauctiongroup.net/i/24219/21995625_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    },
+    {
+      "file": "sarc-21995625-2",
+      "url": "https://media.liveauctiongroup.net/i/24219/21995625_2.jpg",
+      "role": "reverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": false
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AR-nanakshahi-rupee-10-89g-Amritsar-VS-18-94-KM-22-4-with-RAM-VF-EF_i21995625"
+    }
+  ]
+}

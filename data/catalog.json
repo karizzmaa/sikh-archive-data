@@ -137,6 +137,15 @@
       "date": null,
       "country": null,
       "url": null
+    },
+    {
+      "id": "stephen-album-rare-coins--stephen-album-rare-coins--auction-22",
+      "houseId": "stephen-album-rare-coins",
+      "name": "Stephen Album Rare Coins | Auction 22",
+      "auctionNumber": null,
+      "date": null,
+      "country": null,
+      "url": null
     }
   ],
   "rulers": [
@@ -379,6 +388,21 @@
       "name": "KM-—",
       "region": null,
       "country": "Sikh Empire"
+    },
+    {
+      "name": "Dar Jhang",
+      "region": null,
+      "country": "Sikh Empire"
+    },
+    {
+      "name": "Nimak",
+      "region": null,
+      "country": "Sikh Empire"
+    },
+    {
+      "name": "2nd reign",
+      "region": null,
+      "country": "Sikh Empire"
     }
   ],
   "denominations": [
@@ -410,7 +434,10 @@
     "Bharpur Singh",
     "\"rupee\"",
     "Raja Jaswant Singh",
-    "LOT of 9 copper coins"
+    "LOT of 9 copper coins",
+    "\"paisa\"",
+    "billishahi",
+    "Mahmud Shah"
   ],
   "metals": [
     "Gold",
@@ -471,7 +498,8 @@
     "REEDED GOLD",
     "DOUBLE LINE",
     "PLAIN EDGE GOLD",
-    "PEACOCK"
+    "PEACOCK",
+    "RAM"
   ],
   "gradingCompanies": [
     "NGC",
