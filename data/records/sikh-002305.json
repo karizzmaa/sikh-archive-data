@@ -1,0 +1,84 @@
+{
+  "id": "sikh-002305",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR nanakshahi rupee (10.98g), Amritsar, VS1906, VF",
+  "description": "SIKH EMPIRE: AR nanakshahi rupee (10.98g), Amritsar, VS1906, Herrli-01.12.04, KM-22.10., VS1885 series, so-called \"lazy W\" below chhatra, which is actually RAM in the Lande script, VF, RRR. The British annexation of the Sikh Empire concluded on 29 March 1849, but the year VS1906 did not commence until 28 April 1849. It is likely that the 1906 dies were produced in advance, and for whatever reasons, used for the last coinage of the previous year. Rupees of Amritsar dated VS1905 are rare, and 1906 extremely rare. The chattra form on this piece, with the Lande script below, was used only in 1905 & 1906, quite different from the form used in VS1899-1901, and never in 1902, thus the \"6\" of the date cannot be a retrograde \"2\".",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T12:11:21.733Z",
+  "updatedAt": "2026-11-23T12:11:21.733Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Amritsar",
+    "mintRegion": "Punjab",
+    "mintCountry": "Sikh Empire",
+    "denomination": "rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": 10.98,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS1906",
+    "variety": "nanakshahi",
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-22",
+      "Herrli-01.12.04"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-auction-47-september-14-17-2023",
+    "eventName": "Stephen Album Rare Coins   Auction 47   September 14-17, 2023",
+    "auctionNumber": null,
+    "lotNumber": "945",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "VF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 600,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-49982826-1",
+      "url": "https://media.liveauctiongroup.net/i/62446/49982826_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AR-nanakshahi-rupee-10-98g-Amritsar-VS1906-VF_i49982826"
+    }
+  ]
+}

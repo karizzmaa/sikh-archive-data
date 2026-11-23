@@ -1,0 +1,84 @@
+{
+  "id": "sikh-002297",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR 1/2 nanakshahi rupee (5.54g), Amritsar, VS[18]85, choice EF",
+  "description": "SIKH EMPIRE: AR 1/2 nanakshahi rupee (5.54g), Amritsar, VS[18]85, KM-19.2, Herrli-01.21.05, from the VS1884 series; superb bold strike! choice EF, RRR. Unlike most Princely States, Sikh silver rupee fractions are at least very rare. It is likely that they were produced in minuscule quantities, probably only for government payments that required one or a few fractions together with large quantities of full rupees.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T12:11:21.733Z",
+  "updatedAt": "2026-11-23T12:11:21.733Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Amritsar",
+    "mintRegion": "Punjab",
+    "mintCountry": "Sikh Empire",
+    "denomination": "1/2 rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": 5.54,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": null,
+    "variety": "nanakshahi",
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-19",
+      "Herrli-01.21.05"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-auction-47-september-14-17-2023",
+    "eventName": "Stephen Album Rare Coins   Auction 47   September 14-17, 2023",
+    "auctionNumber": null,
+    "lotNumber": "937",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "EF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 1100,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-49982818-1",
+      "url": "https://media.liveauctiongroup.net/i/62446/49982818_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AR-1-2-nanakshahi-rupee-5-54g-Amritsar-VS-18-85-choice-EF_i49982818"
+    }
+  ]
+}
