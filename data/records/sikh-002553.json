@@ -1,0 +1,84 @@
+{
+  "id": "sikh-002553",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR gobindshahi rupee (11.08g), Lahore, VS1873, AU",
+  "description": "SIKH EMPIRE: AR gobindshahi rupee (11.08g), Lahore, VS1873, KM-66.1, Herrli-08.06.04, nice even strike and beautifully toned, AU.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T13:39:29.690Z",
+  "updatedAt": "2026-11-23T13:39:29.690Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Lahore",
+    "mintRegion": "Punjab",
+    "mintCountry": "Sikh Empire",
+    "denomination": "rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": 11.08,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS1873",
+    "variety": "gobindshahi",
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-66",
+      "Herrli-08.06.04"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins--auction-55--may-14-17-2026",
+    "eventName": "Stephen Album Rare Coins | Auction 55 | May 14-17, 2026",
+    "auctionNumber": null,
+    "lotNumber": "2611",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "AU",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 850,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-59821168-1",
+      "url": "https://media.liveauctiongroup.net/i/77976/59821168_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AR-gobindshahi-rupee-11-08g-Lahore-VS1873-AU_i59821168"
+    }
+  ]
+}

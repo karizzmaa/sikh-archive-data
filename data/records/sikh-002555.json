@@ -1,0 +1,81 @@
+{
+  "id": "sikh-002555",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: Anonymous, ca. 1820s-1840s, AE falus (paisa) (7.88g), Peshawar, ND/DM, F-VF",
+  "description": "SIKH EMPIRE: Anonymous, ca. 1820s-1840s, AE falus (paisa) (7.88g), Peshawar, ND/DM, KM-, simplified floral pattern, mint name in the marginal legend // uncertain legend, F-VF, RR.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T13:39:29.691Z",
+  "updatedAt": "2026-11-23T13:39:29.691Z",
+  "coin": {
+    "ruler": null,
+    "mint": "ca. 1820s-1840s",
+    "mintRegion": null,
+    "mintCountry": "Sikh Empire",
+    "denomination": "Anonymous",
+    "metal": null,
+    "fineness": null,
+    "weight": null,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "ND/DM",
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins--auction-55--may-14-17-2026",
+    "eventName": "Stephen Album Rare Coins | Auction 55 | May 14-17, 2026",
+    "auctionNumber": null,
+    "lotNumber": "2613",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "VF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 130,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-59821170-1",
+      "url": "https://media.liveauctiongroup.net/i/77976/59821170_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-Anonymous-ca-1820s-1840s-AE-falus-paisa-7-88g-Peshawar-ND-DM-F-VF_i59821170"
+    }
+  ]
+}

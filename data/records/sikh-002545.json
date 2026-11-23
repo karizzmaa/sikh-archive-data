@@ -1,0 +1,84 @@
+{
+  "id": "sikh-002545",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR nanakshahi rupee (11.10g), Amritsar, VS1905, choice XF-AU",
+  "description": "SIKH EMPIRE: AR nanakshahi rupee (11.10g), Amritsar, VS1905, KM-22.9, Herrli-01.12.04, VS1885 series, with Gurmukhi SAT below the chhatra in the obverse center, choice XF-AU.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T13:39:29.690Z",
+  "updatedAt": "2026-11-23T13:39:29.690Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Amritsar",
+    "mintRegion": "Punjab",
+    "mintCountry": "Sikh Empire",
+    "denomination": "rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": 11.1,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS1905",
+    "variety": "nanakshahi",
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-22",
+      "Herrli-01.12.04"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--sarc--internet-auction-36",
+    "eventName": "SARC | Internet Auction 36",
+    "auctionNumber": null,
+    "lotNumber": "421",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "AU",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 800,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-59389893-1",
+      "url": "https://media.liveauctiongroup.net/i/77119/59389893_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AR-nanakshahi-rupee-11-10g-Amritsar-VS1905-choice-XF-AU_i59389893"
+    }
+  ]
+}
