@@ -1,0 +1,79 @@
+{
+  "id": "sikh-001433",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE:",
+  "description": "SIKH EMPIRE:LOT of 7 silver rupees of Lahore mint: KM-66.1 (Herrli-08.06.04), VS1870 (bold VF), VS1871 (VF-EF), VS1872 (VF-EF), VS1873 (VF-EF), and VS1874 (2 pcs, different forms of the number \"4\", both VF; and KM-67 (Herrli-08.09.04), VS[18]95 (series VS1885, EF); retail value $650, lot of 7 pieces, ex Ajit Singh Collection.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T02:18:57.792Z",
+  "updatedAt": "2026-11-23T02:18:57.792Z",
+  "coin": {
+    "ruler": null,
+    "mint": null,
+    "mintRegion": null,
+    "mintCountry": "Sikh Empire",
+    "denomination": null,
+    "metal": null,
+    "fineness": null,
+    "weight": null,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": null,
+    "variety": null,
+    "specialities": [
+      "ACCUMULATIVE LOT"
+    ],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-66",
+      "KM-67",
+      "Herrli-08.06.04",
+      "Herrli-08.09.04"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins--auction-28",
+    "eventName": "Stephen Album Rare Coins | Auction 28",
+    "auctionNumber": null,
+    "lotNumber": "2799",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "VF-EF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 425,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE_i27047823"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "sikh-001421",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE:",
+  "description": "SIKH EMPIRE:LOT of 14 silver nanakshahi Amritsar rupees of the VS1885 series, with the following actual dates & varieties: VS[18]94 (4 pcs, including one with the katar on reverse); VS[18]95 (4 pcs), VS[18]96 (4 pcs), and VS[18]98 (2 pcs); nearly all EF condition, including 4 examples with testmarks; retail value $700, lot of 14 pieces, ex Ajit Singh Collection.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T02:18:57.791Z",
+  "updatedAt": "2026-11-23T02:18:57.791Z",
+  "coin": {
+    "ruler": null,
+    "mint": null,
+    "mintRegion": null,
+    "mintCountry": "Sikh Empire",
+    "denomination": null,
+    "metal": null,
+    "fineness": null,
+    "weight": null,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": null,
+    "variety": null,
+    "specialities": [
+      "ACCUMULATIVE LOT"
+    ],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins--auction-28",
+    "eventName": "Stephen Album Rare Coins | Auction 28",
+    "auctionNumber": null,
+    "lotNumber": "2787",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "EF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 300,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE_i27047811"
+    }
+  ]
+}
