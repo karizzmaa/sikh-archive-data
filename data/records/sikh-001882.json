@@ -1,0 +1,83 @@
+{
+  "id": "sikh-001882",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AE paisa (8.33g), Dera, ND, strong VF",
+  "description": "SIKH EMPIRE: AE paisa (8.33g), Dera, ND, KM-, Herrli-, rayij, with the addition legend fath gobind (\"the victory of Gobind\"), as on Herrli-05.06.11, but completely new reverse, with falus dera at the top and 6-petal flower below, overstruck on undetermined host, strong VF, RRR.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T10:55:00.054Z",
+  "updatedAt": "2026-11-23T10:55:00.054Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Dera",
+    "mintRegion": null,
+    "mintCountry": "Sikh Empire",
+    "denomination": "paisa",
+    "metal": "Copper",
+    "fineness": null,
+    "weight": 8.33,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "ND",
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "Herrli-05.06.11"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-auction-43",
+    "eventName": "Stephen Album Rare Coins   Auction 43",
+    "auctionNumber": null,
+    "lotNumber": "1969",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "VF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 260,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-44913328-1",
+      "url": "https://media.liveauctiongroup.net/i/55078/44913328_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AE-paisa-8-33g-Dera-ND-strong-VF_i44913328"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "sikh-001867",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR rupee (11.09g), Lahore, AH1122 year 4, VF",
+  "description": "SIKH EMPIRE: AR rupee (11.09g), Lahore, AH1122 year 4, KM-349.3 (Mughal), in the name of Shah Alam I, standard Mughal design but with the khanda symbol of the Sikhs within the obverse center, 2 testmarks; a similar piece, AH1122 year 5, sold in our Auction 32, Lot 1993, VF, RRR. This type, bearing the Sikh symbol, was likely struck by supporters of the Sikhs inside the city of Lahore, for unknown arrangements. By this year (=1710/11), the Sikhs had conquered most of eastern Punjab but not the city of Lahore, which would remain under Mughal authority until 1765. However, it seems reasonable that the Mughal officials at the Lahore mint may have authorized to insert the khanda symbol for unrecorded political reasons (published in ONS Newsletter #144).",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T10:55:00.054Z",
+  "updatedAt": "2026-11-23T10:55:00.054Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Lahore",
+    "mintRegion": "Punjab",
+    "mintCountry": "Sikh Empire",
+    "denomination": "rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": 11.09,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "AH1122 year 4",
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-349"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-auction-43",
+    "eventName": "Stephen Album Rare Coins   Auction 43",
+    "auctionNumber": null,
+    "lotNumber": "903",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "VF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 350,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-44912016-1",
+      "url": "https://media.liveauctiongroup.net/i/55078/44912016_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AR-rupee-11-09g-Lahore-AH1122-year-4-VF_i44912016"
+    }
+  ]
+}

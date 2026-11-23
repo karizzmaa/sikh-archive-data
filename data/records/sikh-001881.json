@@ -1,0 +1,84 @@
+{
+  "id": "sikh-001881",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AE paisa (8.36g), Dera, \"year 12\", EF",
+  "description": "SIKH EMPIRE: AE paisa (8.36g), Dera, \"year 12\", KM-101.1, Herrli-05.05.11, rayij (\"current\") plus \"53\" which might be AH(12)53 // mint name and the number \"12\", superb example, EF, RR.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T10:55:00.054Z",
+  "updatedAt": "2026-11-23T10:55:00.054Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Dera",
+    "mintRegion": null,
+    "mintCountry": "Sikh Empire",
+    "denomination": "paisa",
+    "metal": "Copper",
+    "fineness": null,
+    "weight": 8.36,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": null,
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-101",
+      "Herrli-05.05.11"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-auction-43",
+    "eventName": "Stephen Album Rare Coins   Auction 43",
+    "auctionNumber": null,
+    "lotNumber": "1968",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "EF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 130,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-44913327-1",
+      "url": "https://media.liveauctiongroup.net/i/55078/44913327_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AE-paisa-8-36g-Dera-year-12-EF_i44913327"
+    }
+  ]
+}
