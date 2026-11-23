@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T02:51:51.069Z",
+  "generatedAt": "2026-11-23T02:53:03.836Z",
   "entries": [
     {
       "id": "sikh-001202",
@@ -3380,7 +3380,7 @@
         "Herrli-32.01.04"
       ],
       "ruler": null,
-      "mint": "unidentified mint",
+      "mint": "Unknown",
       "mintRegion": null,
       "mintCountry": "Sikh Empire",
       "denomination": "rupee",
@@ -3416,7 +3416,7 @@
       "imageCount": 2,
       "verification": "verified",
       "createdAt": "2026-11-23T02:05:24.542Z",
-      "updatedAt": "2026-11-23T02:05:24.542Z"
+      "updatedAt": "2026-11-23T02:53:02.894Z"
     },
     {
       "id": "sikh-001272",

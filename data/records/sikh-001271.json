@@ -7,10 +7,10 @@
   "verification": "verified",
   "adminNotes": null,
   "createdAt": "2026-11-23T02:05:24.542Z",
-  "updatedAt": "2026-11-23T02:05:24.542Z",
+  "updatedAt": "2026-11-23T02:53:02.894Z",
   "coin": {
     "ruler": null,
-    "mint": "unidentified mint",
+    "mint": "Unknown",
     "mintRegion": null,
     "mintCountry": "Sikh Empire",
     "denomination": "rupee",
