@@ -128,6 +128,15 @@
       "date": null,
       "country": null,
       "url": null
+    },
+    {
+      "id": "stephen-album-rare-coins--stephen-album-rare-coins--auction-21",
+      "houseId": "stephen-album-rare-coins",
+      "name": "Stephen Album Rare Coins | Auction 21",
+      "auctionNumber": null,
+      "date": null,
+      "country": null,
+      "url": null
     }
   ],
   "rulers": [
@@ -360,6 +369,16 @@
       "name": "AR rupee (10.96g",
       "region": null,
       "country": "Sikh Empire"
+    },
+    {
+      "name": "Herrli-01.05.04",
+      "region": null,
+      "country": "Sikh Empire"
+    },
+    {
+      "name": "KM-—",
+      "region": null,
+      "country": "Sikh Empire"
     }
   ],
   "denominations": [
@@ -390,7 +409,8 @@
     "Derajat mint",
     "Bharpur Singh",
     "\"rupee\"",
-    "Raja Jaswant Singh"
+    "Raja Jaswant Singh",
+    "LOT of 9 copper coins"
   ],
   "metals": [
     "Gold",
@@ -418,7 +438,8 @@
     "arsiwala-shahi",
     "arsiwala",
     "pattern",
-    "'pattern'"
+    "'pattern'",
+    "mora shahi"
   ],
   "specialities": [
     "HALF RUPEE",

@@ -1,0 +1,92 @@
+{
+  "id": "sikh-000985",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AE 1/4 anna (7.09g), Amritsar, VS[18]96",
+  "description": "SIKH EMPIRE: AE ¼ anna (7.09g), Amritsar, VS[18]96, KM-5, Herrli-01.31.11, pa anna nanakshahi type, legends in Persian, VF, R.    Herrli divided these into a paisa (=¼ anna) and half paisa (11-12g, and 5.5g, respectively), but all coins are inscribed pa anna for ¼ anna, and all weigh in the range of 6.5g to 8.2g; thus there is only one denomination for this type.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T01:05:23.902Z",
+  "updatedAt": "2026-11-23T01:05:23.902Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Amritsar",
+    "mintRegion": "Punjab",
+    "mintCountry": "Sikh Empire",
+    "denomination": "1/4 anna",
+    "metal": "Copper",
+    "fineness": null,
+    "weight": 7.09,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": null,
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-5",
+      "Herrli-01.31.11"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins--auction-21",
+    "eventName": "Stephen Album Rare Coins | Auction 21",
+    "auctionNumber": null,
+    "lotNumber": "1296",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "unknown"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "VF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": null,
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": null,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-21241226-1",
+      "url": "https://media.liveauctiongroup.net/i/23008/21241226_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    },
+    {
+      "file": "sarc-21241226-2",
+      "url": "https://media.liveauctiongroup.net/i/23008/21241226_2.jpg",
+      "role": "reverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": false
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AE-1-4-anna-7-09g-Amritsar-VS-18-96_i21241226"
+    }
+  ]
+}

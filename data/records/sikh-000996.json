@@ -1,0 +1,89 @@
+{
+  "id": "sikh-000996",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR nanakshahi rupee (10.86g), VS1881, KM-—, Herrli-—",
+  "description": "SIKH EMPIRE: AR nanakshahi rupee (10.86g), VS1881, KM-—, Herrli-—, generally in the style of Amritsar, but with an unread mint name in the upper panel of the reverse, bold strike, VF to EF, RRR, \r\nex M.H. Mirza Collection.    \r\n\r\nWith cross-like symbols on obverse & reverse, unrecorded by Herrli. This is the first example of this type we have seen.\r\n\r\nDue to the unusual background symbols and calligraphy, we believe that this piece is likely a contemporary imitation, or some sort of unofficial issue or emergency issue during troubled times.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T01:05:23.903Z",
+  "updatedAt": "2026-11-23T01:05:23.903Z",
+  "coin": {
+    "ruler": null,
+    "mint": "KM-—",
+    "mintRegion": null,
+    "mintCountry": "Sikh Empire",
+    "denomination": "rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": 10.86,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS1881",
+    "variety": "nanakshahi",
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins--auction-21",
+    "eventName": "Stephen Album Rare Coins | Auction 21",
+    "auctionNumber": null,
+    "lotNumber": "1307",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "EF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 700,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-21241237-1",
+      "url": "https://media.liveauctiongroup.net/i/23008/21241237_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    },
+    {
+      "file": "sarc-21241237-2",
+      "url": "https://media.liveauctiongroup.net/i/23008/21241237_2.jpg",
+      "role": "reverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": false
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AR-nanakshahi-rupee-10-86g-VS1881-KM-Herrli_i21241237"
+    }
+  ]
+}
