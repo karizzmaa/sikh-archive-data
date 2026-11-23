@@ -7,11 +7,11 @@
   "verification": "verified",
   "adminNotes": null,
   "createdAt": "2026-11-20T01:52:23.997Z",
-  "updatedAt": "2026-11-20T01:52:23.997Z",
+  "updatedAt": "2026-11-23T00:03:15.075Z",
   "coin": {
     "ruler": null,
-    "mint": "[Amritsar]",
-    "mintRegion": null,
+    "mint": "Amritsar",
+    "mintRegion": "Punjab",
     "mintCountry": "Sikh Empire",
     "denomination": "paisa",
     "metal": "Copper",
@@ -25,7 +25,7 @@
     "dateText": null,
     "variety": null,
     "specialities": [
-      "TRIDENT"
+      "TRISHUL"
     ],
     "inscriptions": {
       "obverse": null,
