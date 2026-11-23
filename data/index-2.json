@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T02:45:54.986Z",
+  "generatedAt": "2026-11-23T02:47:07.656Z",
   "entries": [
     {
       "id": "sikh-000802",
@@ -11082,7 +11082,7 @@
         "KM-373"
       ],
       "ruler": null,
-      "mint": "2nd reign",
+      "mint": "Derajat",
       "mintRegion": null,
       "mintCountry": "Sikh Empire",
       "denomination": "Mahmud Shah",
@@ -11118,7 +11118,7 @@
       "imageCount": 2,
       "verification": "verified",
       "createdAt": "2026-11-23T01:08:45.680Z",
-      "updatedAt": "2026-11-23T01:08:45.680Z"
+      "updatedAt": "2026-11-23T02:47:06.804Z"
     },
     {
       "id": "sikh-001029",
