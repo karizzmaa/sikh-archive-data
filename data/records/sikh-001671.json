@@ -1,0 +1,100 @@
+{
+  "id": "sikh-001671",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR morashahi rupee (11.04g), Amritsar, VS1862, peacock, Herrli-04.13, SS-31.01, VF",
+  "description": "SIKH EMPIRE: AR morashahi rupee (11.04g), Amritsar, VS1862, KM-20.4, Herrli-04.13, SS-31.01, the tail of one of the peacocks is merged in the Arabic letter \"S\" of jalus and the tail of the other in the \"K\" of akal, 1 small testmark, bold VF, R.    \r\n\r\nIt is said that Maharaja Ranjit Singh was infatuated by a courtesan named Moran (literally meaning \"peacock\") who wanted coins to be minted in her name. Since it was not possible to put her name on the coins, the calligraphers inscribed the image of the peacock on the coins in a clandestine manner. So much so that for nearly 200 years the people called these coins as Morashahis (even which did not carry the image of the peacock on them) without actually being able to see the peacock on them till it was brought to light a few years ago by Gurprit Singh in one of his articles published in the JONS (Journal of Oriental Numismatic Society, London).",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T08:29:32.017Z",
+  "updatedAt": "2026-11-23T08:29:32.017Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Amritsar",
+    "mintRegion": "Punjab",
+    "mintCountry": "Sikh Empire",
+    "denomination": "rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": 11.04,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS1862",
+    "variety": "morashahi",
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-20",
+      "Herrli-04.13"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-auction-35",
+    "eventName": "Stephen Album Rare Coins   Auction 35",
+    "auctionNumber": null,
+    "lotNumber": "281",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "VF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 300,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-34097963-1",
+      "url": "https://media.liveauctiongroup.net/i/39567/34097963_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    },
+    {
+      "file": "sarc-34097963-2",
+      "url": "https://media.liveauctiongroup.net/i/39567/34097963_2.jpg",
+      "role": "reverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": false
+    },
+    {
+      "file": "sarc-34097963-3",
+      "url": "https://media.liveauctiongroup.net/i/39567/34097963_3.jpg",
+      "role": "additional",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": false
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AR-morashahi-rupee-11-04g-Amritsar-VS1862-peacock-Herrli-04-13-SS-31-01-VF_i34097963"
+    }
+  ]
+}
