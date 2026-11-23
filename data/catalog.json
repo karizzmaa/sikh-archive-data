@@ -317,6 +317,15 @@
       "date": null,
       "country": null,
       "url": null
+    },
+    {
+      "id": "stephen-album-rare-coins--stephen-album-rare-coins-auction-40",
+      "houseId": "stephen-album-rare-coins",
+      "name": "Stephen Album Rare Coins   Auction 40",
+      "auctionNumber": null,
+      "date": null,
+      "country": null,
+      "url": null
     }
   ],
   "rulers": [
@@ -793,7 +802,8 @@
     "LOT of nanakshahi",
     "LOT of gobindshahi",
     "LOT of of Lahore",
-    "(6.34g) (uncertain mint)"
+    "(6.34g) (uncertain mint)",
+    "LOT of silver"
   ],
   "specialities": [
     "HALF RUPEE",
@@ -831,7 +841,8 @@
     "SPRIG",
     "OM  SHRI",
     "HAR JI",
-    "GOLD MOHUR NECKLACE"
+    "GOLD MOHUR NECKLACE",
+    "OM SHRI"
   ],
   "gradingCompanies": [
     "NGC",

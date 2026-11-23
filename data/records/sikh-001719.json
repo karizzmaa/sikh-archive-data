@@ -1,0 +1,92 @@
+{
+  "id": "sikh-001719",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR rupee (11.08g), Amritsar, VS1862. VF-EF",
+  "description": "SIKH EMPIRE: AR rupee (11.08g), Amritsar, VS1862, KM-20.4, Herrli-01.13, Gurprit-01.29.05 (same dies), very rare variety, with two face-like symbols on the obverse with a V-like center, and fish below the word singh, no examples of this type cited on CoinArchives, VF-EF, RR.    Gurprit has shown that \"mora shahi\" is not correct; they are properly called \"ber shahi\" rupees.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T09:46:13.314Z",
+  "updatedAt": "2026-11-23T09:46:13.314Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Amritsar",
+    "mintRegion": "Punjab",
+    "mintCountry": "Sikh Empire",
+    "denomination": "rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": 11.08,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS1862. VF-EF",
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-20",
+      "Herrli-01.13"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-auction-40",
+    "eventName": "Stephen Album Rare Coins   Auction 40",
+    "auctionNumber": null,
+    "lotNumber": "937",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "VF-EF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 450,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-40776367-1",
+      "url": "https://media.liveauctiongroup.net/i/48758/40776367_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    },
+    {
+      "file": "sarc-40776367-2",
+      "url": "https://media.liveauctiongroup.net/i/48758/40776367_2.jpg",
+      "role": "reverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": false
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AR-rupee-11-08g-Amritsar-VS1862-VF-EF_i40776367"
+    }
+  ]
+}
