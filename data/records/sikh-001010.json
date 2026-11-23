@@ -7,10 +7,10 @@
   "verification": "verified",
   "adminNotes": null,
   "createdAt": "2026-11-23T01:08:45.678Z",
-  "updatedAt": "2026-11-23T01:08:45.678Z",
+  "updatedAt": "2026-11-23T02:37:33.562Z",
   "coin": {
     "ruler": null,
-    "mint": "Dar Jhang",
+    "mint": null,
     "mintRegion": null,
     "mintCountry": "Sikh Empire",
     "denomination": "rupee",
