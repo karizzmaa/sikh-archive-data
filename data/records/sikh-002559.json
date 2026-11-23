@@ -1,0 +1,84 @@
+{
+  "id": "sikh-002559",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AE falus (7.81g), Peshawar, VS1291, VF",
+  "description": "SIKH EMPIRE: AE falus (7.81g), Peshawar, VS1291, KM-94, Herrli-13.04.11, 4-petal flower over circle, mint name in Persian // unread Gurmukhi text, plus date in Nagari numerals, overstruck on earlier type, VF, R.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T13:42:36.493Z",
+  "updatedAt": "2026-11-23T13:42:36.493Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Peshawar",
+    "mintRegion": "Khyber Pakhtunkhwa",
+    "mintCountry": "Sikh Empire",
+    "denomination": "falus",
+    "metal": "Copper",
+    "fineness": null,
+    "weight": 7.81,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS1291",
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-94",
+      "Herrli-13.04.11"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-internet-auction-16",
+    "eventName": "Stephen Album Rare Coins   Internet Auction 16",
+    "auctionNumber": null,
+    "lotNumber": "708",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "VF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 65,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-45489257-1",
+      "url": "https://media.liveauctiongroup.net/i/56022/45489257_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AE-falus-7-81g-Peshawar-VS1291-VF_i45489257"
+    }
+  ]
+}

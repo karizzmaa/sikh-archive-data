@@ -695,6 +695,15 @@
       "date": null,
       "country": null,
       "url": null
+    },
+    {
+      "id": "stephen-album-rare-coins--stephen-album-rare-coins--auction-56--september-17-20-2026",
+      "houseId": "stephen-album-rare-coins",
+      "name": "Stephen Album Rare Coins | Auction 56 | September 17-20, 2026",
+      "auctionNumber": null,
+      "date": null,
+      "country": null,
+      "url": null
     }
   ],
   "rulers": [
@@ -1127,6 +1136,11 @@
       "name": "ca. 1820s-1840s",
       "region": null,
       "country": "Sikh Empire"
+    },
+    {
+      "name": "ca. 1824-1830",
+      "region": null,
+      "country": "Sikh Empire"
     }
   ],
   "denominations": [
@@ -1293,7 +1307,8 @@
     "phunalshahi",
     "(= 1/15 mohur)",
     "LOT of scarce",
-    "LOT of Sikh copper and 4 miscellaneous coppers"
+    "LOT of Sikh copper and 4 miscellaneous coppers",
+    "durrani"
   ],
   "specialities": [
     "HALF RUPEE",

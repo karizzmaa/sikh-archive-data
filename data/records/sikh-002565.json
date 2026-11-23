@@ -1,0 +1,84 @@
+{
+  "id": "sikh-002565",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR rupee (10.98g), Multan, VS1877, VF-XF",
+  "description": "SIKH EMPIRE: AR rupee (10.98g), Multan, VS1877, KM-84, Herrli-11.03.04, some weakness of strike, VF-XF.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T13:42:36.493Z",
+  "updatedAt": "2026-11-23T13:42:36.493Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Multan",
+    "mintRegion": "Punjab",
+    "mintCountry": "Sikh Empire",
+    "denomination": "rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": 10.98,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS1877",
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-84",
+      "Herrli-11.03.04"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins--auction-56--september-17-20-2026",
+    "eventName": "Stephen Album Rare Coins | Auction 56 | September 17-20, 2026",
+    "auctionNumber": null,
+    "lotNumber": "2507",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "XF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 425,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-60893947-1",
+      "url": "https://media.liveauctiongroup.net/i/79884/60893947_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AR-rupee-10-98g-Multan-VS1877-VF-XF_i60893947"
+    }
+  ]
+}
