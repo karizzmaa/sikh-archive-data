@@ -1,0 +1,92 @@
+{
+  "id": "sikh-002502",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR rupee, Amritsar, VS1884, NGC MS64",
+  "description": "SIKH EMPIRE: AR rupee, Amritsar, VS1884, KM-20.1, Herrli-01.07.04, lustrous, magnificent bold strike! NGC graded MS64.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T13:26:12.928Z",
+  "updatedAt": "2026-11-23T13:26:12.928Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Amritsar",
+    "mintRegion": "Punjab",
+    "mintCountry": "Sikh Empire",
+    "denomination": "rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": null,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS1884",
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-20",
+      "Herrli-01.07.04"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins--auction-52--may-15-18-2025",
+    "eventName": "Stephen Album Rare Coins | Auction 52 | May 15-18, 2025",
+    "auctionNumber": null,
+    "lotNumber": "2357",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "NGC",
+    "grade": "MS64",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 150,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-56390072-1",
+      "url": "https://media.liveauctiongroup.net/i/72226/56390072_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    },
+    {
+      "file": "sarc-56390072-2",
+      "url": "https://media.liveauctiongroup.net/i/72226/56390072_2.jpg",
+      "role": "reverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": false
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AR-rupee-Amritsar-VS1884-NGC-MS64_i56390072"
+    }
+  ]
+}

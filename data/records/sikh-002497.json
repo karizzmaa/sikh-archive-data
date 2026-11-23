@@ -1,0 +1,83 @@
+{
+  "id": "sikh-002497",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR rupee (11.04g), Amritsar, VS1847, bold VF",
+  "description": "SIKH EMPIRE: AR rupee (11.04g), Amritsar, VS1847, KM-A20.4, Herrli-01.06.04, with clear Guru Nanak Era date (32)1, no testmarks, rare date, bold VF",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T13:26:12.928Z",
+  "updatedAt": "2026-11-23T13:26:12.928Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Amritsar",
+    "mintRegion": "Punjab",
+    "mintCountry": "Sikh Empire",
+    "denomination": "rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": 11.04,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS1847",
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "Herrli-01.06.04"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins--auction-52--may-15-18-2025",
+    "eventName": "Stephen Album Rare Coins | Auction 52 | May 15-18, 2025",
+    "auctionNumber": null,
+    "lotNumber": "743",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "VF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 375,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-56388458-1",
+      "url": "https://media.liveauctiongroup.net/i/72226/56388458_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AR-rupee-11-04g-Amritsar-VS1847-bold-VF_i56388458"
+    }
+  ]
+}

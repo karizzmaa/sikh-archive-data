@@ -1,0 +1,84 @@
+{
+  "id": "sikh-002500",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AE paisa (11.88g), Amritsar, VS(188)2, VF-XF",
+  "description": "SIKH EMPIRE: AE paisa (11.88g), Amritsar, VS(188)2, KM-4, Herrli-01.30.11, bold strike, VF-XF",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T13:26:12.928Z",
+  "updatedAt": "2026-11-23T13:26:12.928Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Amritsar",
+    "mintRegion": "Punjab",
+    "mintCountry": "Sikh Empire",
+    "denomination": "paisa",
+    "metal": "Copper",
+    "fineness": null,
+    "weight": 11.88,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS(188)2",
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-4",
+      "Herrli-01.30.11"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins--auction-52--may-15-18-2025",
+    "eventName": "Stephen Album Rare Coins | Auction 52 | May 15-18, 2025",
+    "auctionNumber": null,
+    "lotNumber": "2355",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "XF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 50,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-56390070-1",
+      "url": "https://media.liveauctiongroup.net/i/72226/56390070_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AE-paisa-11-88g-Amritsar-VS-188-2-VF-XF_i56390070"
+    }
+  ]
+}
