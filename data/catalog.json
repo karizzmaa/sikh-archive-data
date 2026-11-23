@@ -344,6 +344,15 @@
       "date": null,
       "country": null,
       "url": null
+    },
+    {
+      "id": "stephen-album-rare-coins--stephen-album-rare-coins-internet-auction-12",
+      "houseId": "stephen-album-rare-coins",
+      "name": "Stephen Album Rare Coins   Internet Auction 12",
+      "auctionNumber": null,
+      "date": null,
+      "country": null,
+      "url": null
     }
   ],
   "rulers": [
@@ -704,6 +713,11 @@
     },
     {
       "name": "Alkây Peshawar",
+      "region": null,
+      "country": "Sikh Empire"
+    },
+    {
+      "name": "Alkay Peshawar",
       "region": null,
       "country": "Sikh Empire"
     }
