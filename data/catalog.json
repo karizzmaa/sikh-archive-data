@@ -335,6 +335,15 @@
       "date": null,
       "country": null,
       "url": null
+    },
+    {
+      "id": "stephen-album-rare-coins--stephen-album-rare-coins-auction-41",
+      "houseId": "stephen-album-rare-coins",
+      "name": "Stephen Album Rare Coins   Auction 41",
+      "auctionNumber": null,
+      "date": null,
+      "country": null,
+      "url": null
     }
   ],
   "rulers": [
@@ -692,6 +701,11 @@
       "name": "0.65g",
       "region": null,
       "country": "Sikh Empire"
+    },
+    {
+      "name": "Alkây Peshawar",
+      "region": null,
+      "country": "Sikh Empire"
     }
   ],
   "denominations": [
@@ -756,7 +770,10 @@
     "LOT of 3 copper fulus",
     "base-metal paisa/token",
     "1/4 nanakshahi anna",
-    "mohurs (8 pieces) in necklace"
+    "mohurs (8 pieces) in necklace",
+    "¼ rupee",
+    "½ rupee",
+    "LOT of 26 copper coins"
   ],
   "metals": [
     "Gold",
@@ -812,7 +829,8 @@
     "LOT of gobindshahi",
     "LOT of of Lahore",
     "(6.34g) (uncertain mint)",
-    "LOT of silver"
+    "LOT of silver",
+    "LOT of silver of Amristar"
   ],
   "specialities": [
     "HALF RUPEE",

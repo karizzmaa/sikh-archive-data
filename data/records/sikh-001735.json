@@ -1,0 +1,103 @@
+{
+  "id": "sikh-001735",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR ¼ rupee (2.76g), Amritsar, VS[18]98. PCGS AU55",
+  "description": "SIKH EMPIRE: AR [x=#188/] rupee (2.76g), Amritsar, VS[18]98, KM-18.3, Herrli-01.11.06, VS1885 series; trisul in obverse center, as on the full rupee type KM-22.5, excellent strike, PCGS graded AU55, RR, ex Jess A. Yockers Collection, sold by Spink in March 1918.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T10:03:01.625Z",
+  "updatedAt": "2026-11-23T10:03:01.625Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Amritsar",
+    "mintRegion": "Punjab",
+    "mintCountry": "Sikh Empire",
+    "denomination": "¼ rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": 2.76,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": null,
+    "variety": null,
+    "specialities": [
+      "TRISHUL"
+    ],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-18",
+      "KM-22",
+      "Herrli-01.11.06"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-auction-41",
+    "eventName": "Stephen Album Rare Coins   Auction 41",
+    "auctionNumber": null,
+    "lotNumber": "837",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "PCGS",
+    "grade": "AU55",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 2000,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-42769174-1",
+      "url": "https://media.liveauctiongroup.net/i/51444/42769174_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    },
+    {
+      "file": "sarc-42769174-2",
+      "url": "https://media.liveauctiongroup.net/i/51444/42769174_2.jpg",
+      "role": "reverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": false
+    },
+    {
+      "file": "sarc-42769174-3",
+      "url": "https://media.liveauctiongroup.net/i/51444/42769174_3.jpg",
+      "role": "additional",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": false
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AR-rupee-2-76g-Amritsar-VS-18-98-PCGS-AU55_i42769174"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "sikh-001794",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AE falus (11.82g), Multan, VS1835. VF-EF",
+  "description": "SIKH EMPIRE: AE falus (11.82g), Multan, VS1835, KM-677, Herrli-11.04.11, in the name of the Durrani ruler Mahmud, struck during the first Sikh occupation of Multan, and the only known date during this period for copper of Multan (listed by KM under the Durranis of Afghanistan), VF-EF, RRR, ex Jess A. Yockers Collection.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T10:03:01.627Z",
+  "updatedAt": "2026-11-23T10:03:01.627Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Multan",
+    "mintRegion": "Punjab",
+    "mintCountry": "Sikh Empire",
+    "denomination": "falus",
+    "metal": "Copper",
+    "fineness": null,
+    "weight": 11.82,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS1835. VF-EF",
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-677",
+      "Herrli-11.04.11"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-auction-41",
+    "eventName": "Stephen Album Rare Coins   Auction 41",
+    "auctionNumber": null,
+    "lotNumber": "2402",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "VF-EF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 2400,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-42771288-1",
+      "url": "https://media.liveauctiongroup.net/i/51444/42771288_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    },
+    {
+      "file": "sarc-42771288-2",
+      "url": "https://media.liveauctiongroup.net/i/51444/42771288_2.jpg",
+      "role": "reverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": false
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AE-falus-11-82g-Multan-VS1835-VF-EF_i42771288"
+    }
+  ]
+}

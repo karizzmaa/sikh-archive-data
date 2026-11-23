@@ -1,0 +1,83 @@
+{
+  "id": "sikh-001765",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: LOT of 11 silver rupees of Amristar",
+  "description": "SIKH EMPIRE:LOT of 11 silver rupees of the Amristar mint: Nanakshahi: VS1880 (2 pcs, VG & AU), 1882 (AU), [18]85 (AU), [18]94 (EF), [18]96 (2 pcs, VF & AU), [18]97, OM type (VF); [18]99 chhatra (EF, 1 testmark), and [18]99 trisul (AU, 1 testmark); and Gobindshahi: VS[18]99 (EF, much weakness); retail value $700, lot of 11 pieces, ex Jess A. Yockers Collection.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T10:03:01.626Z",
+  "updatedAt": "2026-11-23T10:03:01.626Z",
+  "coin": {
+    "ruler": null,
+    "mint": null,
+    "mintRegion": null,
+    "mintCountry": "Sikh Empire",
+    "denomination": "11 rupees",
+    "metal": null,
+    "fineness": null,
+    "weight": null,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": null,
+    "variety": "LOT of silver of Amristar",
+    "specialities": [
+      "ACCUMULATIVE LOT"
+    ],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-auction-41",
+    "eventName": "Stephen Album Rare Coins   Auction 41",
+    "auctionNumber": null,
+    "lotNumber": "867",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "EF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 550,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-42769204-1",
+      "url": "https://media.liveauctiongroup.net/i/51444/42769204_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-LOT-of-11-silver-rupees-of-Amristar_i42769204"
+    }
+  ]
+}

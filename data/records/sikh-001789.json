@@ -1,0 +1,91 @@
+{
+  "id": "sikh-001789",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AE paisa (9.08g), Kashmir, VS1894. VF",
+  "description": "SIKH EMPIRE: AE paisa (9.08g), Kashmir, VS1894, KM-[x=#8212/], Herrli-06.106, nanak in center of ornate 4-flower ornament // leaf and date in center, mint formula around, little wear, choice VF, RR, ex Jess A. Yockers Collection.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T10:03:01.627Z",
+  "updatedAt": "2026-11-23T10:03:01.627Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Kashmir",
+    "mintRegion": "Jammu and Kashmir",
+    "mintCountry": "Sikh Empire",
+    "denomination": "paisa",
+    "metal": "Copper",
+    "fineness": null,
+    "weight": 9.08,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS1894. VF",
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "Herrli-06.106"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins-auction-41",
+    "eventName": "Stephen Album Rare Coins   Auction 41",
+    "auctionNumber": null,
+    "lotNumber": "2397",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "VF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 2400,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-42771283-1",
+      "url": "https://media.liveauctiongroup.net/i/51444/42771283_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    },
+    {
+      "file": "sarc-42771283-2",
+      "url": "https://media.liveauctiongroup.net/i/51444/42771283_2.jpg",
+      "role": "reverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": false
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AE-paisa-9-08g-Kashmir-VS1894-VF_i42771283"
+    }
+  ]
+}
