@@ -488,6 +488,15 @@
       "date": null,
       "country": null,
       "url": null
+    },
+    {
+      "id": "stephen-album-rare-coins--sarc-internet-auction-23",
+      "houseId": "stephen-album-rare-coins",
+      "name": "SARC   Internet Auction 23",
+      "auctionNumber": null,
+      "date": null,
+      "country": null,
+      "url": null
     }
   ],
   "rulers": [
@@ -971,7 +980,8 @@
     "4 paise",
     "DURRANI: Ahmad Shah",
     "LOT of 3 coins",
-    "45 paise"
+    "45 paise",
+    "fals (paisa)"
   ],
   "metals": [
     "Gold",

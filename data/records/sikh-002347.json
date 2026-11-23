@@ -1,0 +1,92 @@
+{
+  "id": "sikh-002347",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: AR nanakshahi rupee, Amritsar, VS[18]86, NGC UNC details",
+  "description": "SIKH EMPIRE: AR nanakshahi rupee, Amritsar, VS[18]86, KM-21.1, Herrli-01.10.04, VS1884 series; shroff marked edge (just one mark), NGC graded UNC details",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T12:12:42.123Z",
+  "updatedAt": "2026-11-23T12:12:42.123Z",
+  "coin": {
+    "ruler": null,
+    "mint": "Amritsar",
+    "mintRegion": "Punjab",
+    "mintCountry": "Sikh Empire",
+    "denomination": "rupee",
+    "metal": "Silver",
+    "fineness": null,
+    "weight": null,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": null,
+    "variety": "nanakshahi",
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-21",
+      "Herrli-01.10.04"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--sarc-internet-auction-23",
+    "eventName": "SARC   Internet Auction 23",
+    "auctionNumber": null,
+    "lotNumber": "420",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "sold"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "UNC",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": "USD",
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": 260,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-50550660-1",
+      "url": "https://media.liveauctiongroup.net/i/63240/50550660_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    },
+    {
+      "file": "sarc-50550660-2",
+      "url": "https://media.liveauctiongroup.net/i/63240/50550660_2.jpg",
+      "role": "reverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": false
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-AR-nanakshahi-rupee-Amritsar-VS-18-86-NGC-UNC-details_i50550660"
+    }
+  ]
+}
