@@ -1,0 +1,92 @@
+{
+  "id": "sikh-001074",
+  "specimenId": null,
+  "schemaVersion": 1,
+  "title": "SIKH EMPIRE: Bharpur Singh, 1847-1863, AR nazarana rupee (10.80g), Nabha, VS1907",
+  "description": "SIKH EMPIRE: Bharpur Singh, 1847-1863, AR nazarana rupee (10.80g), Nabha, VS1907, KM-1.2var, struck on broad thin flan for presentation purposes, as Herrli-15.03.04, but in the name of Ahmad Shah Durrani, with the name just nabha rather than nabha kanal as on other coins of Nabha struck from VS1893 onwards (1836), the year that the Nabha obverse regular coins switched from citing Ahmad Shah Durrani to Guru Gobindshah, EF, RRR.    Nabha changed the obverse from Ahmad Shah to Gobinshah in VS1893 (1836), which was retained on all coinage until their last issues in VS1931 (1874), with the exception of this one issue restoring the name of Ahmad Shah, as was still retained by most of the other Cis-Sutlej states, such as Patiala and Maler Kotla. The Sikh Empire was dissolved in VS1906 (1849) by the British forces, and it is conceivable that Bharpur Singh's administration felt more secure abandoning the Sikh inscription, but for reasons we have not been able to determine, restored the Sikh text later in the same year.",
+  "verification": "verified",
+  "adminNotes": null,
+  "createdAt": "2026-11-23T01:13:10.667Z",
+  "updatedAt": "2026-11-23T01:13:10.667Z",
+  "coin": {
+    "ruler": null,
+    "mint": "1847-1863",
+    "mintRegion": null,
+    "mintCountry": "Sikh Empire",
+    "denomination": "Bharpur Singh",
+    "metal": null,
+    "fineness": null,
+    "weight": null,
+    "diameter": null,
+    "dieAxis": null,
+    "year": null,
+    "yearEnd": null,
+    "yearApprox": false,
+    "dateText": "VS1907",
+    "variety": null,
+    "specialities": [],
+    "inscriptions": {
+      "obverse": null,
+      "reverse": null
+    },
+    "references": [
+      "KM-1",
+      "Herrli-15.03.04"
+    ],
+    "notes": null
+  },
+  "auction": {
+    "houseId": "stephen-album-rare-coins",
+    "houseName": "Stephen Album Rare Coins",
+    "eventId": "stephen-album-rare-coins--stephen-album-rare-coins--auction-23",
+    "eventName": "Stephen Album Rare Coins | Auction 23",
+    "auctionNumber": null,
+    "lotNumber": "1902",
+    "date": null,
+    "location": null,
+    "country": null,
+    "url": null,
+    "status": "unknown"
+  },
+  "grading": {
+    "company": "Ungraded",
+    "grade": "EF",
+    "certNumber": null,
+    "notes": null
+  },
+  "price": {
+    "currency": null,
+    "estimateLow": null,
+    "estimateHigh": null,
+    "hammer": null,
+    "buyersPremiumPercent": null,
+    "buyersPremiumAmount": null,
+    "total": null,
+    "totalIncludesPremium": null,
+    "notes": null
+  },
+  "images": [
+    {
+      "file": "sarc-23026473-1",
+      "url": "https://media.liveauctiongroup.net/i/25566/23026473_1.jpg",
+      "role": "obverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": true
+    },
+    {
+      "file": "sarc-23026473-2",
+      "url": "https://media.liveauctiongroup.net/i/25566/23026473_2.jpg",
+      "role": "reverse",
+      "caption": null,
+      "credit": "Stephen Album Rare Coins",
+      "primary": false
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original Steve Album listing",
+      "url": "https://www.sarc.auction/SIKH-EMPIRE-Bharpur-Singh-1847-1863-AR-nazarana-rupee-10-80g-Nabha-VS1907_i23026473"
+    }
+  ]
+}
