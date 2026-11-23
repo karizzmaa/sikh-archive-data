@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T23:59:42.835Z",
+  "generatedAt": "2026-11-23T00:00:59.198Z",
   "entries": [
     {
       "id": "sikh-000001",
@@ -193,6 +193,11 @@
       "id": "sikh-000005",
       "specimenId": null,
       "title": "SIKH EMPIRE: AR nanakshahi rupee (11.27g), Amritsar, VS\"1806\" (error for 1860), Herrli-07.04, choice Extremely Fine, R, ex. Eck Prud'homme collection.",
+      "description": null,
+      "weight": 11.27,
+      "references": [
+        "Herrli 07.04"
+      ],
       "ruler": "Maharaja Ranjit Singh",
       "mint": "Amritsar",
       "mintRegion": "Punjab",
@@ -205,7 +210,7 @@
       "dateText": "1806",
       "variety": "Nanakshahi Couplet",
       "specialities": [
-        "ERROR COIN"
+        "ERROR"
       ],
       "gradingCompany": "Ungraded",
       "grade": null,
@@ -232,7 +237,7 @@
       "imageCount": 2,
       "verification": "verified",
       "createdAt": "2026-11-16T12:40:57.463Z",
-      "updatedAt": "2026-11-16T12:40:57.463Z"
+      "updatedAt": "2026-11-23T00:00:58.424Z"
     },
     {
       "id": "sikh-000006",

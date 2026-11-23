@@ -6,7 +6,7 @@
   "verification": "verified",
   "adminNotes": null,
   "createdAt": "2026-11-16T12:40:57.463Z",
-  "updatedAt": "2026-11-16T12:40:57.463Z",
+  "updatedAt": "2026-11-23T00:00:58.424Z",
   "coin": {
     "ruler": "Maharaja Ranjit Singh",
     "mint": "Amritsar",
@@ -24,7 +24,7 @@
     "dateText": "1806",
     "variety": "Nanakshahi Couplet",
     "specialities": [
-      "ERROR COIN"
+      "ERROR"
     ],
     "inscriptions": {
       "obverse": null,
@@ -81,5 +81,6 @@
       "primary": false
     }
   ],
-  "sources": []
+  "sources": [],
+  "description": null
 }
